@@ -1,0 +1,17 @@
+{
+  "id": "Petroléo_-1678,63,4",
+  "name": "Petroléo",
+  "icon": "waypoint-normal.png",
+  "x": -1678,
+  "y": 63,
+  "z": 4,
+  "r": 116,
+  "g": 134,
+  "b": 41,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

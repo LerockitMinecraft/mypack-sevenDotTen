@@ -1,0 +1,17 @@
+{
+  "id": "Petrobras_-3256,64,-11",
+  "name": "Petrobras",
+  "icon": "waypoint-normal.png",
+  "x": -3256,
+  "y": 64,
+  "z": -11,
+  "r": 3,
+  "g": 189,
+  "b": 233,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

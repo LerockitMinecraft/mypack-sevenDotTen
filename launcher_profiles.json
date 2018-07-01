@@ -1,0 +1,27 @@
+{
+  "profiles": {
+    "Forge": {
+      "name": "Forge",
+      "lastVersionId": "1.7.10-Forge10.13.4.1614-1.7.10"
+    },
+    "(Default)": {
+      "name": "(Default)",
+      "lastVersionId": "1.7.10-Forge10.13.4.1614-1.7.10",
+      "javaArgs": "-Xmx4G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn512M"
+    }
+  },
+  "selectedProfile": "(Default)",
+  "clientToken": "b545c0fc-7dd8-4d60-b1e6-7532b47e3ad1",
+  "authenticationDatabase": {
+    "8bfe731c7f2e36dea4aa90a27587c85f": {
+      "displayName": "Lercokit",
+      "userid": "Lercokit",
+      "uuid": "8bfe731c-7f2e-36de-a4aa-90a27587c85f",
+      "username": "Lercokit"
+    }
+  },
+  "launcherVersion": {
+    "name": "Shiginima Launcher v3.100",
+    "format": 18
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Descida_-176,65,448",
+  "name": "Descida",
+  "icon": "waypoint-normal.png",
+  "x": -176,
+  "y": 65,
+  "z": 448,
+  "r": 190,
+  "g": 46,
+  "b": 56,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

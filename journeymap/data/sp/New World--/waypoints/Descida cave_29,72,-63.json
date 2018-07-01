@@ -1,0 +1,17 @@
+{
+  "id": "Descida cave_29,72,-63",
+  "name": "Descida cave",
+  "icon": "waypoint-normal.png",
+  "x": 29,
+  "y": 72,
+  "z": -63,
+  "r": 245,
+  "g": 197,
+  "b": 239,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

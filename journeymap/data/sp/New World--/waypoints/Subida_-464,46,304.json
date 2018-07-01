@@ -1,0 +1,17 @@
+{
+  "id": "Subida_-464,46,304",
+  "name": "Subida",
+  "icon": "waypoint-normal.png",
+  "x": -464,
+  "y": 46,
+  "z": 304,
+  "r": 187,
+  "g": 115,
+  "b": 165,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Subida da cave_29,14,-2",
+  "name": "Subida da cave",
+  "icon": "waypoint-normal.png",
+  "x": 29,
+  "y": 14,
+  "z": -2,
+  "r": 98,
+  "g": 134,
+  "b": 116,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

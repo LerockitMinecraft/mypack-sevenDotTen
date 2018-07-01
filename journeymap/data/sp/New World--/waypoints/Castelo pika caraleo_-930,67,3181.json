@@ -1,0 +1,17 @@
+{
+  "id": "Castelo pika caraleo_-930,67,3181",
+  "name": "Castelo pika caraleo",
+  "icon": "waypoint-normal.png",
+  "x": -930,
+  "y": 67,
+  "z": 3181,
+  "r": 50,
+  "g": 9,
+  "b": 189,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

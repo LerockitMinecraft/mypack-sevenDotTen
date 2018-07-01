@@ -1,0 +1,17 @@
+{
+  "id": "Pump_16,33,240",
+  "name": "Pump",
+  "icon": "waypoint-normal.png",
+  "x": 16,
+  "y": 33,
+  "z": 240,
+  "r": 197,
+  "g": 146,
+  "b": 156,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}
