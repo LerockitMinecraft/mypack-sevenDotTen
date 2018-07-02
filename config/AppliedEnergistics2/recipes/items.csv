@@ -2436,7 +2436,7 @@ enhancedportals:dbs_empty, Dimensional Bridge Stabilizer (Empty)
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Enrichment Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Ender Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -2825,10 +2825,10 @@ factorization:FzBlock:32, factorization.factoryBlock.SOCKET_EMPTY.name
 factorization:FzBlock:27, factorization.factoryBlock.SERVORAIL.name
 factorization:FzBlock:6, factorization.factoryBlock.LAMP.name
 factorization:FzBlock:29, factorization.factoryBlock.COMPRESSIONCRAFTER.name
-factorization:FzBlock:2750, factorization.factoryBlock.DAYBARREL.format.name
-factorization:FzBlock:2751, factorization.factoryBlock.DAYBARREL.format2.name
-factorization:FzBlock:2752, factorization.factoryBlock.DAYBARREL.format2.name
-factorization:FzBlock:2754, factorization.factoryBlock.DAYBARREL.format2.name
+factorization:FzBlock:2730, factorization.factoryBlock.DAYBARREL.format.name
+factorization:FzBlock:2731, factorization.factoryBlock.DAYBARREL.format2.name
+factorization:FzBlock:2732, factorization.factoryBlock.DAYBARREL.format2.name
+factorization:FzBlock:2734, factorization.factoryBlock.DAYBARREL.format2.name
 factorization:FzBlock:1125, factorization.factoryBlock.DAYBARREL.format2.name
 factorization:Lightair, tile.lightair.name
 factorization:ResourceBlock:0, tile.factorization.ResourceBlock.SILVERORE.name
@@ -4245,38 +4245,38 @@ TConstruct:Redstone.Landmine:1, Landmine
 TConstruct:Redstone.Landmine:2, Landmine
 TConstruct:Redstone.Landmine:3, Landmine
 TConstruct:Armor.DryingRack, Drying Rack
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
 ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
 ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:platform, Ethereal Platform
 ThaumicTinkerer:magnet:0, Kinetic Attractor
 ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
+ThaumicTinkerer:funnel, Essentia Funnel
 ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:animationTablet, Dynamism Tablet
 ThermalDynamics:ThermalDynamics_0:0, Leadstone Fluxduct
 ThermalDynamics:ThermalDynamics_0:1, Hardened Fluxduct
 ThermalDynamics:ThermalDynamics_0:2, Redstone Energy Fluxduct
@@ -7509,6 +7509,9 @@ chocolateQuest:pathMarker,  Path Marker
 chocolateQuest:controller,  Mercenary Controller
 chocolateQuest:controllerTeam,  Point Marker
 chocolateQuest:soulBottle,  Soul in a bottle
+craftnstar:starcore, Star Core
+craftnstar:starbranch, Star Branch
+craftnstar:bottledtear, Bottled Tear
 eplus:item.tableUpgrade, Table Upgrade
 ThermalFoundation:lexicon, item.thermalfoundation.tome.name
 ThermalFoundation:bucket:0, Destabilized Redstone Bucket
@@ -7814,40 +7817,40 @@ ExtraUtilities:watering_can, Watering Can
 ExtraUtilities:scanner, Portable Scanner
 ExtraUtilities:golden_bag, Golden Bag of Holding
 ExtraUtilities:bedrockiumIngot, Bedrockium Ingot
-factorization:logic_matrix_controller, item.factorization:logic_matrix_controller.name
-factorization:motor, item.factorization:motor.name
-factorization:mirror, item.factorization:mirror.name
-factorization:sludge, item.factorization:sludge.name
-factorization:tool/charge_meter, item.factorization:tool/charge_meter.name
-factorization:socket/:34, item.factorization:socket/SOCKET_ROBOTHAND.name
-factorization:socket/:35, item.factorization:socket/SOCKET_SHIFTER.name
-factorization:servo/instruction_plate, item.factorization:servo/instruction_plate.name
-factorization:logic_matrix_identifier, item.factorization:logic_matrix_identifier.name
-factorization:servo/sprocket, item.factorization:servo/sprocket.name
-factorization:diamond_shard, item.factorization:diamond_shard.name
-factorization:charge_battery, item.factorization:charge_battery.name
-factorization:lead_ingot, item.factorization:lead_ingot.name
-factorization:sculptTool:0, item.factorization:sculptTool.name
-factorization:daybarrel, item.factorization:daybarrel.name
-factorization:tool/matrix_programmer, item.factorization:tool/matrix_programmer.name
-factorization:tool/pocket_crafting_table, item.factorization:tool/pocket_crafting_table.name
-factorization:insulated_coil, item.factorization:insulated_coil.name
-factorization:silver_ingot, item.factorization:silver_ingot.name
+factorization:diamond_cutting_head, item.factorization:diamond_cutting_head.name
 factorization:acid:0, item.factorization:acid.name
 factorization:acid:1, item.factorization:acid_regia.name
-factorization:corkscrew, item.factorization:corkscrew.name
-factorization:logic_matrix, item.factorization:logic_matrix.name
 factorization:docbook, item.factorization:docbook.name
-factorization:servo/decorator, item.factorization:servo/decorator.name
-factorization:diamond_cutting_head, item.factorization:diamond_cutting_head.name
-factorization:dark_iron_ingot, item.factorization:dark_iron_ingot.name
-factorization:ceramics/glaze_bucket, item.factorization:ceramics/glaze_bucket.name
-factorization:servo/component, item.factorization:servo/component.name
-factorization:servo/servo, item.factorization:servo/servo.name
-factorization:servo/servo_motor, item.factorization:servo/servo_motor.name
+factorization:socket/:34, item.factorization:socket/SOCKET_ROBOTHAND.name
+factorization:socket/:35, item.factorization:socket/SOCKET_SHIFTER.name
 factorization:nether_powder, item.factorization:nether_powder.name
+factorization:dark_iron_ingot, item.factorization:dark_iron_ingot.name
+factorization:lead_ingot, item.factorization:lead_ingot.name
 factorization:fan, item.factorization:fan.name
+factorization:logic_matrix_controller, item.factorization:logic_matrix_controller.name
+factorization:logic_matrix_identifier, item.factorization:logic_matrix_identifier.name
+factorization:servo/sprocket, item.factorization:servo/sprocket.name
 factorization:servo/commenter, item.factorization:servo/commenter.name
+factorization:diamond_shard, item.factorization:diamond_shard.name
+factorization:tool/pocket_crafting_table, item.factorization:tool/pocket_crafting_table.name
+factorization:silver_ingot, item.factorization:silver_ingot.name
+factorization:sludge, item.factorization:sludge.name
+factorization:servo/servo, item.factorization:servo/servo.name
+factorization:motor, item.factorization:motor.name
+factorization:ceramics/glaze_bucket, item.factorization:ceramics/glaze_bucket.name
+factorization:charge_battery, item.factorization:charge_battery.name
+factorization:tool/matrix_programmer, item.factorization:tool/matrix_programmer.name
+factorization:insulated_coil, item.factorization:insulated_coil.name
+factorization:mirror, item.factorization:mirror.name
+factorization:logic_matrix, item.factorization:logic_matrix.name
+factorization:servo/component, item.factorization:servo/component.name
+factorization:servo/instruction_plate, item.factorization:servo/instruction_plate.name
+factorization:tool/charge_meter, item.factorization:tool/charge_meter.name
+factorization:daybarrel, item.factorization:daybarrel.name
+factorization:corkscrew, item.factorization:corkscrew.name
+factorization:servo/decorator, item.factorization:servo/decorator.name
+factorization:sculptTool:0, item.factorization:sculptTool.name
+factorization:servo/servo_motor, item.factorization:servo/servo_motor.name
 FlatSigns:item.sponge.wipe, Sponge Wipe
 IC2:itemHarz, ic2.itemHarz.name
 IC2:itemRubber, ic2.itemRubber.name
@@ -12701,22 +12704,22 @@ ThermalDynamics:cover:0, Brown Stained Pane Cover
 ThermalDynamics:cover:0, Green Stained Pane Cover
 ThermalDynamics:cover:0, Red Stained Pane Cover
 ThermalDynamics:cover:0, Black Stained Pane Cover
-ThermalDynamics:cover:0, Ordo Imbued Fire Cover
-ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
-ThermalDynamics:cover:0, Ignis Imbued Fire Cover
-ThermalDynamics:cover:0, Aqua Imbued Fire Cover
-ThermalDynamics:cover:0, Aer Imbued Fire Cover
 ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
+ThermalDynamics:cover:0, Aqua Imbued Fire Cover
+ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
+ThermalDynamics:cover:0, Ordo Imbued Fire Cover
 ThermalDynamics:cover:0, tile.gaseousLight.name Cover
 ThermalDynamics:cover:0, tile.nitorGas.name Cover
-ThermalDynamics:cover:0, Terra Imbued Fire Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Smokey Quartz Slab Cover
 ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
+ThermalDynamics:cover:0, Terra Imbued Fire Cover
+ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Aer Imbued Fire Cover
 ThermalDynamics:cover:0, Stalactite Cover
 ThermalDynamics:cover:0, Stalactite Cover
 ThermalDynamics:cover:0, Stalactite Cover

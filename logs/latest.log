@@ -1,31 +1,96 @@
-[15:14:27] [main/INFO]: Setting user: Lercokit
-[15:14:28] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:14:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:StartingInventory, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Backpack, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chocolate Quest, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:Damage Indicators, FMLFileResourcePack:Doomlike Dungeons, FMLFileResourcePack:Dungeon Pack, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:EnhancedPortals, FMLFileResourcePack:Equivalent Exchange 3, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Factorization Miscellaneous Nonsense, FMLFileResourcePack:Factorization Notification System, FMLFileResourcePack:Factorization, FMLFileResourcePack:Flat Signs, FMLFileResourcePack:FloatingRuins, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Goblins! Mod, FMLFileResourcePack:GraviGun, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Invasion, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Logistics Pipes, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MekanismTools, FMLFileResourcePack:MineChess, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Numina, FMLFileResourcePack:ObsidiPlates, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:PortalGun, FMLFileResourcePack:Power Converters 3, FMLFileResourcePack:Recurrent Complex, FMLFileResourcePack:Roguelike Dungeons, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Utility Mobs, FMLFileResourcePack:vending, FMLFileResourcePack:Wild Caves 3, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin
-[15:15:00] [Sound Library Loader/INFO]: Sound engine started
-[15:15:00] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[15:15:01] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[15:15:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:StartingInventory, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Backpack, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chocolate Quest, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:Damage Indicators, FMLFileResourcePack:Doomlike Dungeons, FMLFileResourcePack:Dungeon Pack, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:EnhancedPortals, FMLFileResourcePack:Equivalent Exchange 3, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Factorization Miscellaneous Nonsense, FMLFileResourcePack:Factorization Notification System, FMLFileResourcePack:Factorization, FMLFileResourcePack:Flat Signs, FMLFileResourcePack:FloatingRuins, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Goblins! Mod, FMLFileResourcePack:GraviGun, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Invasion, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Logistics Pipes, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MekanismTools, FMLFileResourcePack:MineChess, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Numina, FMLFileResourcePack:ObsidiPlates, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:PortalGun, FMLFileResourcePack:Power Converters 3, FMLFileResourcePack:Recurrent Complex, FMLFileResourcePack:Roguelike Dungeons, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Utility Mobs, FMLFileResourcePack:vending, FMLFileResourcePack:Wild Caves 3, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, PortalGunSounds.pak, XU_Delegate_Pack, XU_Delegate_Pack, XU_Delegate_Pack
-[15:15:23] [Client thread/INFO]: Created: 2048x2048 textures/blocks-atlas
-[15:15:26] [Client thread/INFO]: Created: 2048x2048 textures/items-atlas
-[15:15:27] [Sound Library Loader/INFO]: Sound engine started
-[15:15:47] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[15:15:47] [Server thread/INFO]: Generating keypair
-[15:16:00] [Server thread/INFO]: Preparing start region for level 0
-[15:16:02] [Server thread/INFO]: Changing view distance to 8, from 10
-[15:16:03] [Server thread/INFO]: Lercokit[local:E:d7b8e342] logged in with entity id 6004 at (-85.72438425464091, 63.0, 530.7088333670958)
-[15:16:03] [Server thread/INFO]: Lercokit joined the game
-[15:16:06] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
-[15:16:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3826ms behind, skipping 76 tick(s)
-[15:16:11] [Client thread/INFO]: [CHAT] Damage Indicators was unable to check for updates!
-[15:16:12] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
-[15:16:26] [Server thread/INFO]: Saving and pausing game...
-[15:16:26] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
-[15:16:26] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
-[15:16:26] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
-[15:16:27] [Server thread/INFO]: Stopping server
-[15:16:27] [Server thread/INFO]: Saving players
-[15:16:27] [Server thread/INFO]: Saving worlds
-[15:16:27] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
-[15:16:27] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
-[15:16:27] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
-[15:16:31] [Client thread/INFO]: Stopping!
+[18:26:56] [main/INFO]: Setting user: Lercokit
+[18:26:57] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:27:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:StartingInventory, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Backpack, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chocolate Quest, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Craftable Nether Star +, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:Damage Indicators, FMLFileResourcePack:Doomlike Dungeons, FMLFileResourcePack:Dungeon Pack, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:EnhancedPortals, FMLFileResourcePack:Equivalent Exchange 3, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Factorization Miscellaneous Nonsense, FMLFileResourcePack:Factorization Notification System, FMLFileResourcePack:Factorization, FMLFileResourcePack:Flat Signs, FMLFileResourcePack:FloatingRuins, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Goblins! Mod, FMLFileResourcePack:GraviGun, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Invasion, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Logistics Pipes, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MekanismTools, FMLFileResourcePack:MineChess, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Numina, FMLFileResourcePack:ObsidiPlates, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:PortalGun, FMLFileResourcePack:Power Converters 3, FMLFileResourcePack:Recurrent Complex, FMLFileResourcePack:Roguelike Dungeons, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Utility Mobs, FMLFileResourcePack:vending, FMLFileResourcePack:Wild Caves 3, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin
+[18:27:28] [Sound Library Loader/INFO]: Sound engine started
+[18:27:29] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[18:27:29] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[18:27:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:StartingInventory, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Backpack, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chocolate Quest, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Craftable Nether Star +, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:Damage Indicators, FMLFileResourcePack:Doomlike Dungeons, FMLFileResourcePack:Dungeon Pack, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:EnhancedPortals, FMLFileResourcePack:Equivalent Exchange 3, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Factorization Miscellaneous Nonsense, FMLFileResourcePack:Factorization Notification System, FMLFileResourcePack:Factorization, FMLFileResourcePack:Flat Signs, FMLFileResourcePack:FloatingRuins, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Goblins! Mod, FMLFileResourcePack:GraviGun, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Invasion, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Logistics Pipes, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MekanismTools, FMLFileResourcePack:MineChess, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Numina, FMLFileResourcePack:ObsidiPlates, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:PortalGun, FMLFileResourcePack:Power Converters 3, FMLFileResourcePack:Recurrent Complex, FMLFileResourcePack:Roguelike Dungeons, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Utility Mobs, FMLFileResourcePack:vending, FMLFileResourcePack:Wild Caves 3, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, PortalGunSounds.pak, XU_Delegate_Pack, XU_Delegate_Pack, XU_Delegate_Pack
+[18:27:52] [Client thread/INFO]: Created: 2048x2048 textures/blocks-atlas
+[18:27:55] [Client thread/INFO]: Created: 2048x2048 textures/items-atlas
+[18:27:56] [Sound Library Loader/INFO]: Sound engine started
+[18:28:09] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[18:28:09] [Server thread/INFO]: Generating keypair
+[18:28:22] [Server thread/INFO]: Preparing start region for level 0
+[18:28:25] [Server thread/INFO]: Changing view distance to 8, from 10
+[18:28:26] [Server thread/INFO]: Lercokit[local:E:76f50cd2] logged in with entity id 6012 at (-83.10258320380332, 63.0, 531.328461917919)
+[18:28:26] [Server thread/INFO]: Lercokit joined the game
+[18:28:28] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[18:28:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3732ms behind, skipping 74 tick(s)
+[18:28:33] [Client thread/INFO]: [CHAT] Damage Indicators was unable to check for updates!
+[18:28:34] [Server thread/INFO]: Saving and pausing game...
+[18:28:34] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[18:28:34] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[18:28:34] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The End
+[18:28:34] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Twilight Forest
+[18:28:34] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Bedrock
+[18:28:34] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Outer Lands
+[18:28:34] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Underdark
+[18:28:34] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[18:28:42] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[19:10:50] [Server thread/INFO]: Saving and pausing game...
+[19:10:50] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[19:10:50] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[19:10:50] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[19:11:21] [Server thread/INFO]: Saving and pausing game...
+[19:11:21] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[19:11:21] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[19:11:21] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[19:13:18] [Server thread/INFO]: Saving and pausing game...
+[19:13:18] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[19:13:18] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[19:13:18] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[19:13:33] [Server thread/INFO]: Saving and pausing game...
+[19:13:33] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[19:13:33] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[19:13:33] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[19:14:42] [Server thread/INFO]: Saving and pausing game...
+[19:14:42] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[19:14:42] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[19:14:42] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[19:15:33] [Server thread/INFO]: Saving and pausing game...
+[19:15:33] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[19:15:33] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[19:15:33] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[19:17:39] [Server thread/INFO]: Saving and pausing game...
+[19:17:39] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[19:17:40] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[19:17:40] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[19:18:05] [Server thread/INFO]: Saving and pausing game...
+[19:18:05] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[19:18:05] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[19:18:05] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[19:18:49] [Server thread/INFO]: Saving and pausing game...
+[19:18:49] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[19:18:49] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[19:18:49] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[19:20:22] [Server thread/INFO]: Saving and pausing game...
+[19:20:22] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[19:20:22] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[19:20:22] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[19:20:32] [Server thread/INFO]: Saving and pausing game...
+[19:20:32] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[19:20:32] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[19:20:32] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[19:27:00] [Server thread/INFO]: Saving and pausing game...
+[19:27:00] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[19:27:00] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[19:27:00] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[20:01:50] [Server thread/INFO]: Saving and pausing game...
+[20:01:50] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[20:01:50] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[20:01:50] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[20:02:26] [Server thread/INFO]: Saving and pausing game...
+[20:02:26] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[20:02:26] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[20:02:26] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[20:07:43] [Server thread/INFO]: Saving and pausing game...
+[20:07:43] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[20:07:43] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[20:07:43] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[20:07:44] [Server thread/INFO]: Stopping server
+[20:07:44] [Server thread/INFO]: Saving players
+[20:07:44] [Server thread/INFO]: Saving worlds
+[20:07:44] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[20:07:44] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[20:07:44] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[20:07:48] [Client thread/INFO]: Stopping!
