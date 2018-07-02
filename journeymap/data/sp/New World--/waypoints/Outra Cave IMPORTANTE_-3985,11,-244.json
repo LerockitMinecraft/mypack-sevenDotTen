@@ -1,0 +1,17 @@
+{
+  "id": "Outra Cave IMPORTANTE_-3985,11,-244",
+  "name": "Outra Cave IMPORTANTE",
+  "icon": "waypoint-normal.png",
+  "x": -3985,
+  "y": 11,
+  "z": -244,
+  "r": 54,
+  "g": 232,
+  "b": 73,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
