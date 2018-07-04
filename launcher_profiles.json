@@ -1,18 +1,24 @@
 {
   "profiles": {
+    "Lerockit": {
+      "name": "Lerockit",
+      "lastVersionId": "1.7.10-Forge10.13.4.1614-1.7.10",
+      "javaArgs": "-Xmx4G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn512M"
+    },
     "Forge": {
       "name": "Forge",
       "lastVersionId": "1.7.10-Forge10.13.4.1614-1.7.10"
-    },
-    "(Default)": {
-      "name": "(Default)",
-      "lastVersionId": "1.7.10-Forge10.13.4.1614-1.7.10",
-      "javaArgs": "-Xmx4G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn512M"
     }
   },
-  "selectedProfile": "(Default)",
+  "selectedProfile": "Lerockit",
   "clientToken": "b545c0fc-7dd8-4d60-b1e6-7532b47e3ad1",
   "authenticationDatabase": {
+    "d83954d17e9e39b5a49f732d7befc5fe": {
+      "displayName": "Lerockit",
+      "userid": "Lerockit",
+      "uuid": "d83954d1-7e9e-39b5-a49f-732d7befc5fe",
+      "username": "Lerockit"
+    },
     "8bfe731c7f2e36dea4aa90a27587c85f": {
       "displayName": "Lercokit",
       "userid": "Lercokit",
@@ -20,6 +26,7 @@
       "username": "Lercokit"
     }
   },
+  "selectedUser": "d83954d17e9e39b5a49f732d7befc5fe",
   "launcherVersion": {
     "name": "Shiginima Launcher v3.100",
     "format": 18

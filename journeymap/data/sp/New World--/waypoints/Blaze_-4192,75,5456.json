@@ -1,0 +1,17 @@
+{
+  "id": "Blaze_-4192,75,5456",
+  "name": "Blaze",
+  "icon": "waypoint-normal.png",
+  "x": -4192,
+  "y": 75,
+  "z": 5456,
+  "r": 223,
+  "g": 19,
+  "b": 64,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}
