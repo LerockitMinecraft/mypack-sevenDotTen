@@ -1,0 +1,17 @@
+{
+  "id": "Subida cave_29,13,-1",
+  "name": "Subida cave",
+  "icon": "waypoint-normal.png",
+  "x": 29,
+  "y": 13,
+  "z": -1,
+  "r": 100,
+  "g": 8,
+  "b": 40,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

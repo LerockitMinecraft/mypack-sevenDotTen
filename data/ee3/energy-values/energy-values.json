@@ -348,7 +348,7 @@
     "itemstack": {
       "name": "minecraft:planks"
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
@@ -703,7 +703,7 @@
     "itemstack": {
       "name": "minecraft:oak_stairs"
     },
-    "energyValue": 2.25
+    "energyValue": 4.5
   },
   {
     "itemstack": {
@@ -1572,313 +1572,33 @@
   },
   {
     "itemstack": {
-      "name": "BiblioCraft:tile.BiblioFramedChest"
+      "name": "BuildCraft|Core:markerBlock"
     },
-    "energyValue": 44.0
+    "energyValue": 900.0
   },
   {
     "itemstack": {
-      "name": "BiblioCraft:BiblioPaneler",
-      "metaValue": 6
+      "name": "BuildCraft|Core:pathMarkerBlock"
     },
-    "energyValue": 530.0
+    "energyValue": 52.0
   },
   {
     "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter"
+      "name": "BuildCraft|Transport:filteredBufferBlock"
     },
-    "energyValue": 5942.0
+    "energyValue": 2476.124
   },
   {
     "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter",
-      "metaValue": 1
+      "name": "BuildCraft|Factory:blockHopper"
     },
-    "energyValue": 5942.0
+    "energyValue": 595.999
   },
   {
     "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter",
-      "metaValue": 2
+      "name": "BuildCraft|Silicon:laserBlock"
     },
-    "energyValue": 5942.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter",
-      "metaValue": 3
-    },
-    "energyValue": 5942.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter",
-      "metaValue": 4
-    },
-    "energyValue": 5942.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter",
-      "metaValue": 5
-    },
-    "energyValue": 5942.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter",
-      "metaValue": 6
-    },
-    "energyValue": 5942.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter",
-      "metaValue": 7
-    },
-    "energyValue": 5942.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter",
-      "metaValue": 8
-    },
-    "energyValue": 5942.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter",
-      "metaValue": 9
-    },
-    "energyValue": 5942.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter",
-      "metaValue": 10
-    },
-    "energyValue": 5942.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter",
-      "metaValue": 11
-    },
-    "energyValue": 5942.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter",
-      "metaValue": 12
-    },
-    "energyValue": 5942.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter",
-      "metaValue": 13
-    },
-    "energyValue": 5942.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter",
-      "metaValue": 14
-    },
-    "energyValue": 5942.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioTypewriter",
-      "metaValue": 15
-    },
-    "energyValue": 5942.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioClock",
-      "metaValue": 6
-    },
-    "energyValue": 10288.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioFlatPainting",
-      "metaValue": 6
-    },
-    "energyValue": 42.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSimplePainting",
-      "metaValue": 6
-    },
-    "energyValue": 50.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioMiddlePainting",
-      "metaValue": 6
-    },
-    "energyValue": 54.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioFancyPainting",
-      "metaValue": 6
-    },
-    "energyValue": 58.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioBorderlessPainting",
-      "metaValue": 6
-    },
-    "energyValue": 26.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioPaintPress"
-    },
-    "energyValue": 8272.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal"
-    },
-    "energyValue": 49.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal",
-      "metaValue": 1
-    },
-    "energyValue": 51.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal",
-      "metaValue": 2
-    },
-    "energyValue": 51.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal",
-      "metaValue": 3
-    },
-    "energyValue": 51.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal",
-      "metaValue": 4
-    },
-    "energyValue": 51.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal",
-      "metaValue": 5
-    },
-    "energyValue": 51.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal",
-      "metaValue": 6
-    },
-    "energyValue": 51.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal",
-      "metaValue": 7
-    },
-    "energyValue": 51.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal",
-      "metaValue": 8
-    },
-    "energyValue": 51.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal",
-      "metaValue": 9
-    },
-    "energyValue": 51.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal",
-      "metaValue": 10
-    },
-    "energyValue": 51.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal",
-      "metaValue": 11
-    },
-    "energyValue": 51.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal",
-      "metaValue": 12
-    },
-    "energyValue": 51.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal",
-      "metaValue": 13
-    },
-    "energyValue": 51.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal",
-      "metaValue": 14
-    },
-    "energyValue": 51.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSwordPedestal",
-      "metaValue": 15
-    },
-    "energyValue": 51.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioFancySign",
-      "metaValue": 6
-    },
-    "energyValue": 61.333
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioWorkbench",
-      "metaValue": 6
-    },
-    "energyValue": 136.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioBell"
-    },
-    "energyValue": 801.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:Bibliotheca",
-      "metaValue": 6
-    },
-    "energyValue": 30.0
+    "energyValue": 16672.0
   },
   {
     "itemstack": {
@@ -2728,14 +2448,14 @@
       "name": "minecraft:potion",
       "metaValue": 8197
     },
-    "energyValue": 66.852
+    "energyValue": 121.671
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8198
     },
-    "energyValue": 153.799
+    "energyValue": 200.189
   },
   {
     "itemstack": {
@@ -2763,21 +2483,21 @@
       "name": "minecraft:potion",
       "metaValue": 8204
     },
-    "energyValue": 45.56
+    "energyValue": 46.132
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8206
     },
-    "energyValue": 109.933
+    "energyValue": 125.396
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8225
     },
-    "energyValue": 153.384
+    "energyValue": 196.453
   },
   {
     "itemstack": {
@@ -2791,14 +2511,14 @@
       "name": "minecraft:potion",
       "metaValue": 8228
     },
-    "energyValue": 134.904
+    "energyValue": 138.044
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8229
     },
-    "energyValue": 150.284
+    "energyValue": 168.557
   },
   {
     "itemstack": {
@@ -2812,14 +2532,14 @@
       "name": "minecraft:potion",
       "metaValue": 8236
     },
-    "energyValue": 103.635
+    "energyValue": 104.681
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8257
     },
-    "energyValue": 61.795
+    "energyValue": 76.151
   },
   {
     "itemstack": {
@@ -2840,14 +2560,14 @@
       "name": "minecraft:potion",
       "metaValue": 8260
     },
-    "energyValue": 17.57
+    "energyValue": 20.711
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8262
     },
-    "energyValue": 61.933
+    "energyValue": 77.396
   },
   {
     "itemstack": {
@@ -2875,7 +2595,7 @@
       "name": "minecraft:potion",
       "metaValue": 8270
     },
-    "energyValue": 47.311
+    "energyValue": 52.465
   },
   {
     "itemstack": {
@@ -2910,14 +2630,14 @@
       "name": "minecraft:potion",
       "metaValue": 16389
     },
-    "energyValue": 50.729
+    "energyValue": 69.001
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16390
     },
-    "energyValue": 115.266
+    "energyValue": 130.73
   },
   {
     "itemstack": {
@@ -2945,21 +2665,21 @@
       "name": "minecraft:potion",
       "metaValue": 16396
     },
-    "energyValue": 42.446
+    "energyValue": 42.636
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16398
     },
-    "energyValue": 97.089
+    "energyValue": 102.243
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16417
     },
-    "energyValue": 115.128
+    "energyValue": 129.484
   },
   {
     "itemstack": {
@@ -2973,14 +2693,14 @@
       "name": "minecraft:potion",
       "metaValue": 16420
     },
-    "energyValue": 108.968
+    "energyValue": 110.015
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16421
     },
-    "energyValue": 114.095
+    "energyValue": 120.186
   },
   {
     "itemstack": {
@@ -2994,7 +2714,7 @@
       "name": "minecraft:potion",
       "metaValue": 16428
     },
-    "energyValue": 94.989
+    "energyValue": 95.338
   },
   {
     "itemstack": {
@@ -3008,7 +2728,7 @@
       "name": "minecraft:potion",
       "metaValue": 16449
     },
-    "energyValue": 49.043
+    "energyValue": 53.828
   },
   {
     "itemstack": {
@@ -3029,14 +2749,14 @@
       "name": "minecraft:potion",
       "metaValue": 16452
     },
-    "energyValue": 17.182
+    "energyValue": 19.545
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16454
     },
-    "energyValue": 49.089
+    "energyValue": 54.243
   },
   {
     "itemstack": {
@@ -3064,7 +2784,7 @@
       "name": "minecraft:potion",
       "metaValue": 16462
     },
-    "energyValue": 43.03
+    "energyValue": 44.748
   },
   {
     "itemstack": {
@@ -3306,61 +3026,6 @@
   },
   {
     "itemstack": {
-      "name": "BiblioCraft:BiblioPotionShelf",
-      "metaValue": 6
-    },
-    "energyValue": 21.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioShelf",
-      "metaValue": 6
-    },
-    "energyValue": 16.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioRack",
-      "metaValue": 6
-    },
-    "energyValue": 272.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioCase",
-      "metaValue": 6
-    },
-    "energyValue": 63.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLabel",
-      "metaValue": 6
-    },
-    "energyValue": 12.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioDesk",
-      "metaValue": 6
-    },
-    "energyValue": 71.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioTable",
-      "metaValue": 6
-    },
-    "energyValue": 14.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:Armor Stand"
-    },
-    "energyValue": 513.5
-  },
-  {
-    "itemstack": {
       "name": "minecraft:lead"
     },
     "energyValue": 36.0
@@ -3370,632 +3035,6 @@
       "name": "minecraft:name_tag"
     },
     "energyValue": 92.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:Typesetting Machine"
-    },
-    "energyValue": 844.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:Printing Press"
-    },
-    "energyValue": 9480.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern"
-    },
-    "energyValue": 4874.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern",
-      "metaValue": 1
-    },
-    "energyValue": 4890.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern",
-      "metaValue": 2
-    },
-    "energyValue": 4890.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern",
-      "metaValue": 3
-    },
-    "energyValue": 4890.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern",
-      "metaValue": 4
-    },
-    "energyValue": 4890.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern",
-      "metaValue": 5
-    },
-    "energyValue": 4890.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern",
-      "metaValue": 6
-    },
-    "energyValue": 4890.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern",
-      "metaValue": 7
-    },
-    "energyValue": 4890.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern",
-      "metaValue": 8
-    },
-    "energyValue": 4890.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern",
-      "metaValue": 9
-    },
-    "energyValue": 4890.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern",
-      "metaValue": 10
-    },
-    "energyValue": 4890.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern",
-      "metaValue": 11
-    },
-    "energyValue": 4890.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern",
-      "metaValue": 12
-    },
-    "energyValue": 4890.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern",
-      "metaValue": 13
-    },
-    "energyValue": 4890.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern",
-      "metaValue": 14
-    },
-    "energyValue": 4890.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLantern",
-      "metaValue": 15
-    },
-    "energyValue": 4890.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern"
-    },
-    "energyValue": 1290.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern",
-      "metaValue": 1
-    },
-    "energyValue": 1306.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern",
-      "metaValue": 2
-    },
-    "energyValue": 1306.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern",
-      "metaValue": 3
-    },
-    "energyValue": 1306.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern",
-      "metaValue": 4
-    },
-    "energyValue": 1306.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern",
-      "metaValue": 5
-    },
-    "energyValue": 1306.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern",
-      "metaValue": 6
-    },
-    "energyValue": 1306.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern",
-      "metaValue": 7
-    },
-    "energyValue": 1306.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern",
-      "metaValue": 8
-    },
-    "energyValue": 1306.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern",
-      "metaValue": 9
-    },
-    "energyValue": 1306.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern",
-      "metaValue": 10
-    },
-    "energyValue": 1306.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern",
-      "metaValue": 11
-    },
-    "energyValue": 1306.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern",
-      "metaValue": 12
-    },
-    "energyValue": 1306.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern",
-      "metaValue": 13
-    },
-    "energyValue": 1306.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern",
-      "metaValue": 14
-    },
-    "energyValue": 1306.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLantern",
-      "metaValue": 15
-    },
-    "energyValue": 1306.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp"
-    },
-    "energyValue": 6089.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp",
-      "metaValue": 1
-    },
-    "energyValue": 6105.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp",
-      "metaValue": 2
-    },
-    "energyValue": 6105.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp",
-      "metaValue": 3
-    },
-    "energyValue": 6105.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp",
-      "metaValue": 4
-    },
-    "energyValue": 6105.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp",
-      "metaValue": 5
-    },
-    "energyValue": 6105.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp",
-      "metaValue": 6
-    },
-    "energyValue": 6105.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp",
-      "metaValue": 7
-    },
-    "energyValue": 6105.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp",
-      "metaValue": 8
-    },
-    "energyValue": 6105.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp",
-      "metaValue": 9
-    },
-    "energyValue": 6105.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp",
-      "metaValue": 10
-    },
-    "energyValue": 6105.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp",
-      "metaValue": 11
-    },
-    "energyValue": 6105.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp",
-      "metaValue": 12
-    },
-    "energyValue": 6105.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp",
-      "metaValue": 13
-    },
-    "energyValue": 6105.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp",
-      "metaValue": 14
-    },
-    "energyValue": 6105.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioLamp",
-      "metaValue": 15
-    },
-    "energyValue": 6105.112
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp"
-    },
-    "energyValue": 2562.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp",
-      "metaValue": 1
-    },
-    "energyValue": 2578.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp",
-      "metaValue": 2
-    },
-    "energyValue": 2578.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp",
-      "metaValue": 3
-    },
-    "energyValue": 2578.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp",
-      "metaValue": 4
-    },
-    "energyValue": 2578.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp",
-      "metaValue": 5
-    },
-    "energyValue": 2578.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp",
-      "metaValue": 6
-    },
-    "energyValue": 2578.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp",
-      "metaValue": 7
-    },
-    "energyValue": 2578.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp",
-      "metaValue": 8
-    },
-    "energyValue": 2578.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp",
-      "metaValue": 9
-    },
-    "energyValue": 2578.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp",
-      "metaValue": 10
-    },
-    "energyValue": 2578.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp",
-      "metaValue": 11
-    },
-    "energyValue": 2578.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp",
-      "metaValue": 12
-    },
-    "energyValue": 2578.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp",
-      "metaValue": 13
-    },
-    "energyValue": 2578.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp",
-      "metaValue": 14
-    },
-    "energyValue": 2578.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioIronLamp",
-      "metaValue": 15
-    },
-    "energyValue": 2578.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioStuffs"
-    },
-    "energyValue": 297.5
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioStuffs",
-      "metaValue": 2
-    },
-    "energyValue": 768.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioStuffs",
-      "metaValue": 3
-    },
-    "energyValue": 24.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioMapFrames",
-      "metaValue": 6
-    },
-    "energyValue": 34.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:BiblioSeats",
-      "metaValue": 6
-    },
-    "energyValue": 74.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:Blazerail"
-    },
-    "energyValue": 576.25
-  },
-  {
-    "itemstack": {
-      "name": "Natura:BrailDetector"
-    },
-    "energyValue": 1541.667
-  },
-  {
-    "itemstack": {
-      "name": "Natura:BrailActivator"
-    },
-    "energyValue": 1543.333
-  },
-  {
-    "itemstack": {
-      "name": "Natura:NetherFurnace"
-    },
-    "energyValue": 8.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:NetherGlass"
-    },
-    "energyValue": 49.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:NetherHopper"
-    },
-    "energyValue": 7743.999
-  },
-  {
-    "itemstack": {
-      "name": "Natura:NetherPressurePlate"
-    },
-    "energyValue": 2.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:NetherButton"
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:NetherLever"
-    },
-    "energyValue": 5.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:GrassBlock"
-    },
-    "energyValue": 65.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:GrassBlock",
-      "metaValue": 1
-    },
-    "energyValue": 81.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:GrassBlock",
-      "metaValue": 2
-    },
-    "energyValue": 81.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:GrassSlab"
-    },
-    "energyValue": 32.5
-  },
-  {
-    "itemstack": {
-      "name": "Natura:GrassSlab",
-      "metaValue": 1
-    },
-    "energyValue": 40.5
-  },
-  {
-    "itemstack": {
-      "name": "Natura:GrassSlab",
-      "metaValue": 2
-    },
-    "energyValue": 40.5
-  },
-  {
-    "itemstack": {
-      "name": "BiomesOPlenty:driedDirt"
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "BiomesOPlenty:overgrownNetherrack"
-    },
-    "energyValue": 129.0
-  },
-  {
-    "itemstack": {
-      "name": "BuildCraft|Core:markerBlock"
-    },
-    "energyValue": 900.0
-  },
-  {
-    "itemstack": {
-      "name": "BuildCraft|Core:pathMarkerBlock"
-    },
-    "energyValue": 52.0
-  },
-  {
-    "itemstack": {
-      "name": "BuildCraft|Transport:filteredBufferBlock"
-    },
-    "energyValue": 2476.124
-  },
-  {
-    "itemstack": {
-      "name": "BuildCraft|Factory:blockHopper"
-    },
-    "energyValue": 595.999
-  },
-  {
-    "itemstack": {
-      "name": "BuildCraft|Silicon:laserBlock"
-    },
-    "energyValue": 16672.0
   },
   {
     "itemstack": {
@@ -4802,111 +3841,6 @@
   {
     "itemstack": {
       "name": "chisel:cobblestone",
-      "metaValue": 15
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "chisel:mossy_cobblestone",
-      "metaValue": 1
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "chisel:mossy_cobblestone",
-      "metaValue": 2
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "chisel:mossy_cobblestone",
-      "metaValue": 3
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "chisel:mossy_cobblestone",
-      "metaValue": 4
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "chisel:mossy_cobblestone",
-      "metaValue": 5
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "chisel:mossy_cobblestone",
-      "metaValue": 6
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "chisel:mossy_cobblestone",
-      "metaValue": 7
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "chisel:mossy_cobblestone",
-      "metaValue": 8
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "chisel:mossy_cobblestone",
-      "metaValue": 9
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "chisel:mossy_cobblestone",
-      "metaValue": 10
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "chisel:mossy_cobblestone",
-      "metaValue": 11
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "chisel:mossy_cobblestone",
-      "metaValue": 12
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "chisel:mossy_cobblestone",
-      "metaValue": 13
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "chisel:mossy_cobblestone",
-      "metaValue": 14
-    },
-    "energyValue": 1.0
-  },
-  {
-    "itemstack": {
-      "name": "chisel:mossy_cobblestone",
       "metaValue": 15
     },
     "energyValue": 1.0
@@ -10607,105 +9541,105 @@
       "name": "chisel:oak_planks",
       "metaValue": 1
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 2
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 3
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 4
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 5
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 6
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 7
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 8
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 9
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 10
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 11
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 12
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 13
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 14
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 15
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
@@ -10850,28 +9784,28 @@
       "name": "ThermalFoundation:Storage",
       "metaValue": 7
     },
-    "energyValue": 2886.75
+    "energyValue": 5764.5
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:Storage",
       "metaValue": 8
     },
-    "energyValue": 966.744
+    "energyValue": 1924.497
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:Storage",
       "metaValue": 10
     },
-    "energyValue": 277.875
+    "energyValue": 546.75
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:Storage",
       "metaValue": 11
     },
-    "energyValue": 637.875
+    "energyValue": 1266.75
   },
   {
     "itemstack": {
@@ -11323,112 +10257,112 @@
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks"
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 1
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 2
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 3
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 4
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 5
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 6
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 7
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 8
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 9
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 10
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 11
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 12
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 13
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 14
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 15
     },
-    "energyValue": 1.5
+    "energyValue": 3.0
   },
   {
     "itemstack": {
@@ -12882,13 +11816,13 @@
     "itemstack": {
       "name": "ExtraUtilities:peaceful_table_top"
     },
-    "energyValue": 33798.0
+    "energyValue": 33804.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:trading_post"
     },
-    "energyValue": 81994.5
+    "energyValue": 82005.0
   },
   {
     "itemstack": {
@@ -13006,7 +11940,7 @@
     "itemstack": {
       "name": "ExtraUtilities:spike_base_diamond"
     },
-    "energyValue": 38442.75
+    "energyValue": 38510.25
   },
   {
     "itemstack": {
@@ -13236,6 +12170,100 @@
       "metaValue": 32
     },
     "energyValue": 196.0
+  },
+  {
+    "itemstack": {
+      "name": "Natura:Blazerail"
+    },
+    "energyValue": 576.25
+  },
+  {
+    "itemstack": {
+      "name": "Natura:BrailDetector"
+    },
+    "energyValue": 1541.667
+  },
+  {
+    "itemstack": {
+      "name": "Natura:BrailActivator"
+    },
+    "energyValue": 1543.333
+  },
+  {
+    "itemstack": {
+      "name": "Natura:NetherFurnace"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "Natura:NetherGlass"
+    },
+    "energyValue": 49.0
+  },
+  {
+    "itemstack": {
+      "name": "Natura:NetherHopper"
+    },
+    "energyValue": 7743.999
+  },
+  {
+    "itemstack": {
+      "name": "Natura:NetherPressurePlate"
+    },
+    "energyValue": 2.0
+  },
+  {
+    "itemstack": {
+      "name": "Natura:NetherButton"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "Natura:NetherLever"
+    },
+    "energyValue": 5.0
+  },
+  {
+    "itemstack": {
+      "name": "Natura:GrassBlock"
+    },
+    "energyValue": 65.0
+  },
+  {
+    "itemstack": {
+      "name": "Natura:GrassBlock",
+      "metaValue": 1
+    },
+    "energyValue": 81.0
+  },
+  {
+    "itemstack": {
+      "name": "Natura:GrassBlock",
+      "metaValue": 2
+    },
+    "energyValue": 81.0
+  },
+  {
+    "itemstack": {
+      "name": "Natura:GrassSlab"
+    },
+    "energyValue": 32.5
+  },
+  {
+    "itemstack": {
+      "name": "Natura:GrassSlab",
+      "metaValue": 1
+    },
+    "energyValue": 40.5
+  },
+  {
+    "itemstack": {
+      "name": "Natura:GrassSlab",
+      "metaValue": 2
+    },
+    "energyValue": 40.5
   },
   {
     "itemstack": {
@@ -13699,232 +12727,6 @@
   },
   {
     "itemstack": {
-      "name": "RopesPlus:blockRopeCentral"
-    },
-    "energyValue": 6.0
-  },
-  {
-    "itemstack": {
-      "name": "RopesPlus:blockZiplineAnchor"
-    },
-    "energyValue": 268.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:BlockCargoManager"
-    },
-    "energyValue": 2162.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:BlockJunction"
-    },
-    "energyValue": 224.25
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:BlockAdvDetector"
-    },
-    "energyValue": 786.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:BlockCartAssembler"
-    },
-    "energyValue": 7172.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:BlockActivator"
-    },
-    "energyValue": 9698.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:BlockDistributor"
-    },
-    "energyValue": 12836.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:BlockDetector"
-    },
-    "energyValue": 6950.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:BlockDetector",
-      "metaValue": 1
-    },
-    "energyValue": 3750.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:BlockDetector",
-      "metaValue": 2
-    },
-    "energyValue": 7718.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:BlockDetector",
-      "metaValue": 3
-    },
-    "energyValue": 7086.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:BlockDetector",
-      "metaValue": 4
-    },
-    "energyValue": 4006.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade"
-    },
-    "energyValue": 18985.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 1
-    },
-    "energyValue": 126633.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 2
-    },
-    "energyValue": 41324.797
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 3
-    },
-    "energyValue": 90371.195
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 6
-    },
-    "energyValue": 17297.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 7
-    },
-    "energyValue": 14921.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 8
-    },
-    "energyValue": 19073.598
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 9
-    },
-    "energyValue": 40924.797
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 10
-    },
-    "energyValue": 18405.85
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 11
-    },
-    "energyValue": 25929.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 12
-    },
-    "energyValue": 17953.85
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 13
-    },
-    "energyValue": 24508.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 15
-    },
-    "energyValue": 31926.4
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 16
-    },
-    "energyValue": 85520.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 17
-    },
-    "energyValue": 31853.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 18
-    },
-    "energyValue": 18641.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:upgrade",
-      "metaValue": 19
-    },
-    "energyValue": 30217.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:BlockLiquidManager"
-    },
-    "energyValue": 1625.76
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:BlockMetalStorage"
-    },
-    "energyValue": 56390.402
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:BlockMetalStorage",
-      "metaValue": 1
-    },
-    "energyValue": 549734.44
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:BlockMetalStorage",
-      "metaValue": 2
-    },
-    "energyValue": 4947610.0
-  },
-  {
-    "itemstack": {
       "name": "TConstruct:MeatBlock"
     },
     "energyValue": 240.0
@@ -14258,7 +13060,7 @@
       "name": "TConstruct:ToolStationBlock",
       "metaValue": 10
     },
-    "energyValue": 7.5
+    "energyValue": 9.0
   },
   {
     "itemstack": {
@@ -14272,7 +13074,7 @@
       "name": "TConstruct:CraftingSlab",
       "metaValue": 3
     },
-    "energyValue": 7.5
+    "energyValue": 9.0
   },
   {
     "itemstack": {
@@ -14477,15 +13279,15 @@
   },
   {
     "itemstack": {
-      "name": "ThaumicTinkerer:darkQuartzStairs"
-    },
-    "energyValue": 1584.0
-  },
-  {
-    "itemstack": {
       "name": "ThaumicTinkerer:darkQuartzSlab"
     },
     "energyValue": 528.0
+  },
+  {
+    "itemstack": {
+      "name": "ThaumicTinkerer:darkQuartzStairs"
+    },
+    "energyValue": 1584.0
   },
   {
     "itemstack": {
@@ -14764,7 +13566,7 @@
       "name": "ThermalExpansion:Glass",
       "metaValue": 1
     },
-    "energyValue": 43.438
+    "energyValue": 78.375
   },
   {
     "itemstack": {
@@ -14928,7 +13730,7 @@
       "name": "vending:vendingMachine",
       "metaValue": 3
     },
-    "energyValue": 2088.0
+    "energyValue": 2091.0
   },
   {
     "itemstack": {
@@ -15039,7 +13841,7 @@
       "name": "vending:vendingMachineAdvanced",
       "metaValue": 3
     },
-    "energyValue": 2163.0
+    "energyValue": 2166.0
   },
   {
     "itemstack": {
@@ -15150,7 +13952,7 @@
       "name": "vending:vendingMachineMultiple",
       "metaValue": 3
     },
-    "energyValue": 2143.0
+    "energyValue": 2146.0
   },
   {
     "itemstack": {
@@ -15904,195 +14706,6 @@
       "name": "Backpack:tannedLeather"
     },
     "energyValue": 212.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.StockroomCatalog"
-    },
-    "energyValue": 424.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.PlumbLine"
-    },
-    "energyValue": 2120.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.FramingSaw"
-    },
-    "energyValue": 784.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.FramingBoard"
-    },
-    "energyValue": 2.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.FramingSheet"
-    },
-    "energyValue": 4.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.PaintingCanvas"
-    },
-    "energyValue": 112.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.BigBook"
-    },
-    "energyValue": 440.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.tapeMeasure"
-    },
-    "energyValue": 1124.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.tape"
-    },
-    "energyValue": 100.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.BiblioChase"
-    },
-    "energyValue": 272.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.BiblioRedBook"
-    },
-    "energyValue": 156.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.BiblioGlasses"
-    },
-    "energyValue": 288.75
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.BiblioGlasses",
-      "metaValue": 1
-    },
-    "energyValue": 304.75
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.BiblioGlasses",
-      "metaValue": 2
-    },
-    "energyValue": 910.599
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.BiblioDrill"
-    },
-    "energyValue": 1319.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.BiblioClipboard"
-    },
-    "energyValue": 176.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.seatBack4",
-      "metaValue": 6
-    },
-    "energyValue": 50.0
-  },
-  {
-    "itemstack": {
-      "name": "BiblioCraft:item.BiblioWayPointCompass"
-    },
-    "energyValue": 9248.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:waterdrop"
-    },
-    "energyValue": 8.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:wheatBag"
-    },
-    "energyValue": 144.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:potatoBag"
-    },
-    "energyValue": 216.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:carrotBag"
-    },
-    "energyValue": 216.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:wartBag"
-    },
-    "energyValue": 216.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:boneBag"
-    },
-    "energyValue": 72.0
-  },
-  {
-    "itemstack": {
-      "name": "Natura:natura.stewbowl"
-    },
-    "energyValue": 70.0
-  },
-  {
-    "itemstack": {
-      "name": "BiomesOPlenty:biomeFinder"
-    },
-    "energyValue": 32800.0
-  },
-  {
-    "itemstack": {
-      "name": "BiomesOPlenty:scytheWood"
-    },
-    "energyValue": 32.0
-  },
-  {
-    "itemstack": {
-      "name": "BiomesOPlenty:scytheStone"
-    },
-    "energyValue": 11.0
-  },
-  {
-    "itemstack": {
-      "name": "BiomesOPlenty:scytheIron"
-    },
-    "energyValue": 776.0
-  },
-  {
-    "itemstack": {
-      "name": "BiomesOPlenty:scytheGold"
-    },
-    "energyValue": 6152.0
-  },
-  {
-    "itemstack": {
-      "name": "BiomesOPlenty:scytheDiamond"
-    },
-    "energyValue": 24584.0
   },
   {
     "itemstack": {
@@ -20625,12 +19238,6 @@
   },
   {
     "itemstack": {
-      "name": "EE3:alchenomicon"
-    },
-    "energyValue": 8312.0
-  },
-  {
-    "itemstack": {
       "name": "Thaumcraft:ItemEssence"
     },
     "energyValue": 8.375
@@ -20744,6 +19351,24 @@
       "name": "chisel:smashingrock"
     },
     "energyValue": 1.312
+  },
+  {
+    "itemstack": {
+      "name": "craftnstar:starcore"
+    },
+    "energyValue": 374784.0
+  },
+  {
+    "itemstack": {
+      "name": "craftnstar:starbranch"
+    },
+    "energyValue": 44032.0
+  },
+  {
+    "itemstack": {
+      "name": "craftnstar:bottledtear"
+    },
+    "energyValue": 51.0
   },
   {
     "itemstack": {
@@ -20915,35 +19540,35 @@
       "name": "ThermalFoundation:material",
       "metaValue": 39
     },
-    "energyValue": 320.75
+    "energyValue": 640.5
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 40
     },
-    "energyValue": 107.416
+    "energyValue": 213.833
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 41
     },
-    "energyValue": 20.75
+    "energyValue": 40.5
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 42
     },
-    "energyValue": 30.875
+    "energyValue": 60.75
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 43
     },
-    "energyValue": 70.875
+    "energyValue": 140.75
   },
   {
     "itemstack": {
@@ -21006,35 +19631,35 @@
       "name": "ThermalFoundation:material",
       "metaValue": 71
     },
-    "energyValue": 160.875
+    "energyValue": 320.75
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 72
     },
-    "energyValue": 54.208
+    "energyValue": 107.416
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 73
     },
-    "energyValue": 10.875
+    "energyValue": 20.75
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 74
     },
-    "energyValue": 15.938
+    "energyValue": 30.875
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 75
     },
-    "energyValue": 35.938
+    "energyValue": 70.875
   },
   {
     "itemstack": {
@@ -21062,28 +19687,28 @@
       "name": "ThermalFoundation:material",
       "metaValue": 103
     },
-    "energyValue": 17.875
+    "energyValue": 35.639
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 104
     },
-    "energyValue": 6.023
+    "energyValue": 11.935
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 106
     },
-    "energyValue": 1.771
+    "energyValue": 3.431
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 107
     },
-    "energyValue": 3.993
+    "energyValue": 7.875
   },
   {
     "itemstack": {
@@ -21111,28 +19736,28 @@
       "name": "ThermalFoundation:material",
       "metaValue": 135
     },
-    "energyValue": 899.5
+    "energyValue": 1539.0
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 136
     },
-    "energyValue": 472.832
+    "energyValue": 685.664
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 138
     },
-    "energyValue": 319.752
+    "energyValue": 379.5
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 139
     },
-    "energyValue": 399.752
+    "energyValue": 539.5
   },
   {
     "itemstack": {
@@ -21353,157 +19978,157 @@
     "itemstack": {
       "name": "ThermalFoundation:armor.helmetElectrum"
     },
-    "energyValue": 804.375
+    "energyValue": 1603.75
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.plateElectrum"
     },
-    "energyValue": 1287.0
+    "energyValue": 2566.0
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.legsElectrum"
     },
-    "energyValue": 1126.125
+    "energyValue": 2245.25
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.bootsElectrum"
     },
-    "energyValue": 643.5
+    "energyValue": 1283.0
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.swordElectrum"
     },
-    "energyValue": 325.75
+    "energyValue": 645.5
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.shovelElectrum"
     },
-    "energyValue": 168.875
+    "energyValue": 328.75
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.pickaxeElectrum"
     },
-    "energyValue": 490.625
+    "energyValue": 970.25
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.axeElectrum"
     },
-    "energyValue": 490.625
+    "energyValue": 970.25
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.hoeElectrum"
     },
-    "energyValue": 329.75
+    "energyValue": 649.5
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.shearsElectrum"
     },
-    "energyValue": 321.75
+    "energyValue": 641.5
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.fishingRodElectrum"
     },
-    "energyValue": 349.75
+    "energyValue": 669.5
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.sickleElectrum"
     },
-    "energyValue": 486.625
+    "energyValue": 966.25
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.bowElectrum"
     },
-    "energyValue": 361.75
+    "energyValue": 681.5
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.helmetInvar"
     },
-    "energyValue": 271.04
+    "energyValue": 537.08
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.plateInvar"
     },
-    "energyValue": 433.664
+    "energyValue": 859.328
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.legsInvar"
     },
-    "energyValue": 379.456
+    "energyValue": 751.912
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.bootsInvar"
     },
-    "energyValue": 216.832
+    "energyValue": 429.664
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.swordInvar"
     },
-    "energyValue": 112.416
+    "energyValue": 218.832
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.shovelInvar"
     },
-    "energyValue": 62.208
+    "energyValue": 115.416
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.pickaxeInvar"
     },
-    "energyValue": 170.624
+    "energyValue": 330.248
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.axeInvar"
     },
-    "energyValue": 170.624
+    "energyValue": 330.248
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.hoeInvar"
     },
-    "energyValue": 116.416
+    "energyValue": 222.832
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.shearsInvar"
     },
-    "energyValue": 108.416
+    "energyValue": 214.832
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.fishingRodInvar"
     },
-    "energyValue": 136.416
+    "energyValue": 242.832
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.sickleInvar"
     },
-    "energyValue": 166.624
+    "energyValue": 326.248
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.bowInvar"
     },
-    "energyValue": 148.416
+    "energyValue": 254.832
   },
   {
     "itemstack": {
@@ -21587,7 +20212,7 @@
     "itemstack": {
       "name": "ThermalExpansion:transfuser"
     },
-    "energyValue": 1488.666
+    "energyValue": 2554.332
   },
   {
     "itemstack": {
@@ -21614,7 +20239,7 @@
       "name": "ThermalExpansion:material",
       "metaValue": 3
     },
-    "energyValue": 224.875
+    "energyValue": 384.75
   },
   {
     "itemstack": {
@@ -22012,9 +20637,23 @@
   },
   {
     "itemstack": {
-      "name": "factorization:docbook"
+      "name": "factorization:tool/pocket_crafting_table"
     },
-    "energyValue": 136.0
+    "energyValue": 36.0
+  },
+  {
+    "itemstack": {
+      "name": "factorization:ceramics/glaze_bucket",
+      "metaValue": 100,
+      "tagCompound": "{}"
+    },
+    "energyValue": 44.0
+  },
+  {
+    "itemstack": {
+      "name": "factorization:corkscrew"
+    },
+    "energyValue": 2304.0
   },
   {
     "itemstack": {
@@ -22031,29 +20670,15 @@
   },
   {
     "itemstack": {
-      "name": "factorization:tool/pocket_crafting_table"
+      "name": "factorization:docbook"
     },
-    "energyValue": 36.0
+    "energyValue": 136.0
   },
   {
     "itemstack": {
       "name": "factorization:fan"
     },
     "energyValue": 1536.0
-  },
-  {
-    "itemstack": {
-      "name": "factorization:corkscrew"
-    },
-    "energyValue": 2304.0
-  },
-  {
-    "itemstack": {
-      "name": "factorization:ceramics/glaze_bucket",
-      "metaValue": 100,
-      "tagCompound": "{}"
-    },
-    "energyValue": 44.0
   },
   {
     "itemstack": {
@@ -22100,7 +20725,49 @@
       "name": "IC2:itemIngot",
       "metaValue": 3
     },
-    "energyValue": 36.875
+    "energyValue": 72.75
+  },
+  {
+    "itemstack": {
+      "name": "Natura:waterdrop"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "Natura:wheatBag"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "Natura:potatoBag"
+    },
+    "energyValue": 216.0
+  },
+  {
+    "itemstack": {
+      "name": "Natura:carrotBag"
+    },
+    "energyValue": 216.0
+  },
+  {
+    "itemstack": {
+      "name": "Natura:wartBag"
+    },
+    "energyValue": 216.0
+  },
+  {
+    "itemstack": {
+      "name": "Natura:boneBag"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "Natura:natura.stewbowl"
+    },
+    "energyValue": 70.0
   },
   {
     "itemstack": {
@@ -22251,14 +20918,14 @@
       "name": "Mekanism:Ingot",
       "metaValue": 4
     },
-    "energyValue": 72.75
+    "energyValue": 144.5
   },
   {
     "itemstack": {
       "name": "Mekanism:OtherDust",
       "metaValue": 1
     },
-    "energyValue": 36.875
+    "energyValue": 72.75
   },
   {
     "itemstack": {
@@ -22596,963 +21263,6 @@
   },
   {
     "itemstack": {
-      "name": "RopesPlus:itemGrapplingHook"
-    },
-    "energyValue": 268.0
-  },
-  {
-    "itemstack": {
-      "name": "RopesPlus:itemHookshot"
-    },
-    "energyValue": 2126.0
-  },
-  {
-    "itemstack": {
-      "name": "RopesPlus:HookshotCartridge"
-    },
-    "energyValue": 80.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 2
-    },
-    "energyValue": 816.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 3
-    },
-    "energyValue": 816.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 4
-    },
-    "energyValue": 816.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 5
-    },
-    "energyValue": 210.625
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 6
-    },
-    "energyValue": 387.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 9
-    },
-    "energyValue": 3200.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 10
-    },
-    "energyValue": 15553.125
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 11
-    },
-    "energyValue": 768.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 12
-    },
-    "energyValue": 768.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 13
-    },
-    "energyValue": 4912.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 15
-    },
-    "energyValue": 8704.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 16
-    },
-    "energyValue": 7296.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 17
-    },
-    "energyValue": 7552.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 18
-    },
-    "energyValue": 4224.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 19
-    },
-    "energyValue": 4224.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 20
-    },
-    "energyValue": 17376.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 21
-    },
-    "energyValue": 6265.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 22
-    },
-    "energyValue": 6265.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 23
-    },
-    "energyValue": 7289.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 24
-    },
-    "energyValue": 259.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 25
-    },
-    "energyValue": 5550.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 26
-    },
-    "energyValue": 14720.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 27
-    },
-    "energyValue": 5024.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 28
-    },
-    "energyValue": 3232.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 29
-    },
-    "energyValue": 27.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 30
-    },
-    "energyValue": 3.75
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 31
-    },
-    "energyValue": 15.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 32
-    },
-    "energyValue": 33.75
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 33
-    },
-    "energyValue": 32.125
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 34
-    },
-    "energyValue": 35.75
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 35
-    },
-    "energyValue": 143.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 36
-    },
-    "energyValue": 321.75
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 37
-    },
-    "energyValue": 67.75
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 38
-    },
-    "energyValue": 303.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 39
-    },
-    "energyValue": 3742.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 40
-    },
-    "energyValue": 512.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 41
-    },
-    "energyValue": 3520.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 42
-    },
-    "energyValue": 432.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 43
-    },
-    "energyValue": 3.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 44
-    },
-    "energyValue": 1056.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 45
-    },
-    "energyValue": 11584.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 46
-    },
-    "energyValue": 61081.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 47
-    },
-    "energyValue": 61081.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 48
-    },
-    "energyValue": 549734.44
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 49
-    },
-    "energyValue": 549734.44
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 58
-    },
-    "energyValue": 7936.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 59
-    },
-    "energyValue": 10569.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 60
-    },
-    "energyValue": 140.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 61
-    },
-    "energyValue": 0.145
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 62
-    },
-    "energyValue": 0.58
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 63
-    },
-    "energyValue": 1.305
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 64
-    },
-    "energyValue": 3520.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 65
-    },
-    "energyValue": 432.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 80
-    },
-    "energyValue": 6777.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 81
-    },
-    "energyValue": 61593.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 82
-    },
-    "energyValue": 86144.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 83
-    },
-    "energyValue": 384.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:ModuleComponents",
-      "metaValue": 84
-    },
-    "energyValue": 1792.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule"
-    },
-    "energyValue": 1920.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 1
-    },
-    "energyValue": 12664.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 2
-    },
-    "energyValue": 204.625
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 3
-    },
-    "energyValue": 242.125
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 4
-    },
-    "energyValue": 107.125
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 5
-    },
-    "energyValue": 62.125
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 6
-    },
-    "energyValue": 9070.375
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 7
-    },
-    "energyValue": 1334.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 8,
-      "tagCompound": "{Data:100b}"
-    },
-    "energyValue": 25344.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 9,
-      "tagCompound": "{Data:100b}"
-    },
-    "energyValue": 1997715.2
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 10
-    },
-    "energyValue": 614.25
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 11
-    },
-    "energyValue": 2860.75
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 12
-    },
-    "energyValue": 4060.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 13
-    },
-    "energyValue": 1536.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 14,
-      "tagCompound": "{Data:100b}"
-    },
-    "energyValue": 33280.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 15,
-      "tagCompound": "{Data:100b}"
-    },
-    "energyValue": 51328.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 16
-    },
-    "energyValue": 525.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 18
-    },
-    "energyValue": 3410.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 19
-    },
-    "energyValue": 4416.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 20
-    },
-    "energyValue": 16129.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 21
-    },
-    "energyValue": 3256.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 22
-    },
-    "energyValue": 11424.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 23
-    },
-    "energyValue": 11424.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 26
-    },
-    "energyValue": 1316.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 28
-    },
-    "energyValue": 7622.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 29
-    },
-    "energyValue": 26065.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 30
-    },
-    "energyValue": 6112.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 31
-    },
-    "energyValue": 1808.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 32
-    },
-    "energyValue": 90880.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 33
-    },
-    "energyValue": 3864.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 34
-    },
-    "energyValue": 7936.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 36
-    },
-    "energyValue": 3884.323
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 39
-    },
-    "energyValue": 45907.2
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 40
-    },
-    "energyValue": 8688.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 41
-    },
-    "energyValue": 3248.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 42,
-      "tagCompound": "{Data:100b}"
-    },
-    "energyValue": 1536.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 43,
-      "tagCompound": "{Data:100b}"
-    },
-    "energyValue": 152620.8
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 44
-    },
-    "energyValue": 836.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 45
-    },
-    "energyValue": 6396.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 49
-    },
-    "energyValue": 27507.2
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 51
-    },
-    "energyValue": 3233.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 53
-    },
-    "energyValue": 3264.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 56
-    },
-    "energyValue": 31640.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 57
-    },
-    "energyValue": 3296.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 58
-    },
-    "energyValue": 3256.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 59
-    },
-    "energyValue": 6838.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 63
-    },
-    "energyValue": 141.16
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 64
-    },
-    "energyValue": 146.67
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 65
-    },
-    "energyValue": 148.12
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 66
-    },
-    "energyValue": 150.44
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 67
-    },
-    "energyValue": 142.9
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 68
-    },
-    "energyValue": 160.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 69
-    },
-    "energyValue": 780.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 70
-    },
-    "energyValue": 13955.2
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 71
-    },
-    "energyValue": 6112.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 73
-    },
-    "energyValue": 144.495
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 75
-    },
-    "energyValue": 28576.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 77
-    },
-    "energyValue": 8220.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 78
-    },
-    "energyValue": 3288.375
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 79,
-      "tagCompound": "{Data:100b}"
-    },
-    "energyValue": 49632.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 80,
-      "tagCompound": "{Data:100b}"
-    },
-    "energyValue": 321785.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 81
-    },
-    "energyValue": 477696.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 82
-    },
-    "energyValue": 85441.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 83
-    },
-    "energyValue": 92129.6
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 84,
-      "tagCompound": "{Data:100b}"
-    },
-    "energyValue": 206150.4
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 85
-    },
-    "energyValue": 10368.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 86
-    },
-    "energyValue": 9673.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 87
-    },
-    "energyValue": 3232.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 91
-    },
-    "energyValue": 3208.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 92
-    },
-    "energyValue": 25120.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 93
-    },
-    "energyValue": 25096.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 94
-    },
-    "energyValue": 7314.458
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 95
-    },
-    "energyValue": 17184.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 99
-    },
-    "energyValue": 3540.0
-  },
-  {
-    "itemstack": {
-      "name": "StevesCarts:CartModule",
-      "metaValue": 101
-    },
-    "energyValue": 6448.0
-  },
-  {
-    "itemstack": {
       "name": "TConstruct:blankPattern"
     },
     "energyValue": 6.0
@@ -23682,26 +21392,6 @@
       "tagCompound": "{TinkerAccessory:{BaseDurability:500,Built:1b,Damage:0,BonusDurability:0,TotalDurability:500,ModDurability:0.0f,Modifiers:5,Broken:0b}}"
     },
     "energyValue": 384.0
-  },
-  {
-    "itemstack": {
-      "name": "TrailMix:TrailMixMix"
-    },
-    "energyValue": 156.0
-  },
-  {
-    "itemstack": {
-      "name": "TrailMix:TMPPLauncher",
-      "metaValue": 9
-    },
-    "energyValue": 1687.0
-  },
-  {
-    "itemstack": {
-      "name": "TrailMix:NyanPigLauncher",
-      "metaValue": 9
-    },
-    "energyValue": 9927.375
   },
   {
     "itemstack": {
@@ -23853,6 +21543,54 @@
   },
   {
     "itemstack": {
+      "name": "PortalGun:PortalGunBlue"
+    },
+    "energyValue": 35200.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalGunBlue",
+      "metaValue": 1
+    },
+    "energyValue": 35204.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalGunBlue",
+      "metaValue": 2
+    },
+    "energyValue": 35204.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalGunBlue",
+      "metaValue": 3
+    },
+    "energyValue": 35224.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalGunBlue",
+      "metaValue": 4
+    },
+    "energyValue": 43803.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalGunBlue",
+      "metaValue": 5
+    },
+    "energyValue": 35200.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalGunSpawner",
+      "tagCompound": "{owner:\"def\",closeWhenNoRedstone:0b,colour:1}"
+    },
+    "energyValue": 21504.0
+  },
+  {
+    "itemstack": {
       "name": "PortalGun:EnderPearlDust"
     },
     "energyValue": 128.0
@@ -23874,6 +21612,18 @@
       "name": "PortalGun:PortalGunPedestal"
     },
     "energyValue": 864.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:LongFallBoot"
+    },
+    "energyValue": 17984.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:LongFallBoots"
+    },
+    "energyValue": 35968.0
   },
   {
     "itemstack": {

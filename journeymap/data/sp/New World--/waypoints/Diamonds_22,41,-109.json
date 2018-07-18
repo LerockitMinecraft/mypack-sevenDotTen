@@ -1,0 +1,17 @@
+{
+  "id": "Diamonds_22,41,-109",
+  "name": "Diamonds",
+  "icon": "waypoint-normal.png",
+  "x": 22,
+  "y": 41,
+  "z": -109,
+  "r": 84,
+  "g": 232,
+  "b": 229,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,45 +1,28 @@
-[00:59:19] [Server thread/INFO]: Lerockit has just earned the achievement [Benchmarking]
-[00:59:19] [Client thread/INFO]: [CHAT] Lerockit has just earned the achievement [Benchmarking]
-[01:00:42] [Server thread/INFO]: Lerockit has just earned the achievement [A lot of crafting]
-[01:00:42] [Client thread/INFO]: [CHAT] Lerockit has just earned the achievement [A lot of crafting]
-[01:10:06] [Server thread/INFO]: Saving and pausing game...
-[01:10:06] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
-[01:10:06] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
-[01:10:06] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
-[01:11:54] [Server thread/INFO]: Saving and pausing game...
-[01:11:54] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
-[01:11:54] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
-[01:11:54] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
-[01:18:04] [Client thread/INFO]: [CHAT] You may not rest now, there are monsters nearby
-[01:18:05] [Client thread/INFO]: [CHAT] You may not rest now, there are monsters nearby
-[01:18:06] [Client thread/INFO]: [CHAT] You may not rest now, there are monsters nearby
-[01:18:06] [Client thread/INFO]: [CHAT] You may not rest now, there are monsters nearby
-[01:18:06] [Client thread/INFO]: [CHAT] You may not rest now, there are monsters nearby
-[01:18:11] [Client thread/INFO]: [CHAT] You may not rest now, there are monsters nearby
-[01:18:57] [Server thread/INFO]: Saving and pausing game...
-[01:18:57] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
-[01:18:57] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
-[01:18:57] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
-[01:19:02] [Server thread/INFO]: Saving and pausing game...
-[01:19:02] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
-[01:19:02] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
-[01:19:02] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
-[01:29:33] [Server thread/INFO]: Saving and pausing game...
-[01:29:33] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
-[01:29:33] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
-[01:29:33] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
-[02:16:11] [Server thread/INFO]: Saving and pausing game...
-[02:16:11] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
-[02:16:11] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
-[02:16:11] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
-[02:16:19] [Server thread/INFO]: Saving and pausing game...
-[02:16:19] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
-[02:16:19] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
-[02:16:19] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
-[02:16:20] [Server thread/INFO]: Stopping server
-[02:16:20] [Server thread/INFO]: Saving players
-[02:16:20] [Server thread/INFO]: Saving worlds
-[02:16:20] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
-[02:16:20] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
-[02:16:20] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
-[02:16:26] [Client thread/INFO]: Stopping!
+[00:05:39] [Server thread/INFO]: Saving and pausing game...
+[00:05:39] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[00:05:39] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[00:05:39] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[00:37:06] [Server thread/INFO]: Lerockit has just earned the achievement [Learning to Tinker]
+[00:37:06] [Client thread/INFO]: [CHAT] Lerockit has just earned the achievement [Learning to Tinker]
+[00:50:49] [Server thread/INFO]: Saving and pausing game...
+[00:50:49] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[00:50:49] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[00:50:49] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[00:50:50] [Server thread/INFO]: Saving and pausing game...
+[00:50:50] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[00:50:50] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[00:50:50] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[00:50:52] [Client thread/INFO]: Started on 61960
+[00:50:52] [Client thread/INFO]: [CHAT] Local game hosted on port 61960
+[00:50:55] [Server thread/INFO]: [Lerockit: Teleported Lerockit to -3865.5,11.5,-314.5]
+[00:50:55] [Client thread/INFO]: [CHAT] Teleported Lerockit to -3865.5,11.5,-314.5
+[00:51:23] [Server thread/INFO]: Lerockit lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:51:23] [Server thread/INFO]: Lerockit left the game
+[00:51:23] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:51:23] [Server thread/INFO]: Stopping server
+[00:51:23] [Server thread/INFO]: Saving players
+[00:51:23] [Server thread/INFO]: Saving worlds
+[00:51:23] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[00:51:23] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[00:51:23] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[00:51:32] [Client thread/INFO]: Stopping!
