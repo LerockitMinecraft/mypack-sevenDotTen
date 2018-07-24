@@ -160,7 +160,7 @@ blockkeystonerecepticle|ULN
 blockseerstone|ULN
 brokenLink|ULN
 burnout|UN
-calefactor|ULN
+calefactor|UN
 casters|ULN
 celestialprism_structure|ULN
 cerublossom|ULN
@@ -214,7 +214,7 @@ nature_scythe|ULN
 obelisk|ULN
 obelisk_structure|ULN
 occulus|UN
-ores|ULN
+ores|UN
 ores@0|UN
 otherworldly_aura|ULN
 particleEmitter|UN

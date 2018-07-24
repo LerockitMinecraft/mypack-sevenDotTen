@@ -1,0 +1,17 @@
+{
+  "id": "House_-124,64,531",
+  "name": "House",
+  "icon": "waypoint-normal.png",
+  "x": -124,
+  "y": 64,
+  "z": 531,
+  "r": 75,
+  "g": 5,
+  "b": 100,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
