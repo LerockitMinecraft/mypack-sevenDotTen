@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4p1 Unlimited for 1.7.10 on Mon Jul 23 17:59:36 BRT 2018",
+  "generated": "Generated using JourneyMap 5.1.4p1 Unlimited for 1.7.10 on Tue Jul 24 23:07:42 BRT 2018",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -17625,7 +17625,7 @@ var colorpalette={
       "color": "#a579a5"
     },
     {
-      "name": "QED (Quasar Entanglement Device)",
+      "name": "QED (Quantum Entanglement Doohicky)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
@@ -24596,25 +24596,25 @@ var colorpalette={
     {
       "name": "factorization.factoryBlock.null.name",
       "uid": "factorization:FzBlock",
-      "meta": 3960,
+      "meta": 3970,
       "color": "#000000"
     },
     {
       "name": "factorization.factoryBlock.null.name",
       "uid": "factorization:FzBlock",
-      "meta": 3961,
+      "meta": 3971,
       "color": "#000000"
     },
     {
       "name": "factorization.factoryBlock.null.name",
       "uid": "factorization:FzBlock",
-      "meta": 3962,
+      "meta": 3972,
       "color": "#000000"
     },
     {
       "name": "factorization.factoryBlock.null.name",
       "uid": "factorization:FzBlock",
-      "meta": 3964,
+      "meta": 3974,
       "color": "#000000"
     },
     {
