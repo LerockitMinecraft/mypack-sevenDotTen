@@ -141,6 +141,11 @@
   },
   {
     "orestack": {
+      "name": "oreElectrotine"
+    }
+  },
+  {
+    "orestack": {
       "name": "oreEmerald"
     }
   },
@@ -381,6 +386,11 @@
   },
   {
     "orestack": {
+      "name": "orePeridot"
+    }
+  },
+  {
+    "orestack": {
       "name": "orePlatinum"
     }
   },
@@ -392,6 +402,16 @@
   {
     "orestack": {
       "name": "oreRedstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSapphire"
     }
   },
   {

@@ -79,6 +79,7 @@
 -32 79 1712 5 false
 -16 62 592 2 false
 0 88 -288 1 true
+0 62 0 6 false
 32 75 192 1 true
 32 63 400 1 true
 64 62 -480 2 false
@@ -93,6 +94,7 @@
 176 89 2064 1 false
 176 67 2416 5 false
 192 62 528 2 false
+208 70 0 1 false
 240 62 896 2 false
 256 74 256 1 true
 272 62 1888 2 false

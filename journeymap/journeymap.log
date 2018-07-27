@@ -1,12 +1,12 @@
-[12:09:51] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[12:09:51] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[12:09:52] [Client thread/INFO] [PropertiesBase] Loaded CoreProperties from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\config\5.1\journeymap.core.config
-[12:09:52] [Client thread/INFO] [PropertiesBase] Loaded FullMapProperties from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\config\5.1\journeymap.fullmap.config
-[12:09:52] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\config\5.1\journeymap.minimap.config
-[12:09:52] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties2 from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\config\5.1\journeymap.minimap2.config
-[12:09:52] [Client thread/INFO] [PropertiesBase] Loaded WebMapProperties from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\config\5.1\journeymap.webmap.config
-[12:09:52] [Client thread/INFO] [PropertiesBase] Loaded WaypointProperties from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\config\5.1\journeymap.waypoint.config
-[12:09:52] [Client thread/INFO] [?] Version: JourneyMap 5.1.4p1 Unlimited, built with Forge 10.13.4.1558
+[14:29:26] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[14:29:26] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[14:29:27] [Client thread/INFO] [PropertiesBase] Loaded CoreProperties from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\config\5.1\journeymap.core.config
+[14:29:27] [Client thread/INFO] [PropertiesBase] Loaded FullMapProperties from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\config\5.1\journeymap.fullmap.config
+[14:29:27] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\config\5.1\journeymap.minimap.config
+[14:29:27] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties2 from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\config\5.1\journeymap.minimap2.config
+[14:29:27] [Client thread/INFO] [PropertiesBase] Loaded WebMapProperties from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\config\5.1\journeymap.webmap.config
+[14:29:27] [Client thread/INFO] [PropertiesBase] Loaded WaypointProperties from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\config\5.1\journeymap.waypoint.config
+[14:29:27] [Client thread/INFO] [?] Version: JourneyMap 5.1.4p1 Unlimited, built with Forge 10.13.4.1558
 Forge: 10.13.4.1614
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_US, locale=en_us
 Unlimited Features: 
@@ -21,22 +21,22 @@ FullMapProperties{entityIconSetName=2D, showAnimals=true, showMobs=true, showPet
 WaypointProperties{autoHideLabel=true, beaconEnabled=true, boldLabel=false, createDeathpoints=true, fontScale=2, managerEnabled=true, maxDistance=0, name=waypoint, showDistance=true, showName=true, showRotatingBeam=true, showStaticBeam=true, showTexture=true, textureSmall=true}
 WebMapProperties: , enabled=false, port=8080, showMobs=true, showAnimals=true, showVillagers=true, showPets=true, showPlayers=true, showWaypoints=true, entityIconSetName=2D
 CoreProperties{announceMod=true, autoMapPoll=2000, browserPoll=2000, cacheAnimalsData=3100, cacheMobsData=3000, cachePlayerData=1000, cachePlayersData=2000, cacheVillagersData=2200, caveIgnoreGlass=true, isUpdateCheckEnabled=true, renderDelay=2, hideSneakingEntities=true, logLevel=INFO, mapAntialiasing=true, mapBathymetry=false, mapCaveLighting=true, mapCrops=true, mapPlants=false, mapPlantShadows=false, mapSurfaceAboveCaves=true, tileHighDisplayQuality=true, mapTransparency=true, maxAnimalsData=32, maxMobsData=32, maxPlayersData=32, maxVillagersData=32, optionsManagerViewed=5.1.4p1, radarLateralDistance=64, radarVerticalDistance=16, recordCacheStats=false, renderOverlayEventTypeName=ALL, renderOverlayPreEvent=true, renderDistanceCaveMin=3, renderDistanceCaveMax=3, renderDistanceSurfaceMin=4, renderDistanceSurfaceMax=7, revealShape=Circle, themeName=Victorian, tileRenderType=1}
-[12:09:52] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
-[12:10:02] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
-[12:10:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChatEventHandler registered in MinecraftForgeBus
-[12:10:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.StateTickHandler registered in FMLCommonHandlerBus
-[12:10:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WorldEventHandler registered in MinecraftForgeBus
-[12:10:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChunkUpdateHandler registered in MinecraftForgeBus
-[12:10:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WaypointBeaconHandler registered in MinecraftForgeBus
-[12:10:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.TextureAtlasHandler registered in MinecraftForgeBus
-[12:10:02] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
-[12:10:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.MiniMapOverlayHandler registered in MinecraftForgeBus
-[12:10:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.KeyEventHandler registered in FMLCommonHandlerBus
-[12:10:02] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
-[12:10:02] [Client thread/TRACE] [ThemeFileHandler] Initializing themes ...
-[12:10:02] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.webmap.config
-[12:10:03] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r628,86§8ms§r
-[12:10:03] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+[14:29:27] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[14:29:39] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
+[14:29:39] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChatEventHandler registered in MinecraftForgeBus
+[14:29:39] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.StateTickHandler registered in FMLCommonHandlerBus
+[14:29:39] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WorldEventHandler registered in MinecraftForgeBus
+[14:29:39] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChunkUpdateHandler registered in MinecraftForgeBus
+[14:29:39] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WaypointBeaconHandler registered in MinecraftForgeBus
+[14:29:39] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.TextureAtlasHandler registered in MinecraftForgeBus
+[14:29:39] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
+[14:29:39] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.MiniMapOverlayHandler registered in MinecraftForgeBus
+[14:29:39] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.KeyEventHandler registered in FMLCommonHandlerBus
+[14:29:39] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
+[14:29:39] [Client thread/TRACE] [ThemeFileHandler] Initializing themes ...
+[14:29:39] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.webmap.config
+[14:29:39] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r678,95§8ms§r
+[14:29:40] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
 	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
@@ -53,54 +53,91 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
 	... 7 more
-[12:10:22] [Client thread/INFO] [ColorManager] Loading blocks and textures...
-[12:10:22] [Client thread/INFO] [BlockMD] Built BlockMD cache (4739) : BlockMD.reset count 1 avg 72,63ms
-[12:10:22] [Client thread/INFO] [ColorHelper_1_7_10] initBlocksTexture: 2048x2048 loaded in 56.31546ms
-[12:10:22] [Client thread/INFO] [ColorPalette] Existing color palette's resource packs and mod names match current loadout.
-[12:10:22] [Client thread/INFO] [ColorManager] Loaded 4156 block colors from color palette file in 8ms: C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[12:10:22] [Client thread/INFO] [ColorManager] Initialized 54 block colors from mods and resource packs in 29ms
-[12:10:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantObsidian:0] (Transparency,Error)
-[12:10:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockAiry:0] (Transparency,Error)
-[12:10:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockWarded:0] (Transparency,Error)
-[12:10:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockEldritchNothing:0] (Transparency,Error)
-[12:10:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ForgeMultipart:block:0] (Transparency,Error)
-[12:10:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockPortalEldritch:0] (Transparency,Error)
-[12:10:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantLeaves:0] (Transparency,Error)
-[12:10:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [chisel:glass_pane:4] (OpenToSky,Transparency,Error,TransparentRoof)
-[12:10:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [factorization:Lightair:0] (HasAir,OpenToSky,NoShadow,Transparency,Error)
-[12:10:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantCobble:0] (Transparency,Error)
-[12:10:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.HugeLilyPad:0] (NoShadow,Transparency,Error,Plant,NoTopo)
-[12:10:22] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantLog:0] (Transparency,Error)
-[12:10:22] [Client thread/INFO] [ColorPalette] Color palette file generated with 4156 colors in 57ms for: C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[12:10:22] [Client thread/INFO] [ColorManager] Updated color palette file: C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[12:11:18] [Client thread/INFO] [WaypointStore] Loaded 18 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\waypoints
-[12:11:18] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[12:11:18] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0. Memory: 2682MB total, 953MB free 
-[12:11:18] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
-[12:11:39] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0
-[12:11:40] [Client thread/INFO] [WaypointStore] Loaded 18 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\waypoints
-[12:11:40] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[12:11:40] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0. Memory: 2744MB total, 1158MB free 
-[12:25:21] [File IO Thread/WARN] [StatTimer] ImageHolder.writeToDisk was slow: 5817.347415 (Warning limit reached)
-[12:25:21] [File IO Thread/WARN] [StatTimer] ImageHolder.writeToDisk: Avg:   491,89ms, Min:    11,06ms, Max:    5978,76ms, Total:         36 sec, Count:       75, Canceled:        0, Slow:       10
-[13:17:14] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
-[13:17:15] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
-[13:37:09] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0
-[13:37:40] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\waypoints
-[13:37:40] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[13:37:40] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\DIM0. Memory: 3273MB total, 1574MB free 
-[13:37:40] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\DIM0
-[13:37:41] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\waypoints
-[13:37:41] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[13:37:41] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\DIM0. Memory: 3273MB total, 1449MB free 
-[13:46:42] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\DIM0
-[13:47:11] [Client thread/INFO] [WaypointStore] Loaded 18 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\waypoints
-[13:47:11] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[13:47:11] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0. Memory: 3273MB total, 1519MB free 
-[13:47:20] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0
-[13:47:21] [Client thread/INFO] [WaypointStore] Loaded 18 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\waypoints
-[13:47:21] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[13:47:21] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0. Memory: 3273MB total, 1591MB free 
-[13:54:38] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
-[13:54:38] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
-[14:18:12] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0
+[14:30:02] [Client thread/INFO] [ColorManager] Loading blocks and textures...
+[14:30:02] [Client thread/INFO] [BlockMD] Built BlockMD cache (4834) : BlockMD.reset count 1 avg 56,79ms
+[14:30:02] [Client thread/INFO] [ColorHelper_1_7_10] initBlocksTexture: 4096x2048 loaded in 152.329223ms
+[14:30:02] [Client thread/WARN] [ColorPalette] Existing color palette's mods no longer match current loadout.
+[14:30:02] [Client thread/INFO] [ColorPalette] WAS: AMCore:0.0.3, AnimationAPI:1.2.4, Applied Energistics 2 Core:rv3-beta-6, Applied Energistics 2:rv3-beta-6, Ars Magica 2:1.4.0.009, BC Builders:7.1.23, BC Energy:7.1.23, BC Factory:7.1.23, BC Robotics:7.1.23, BC Silicon:7.1.23, BC Transport:7.1.23, Backpack:2.0.1, Battle Towers:1.5.1, Baubles:1.0.1.10, BuildCraft:7.1.23, ChickenChunks:1.3.4.19, Chisel:2.9.5.11, Chocolate Quest:1.0, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.0.7.47, Craftable Nether Star +:0.2.1, Damage Indicators:3.2.0, Doomlike Dungeons:1.10.0, DrZhark's CustomSpawner:3.3.0, Dungeon Pack:1.7.10-1.0, Enchanting Plus:3.0.2-d, EnderStorage:1.4.7.38, EnhancedPortals:3.0.6, Equivalent Exchange 3:0.3.0.547, Extra Utilities:1.2.12, Factorization Miscellaneous Nonsense:1.7.10-0.8.83, Factorization Notification System:1.0, Factorization:1.7.10-0.8.83, Flat Signs:2.1.0.19, FloatingRuins:1.7.10.r02, Forestry for Minecraft:4.2.16.64, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, Goblins! Mod:0.6, GraviGun:4.0.0-beta, IndustrialCraft 2:2.2.827-experimental, Invasion:1.1.5, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Chest:6.0.62.742, IvToolkit:1.2.1, JourneyMap:5.1.4p1, Logistics Pipes:0.9.3.132, Mantle:1.7.10-0.3.2.jenkins191, Mekanism:9.1.1, MekanismGenerators:9.1.1, MekanismTools:9.1.1, MineChess:1.3.8, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, Mystcraft:0.12.3.04, Natura:2.2.0, Nether Ores:1.7.10R2.3.1, Not Enough Items:1.0.5.120, Numina:1.7.10, ObsidiPlates:3.0.0.18, OpenBlocks:1.5.1, OpenMods:0.9.1, OpenModsCore:0.9.1, PortalGun:4.0.0-beta-6, Power Converters 3:1.7.10-2.11, Recurrent Complex:0.9.7.1.1, Roguelike Dungeons:1.5.0, Special Mobs:3.2.2, StartingInventory:1.7.10.r03, Thaumcraft:4.2.3.5, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:unspecified, The Twilight Forest:2.3.7, Thermal Dynamics:1.7.10R1.2.1, Thermal Expansion:1.7.10R4.1.5, Thermal Foundation:1.7.10R1.2.6, Tinkers' Construct:1.7.10-1.8.8.build988, Treecapitator:1.7.10, Utility Mobs:3.1.1, Wild Caves 3:1.7.10, bspkrsCore:6.16, iChunUtil:4.2.2, vending:1.2.3
+NOW: AMCore:0.0.3, AnimationAPI:1.2.4, Applied Energistics 2 Core:rv3-beta-6, Applied Energistics 2:rv3-beta-6, Ars Magica 2:1.4.0.009, BC Builders:7.1.23, BC Energy:7.1.23, BC Factory:7.1.23, BC Robotics:7.1.23, BC Silicon:7.1.23, BC Transport:7.1.23, Backpack:2.0.1, Battle Towers:1.5.1, Baubles:1.0.1.10, BuildCraft:7.1.23, ChickenChunks:1.3.4.19, Chisel:2.9.5.11, Chocolate Quest:1.0, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.0.7.47, Craftable Nether Star +:0.2.1, Damage Indicators:3.2.0, Doomlike Dungeons:1.10.0, DrZhark's CustomSpawner:3.3.0, Dungeon Pack:1.7.10-1.0, Enchanting Plus:3.0.2-d, EnderStorage:1.4.7.38, EnhancedPortals:3.0.6, Equivalent Exchange 3:0.3.0.547, Extra Utilities:1.2.12, Factorization Miscellaneous Nonsense:1.7.10-0.8.83, Factorization Notification System:1.0, Factorization:1.7.10-0.8.83, Flat Signs:2.1.0.19, FloatingRuins:1.7.10.r02, Forestry for Minecraft:4.2.16.64, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, ForgeRelocation:0.0.1.4, Goblins! Mod:0.6, GraviGun:4.0.0-beta, IndustrialCraft 2:2.2.827-experimental, Invasion:1.1.5, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Chest:6.0.62.742, IvToolkit:1.2.1, JourneyMap:5.1.4p1, Logistics Pipes:0.9.3.132, MCFrames:1.0, Mantle:1.7.10-0.3.2.jenkins191, Mekanism:9.1.1, MekanismGenerators:9.1.1, MekanismTools:9.1.1, MineChess:1.3.8, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, MrTJPCore:1.1.0.33, Mystcraft:0.12.3.04, Natura:2.2.0, Nether Ores:1.7.10R2.3.1, Not Enough Items:1.0.5.120, Numina:1.7.10, ObsidiPlates:3.0.0.18, OpenBlocks:1.5.1, OpenMods:0.9.1, OpenModsCore:0.9.1, PortalGun:4.0.0-beta-6, Power Converters 3:1.7.10-2.11, ProjectRed Compatibility:4.7.0pre12.95, ProjectRed Core:4.7.0pre12.95, ProjectRed Expansion:4.7.0pre12.95, ProjectRed Exploration:4.7.0pre12.95, ProjectRed Fabrication:4.7.0pre12.95, ProjectRed Illumination:4.7.0pre12.95, ProjectRed Integration:4.7.0pre12.95, ProjectRed Transmission:4.7.0pre12.95, ProjectRed Transportation:4.7.0pre12.95, Recurrent Complex:0.9.7.1.1, RelocationFMP:0.0.1.2, Roguelike Dungeons:1.5.0, Special Mobs:3.2.2, StartingInventory:1.7.10.r03, Thaumcraft:4.2.3.5, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:unspecified, The Twilight Forest:2.3.7, Thermal Dynamics:1.7.10R1.2.1, Thermal Expansion:1.7.10R4.1.5, Thermal Foundation:1.7.10R1.2.6, Tinkers' Construct:1.7.10-1.8.8.build988, Treecapitator:1.7.10, Utility Mobs:3.1.1, Wild Caves 3:1.7.10, bspkrsCore:6.16, iChunUtil:4.2.2, vending:1.2.3
+[14:30:02] [Client thread/INFO] [ColorManager] Initialized 4283 block colors from mods and resource packs in 149ms
+[14:30:02] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantObsidian:0] (Transparency,Error)
+[14:30:02] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockAiry:0] (Transparency,Error)
+[14:30:02] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockWarded:0] (Transparency,Error)
+[14:30:02] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockEldritchNothing:0] (Transparency,Error)
+[14:30:02] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ForgeMultipart:block:0] (Transparency,Error)
+[14:30:02] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [Thaumcraft:blockPortalEldritch:0] (Transparency,Error)
+[14:30:02] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantLeaves:0] (Transparency,Error)
+[14:30:02] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [chisel:glass_pane:4] (OpenToSky,Transparency,Error,TransparentRoof)
+[14:30:02] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [factorization:Lightair:0] (HasAir,OpenToSky,NoShadow,Transparency,Error)
+[14:30:02] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantCobble:0] (Transparency,Error)
+[14:30:02] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.HugeLilyPad:0] (NoShadow,Transparency,Error,Plant,NoTopo)
+[14:30:02] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [TwilightForest:tile.GiantLog:0] (Transparency,Error)
+[14:30:02] [Client thread/INFO] [ColorPalette] Color palette file generated with 4241 colors in 77ms for: C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[14:30:02] [Client thread/INFO] [ColorManager] Updated color palette file: C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[14:30:39] [Client thread/INFO] [WaypointStore] Loaded 18 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\waypoints
+[14:30:39] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:30:39] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0. Memory: 3092MB total, 1323MB free 
+[14:30:39] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[14:30:52] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0
+[14:30:54] [Client thread/INFO] [WaypointStore] Loaded 18 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\waypoints
+[14:30:54] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:30:54] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0. Memory: 3187MB total, 1215MB free 
+[14:31:00] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0
+[14:31:23] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\waypoints
+[14:31:23] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:31:23] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\DIM0. Memory: 3204MB total, 1272MB free 
+[14:32:08] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\DIM0
+[14:32:08] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\waypoints
+[14:32:08] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:32:08] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\DIM0. Memory: 3232MB total, 1363MB free 
+[14:37:44] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[14:37:44] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[14:41:43] [File IO Thread/WARN] [StatTimer] ImageHolder.writeToDisk was slow: 1730.792124 (Warning limit reached)
+[14:41:43] [File IO Thread/WARN] [StatTimer] ImageHolder.writeToDisk: Avg:   348,13ms, Min:    11,97ms, Max:    5387,27ms, Total:         24 sec, Count:       71, Canceled:        0, Slow:       10
+[14:49:22] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\DIM0
+[14:49:43] [Client thread/INFO] [WaypointStore] Loaded 18 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\waypoints
+[14:49:43] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:49:43] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0. Memory: 3459MB total, 1291MB free 
+[14:50:31] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0
+[14:50:31] [Client thread/INFO] [WaypointStore] Loaded 18 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\waypoints
+[14:50:31] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:50:31] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0. Memory: 3542MB total, 1462MB free 
+[14:57:53] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[14:57:53] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[15:05:48] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0
+[15:06:09] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\waypoints
+[15:06:09] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[15:06:09] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\DIM0. Memory: 4044MB total, 1922MB free 
+[15:06:17] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\DIM0
+[15:06:18] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\waypoints
+[15:06:18] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[15:06:18] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\DIM0. Memory: 4044MB total, 1860MB free 
+[15:09:18] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\TestWorld\DIM0
+[15:09:44] [Client thread/INFO] [WaypointStore] Loaded 18 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\waypoints
+[15:09:44] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[15:09:44] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0. Memory: 4044MB total, 1823MB free 
+[15:10:24] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0
+[15:10:24] [Client thread/INFO] [WaypointStore] Loaded 18 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\waypoints
+[15:10:24] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[15:10:24] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0. Memory: 4044MB total, 1889MB free 
+[15:10:25] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0
+[15:10:27] [Client thread/INFO] [WaypointStore] Loaded 18 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\waypoints
+[15:10:27] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[15:10:27] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0. Memory: 4044MB total, 1670MB free 
+[15:17:47] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[15:17:47] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[15:21:48] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0
+[15:21:49] [Client thread/INFO] [WaypointStore] Loaded 18 waypoints from C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\waypoints
+[15:21:49] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[15:21:49] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0. Memory: 4044MB total, 1172MB free 
+[15:37:20] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[15:37:20] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[15:40:44] [JM-task-23/INFO] [VanillaColorHandler] Custom biome color will be used with BlockMD [minecraft:double_plant:8] (CustomBiomeColor,NoShadow,Plant,NoTopo)
+[16:29:23] [File IO Thread/WARN] [StatTimer] ImageHolder.writeToDisk was slow: 6495.045111 (Warning limit reached)
+[16:29:23] [File IO Thread/WARN] [StatTimer] ImageHolder.writeToDisk: Avg:   118,48ms, Min:    11,21ms, Max:    6495,05ms, Total:         52 sec, Count:      444, Canceled:        0, Slow:       10
+[17:16:18] [Client thread/INFO] [StatTimer] MiniMap1.Circle hit max count, 1000000
+[17:32:53] [Client thread/WARN] [StatTimer] ImageHolder.writeToDisk is already running, cancelling first
+[17:32:53] [Client thread/WARN] [StatTimer] ImageHolder.writeToDisk is not running.
+[17:32:53] [File IO Thread/WARN] [StatTimer] ImageHolder.writeToDisk is already running, cancelling first
+[17:32:53] [Client thread/WARN] [StatTimer] ImageHolder.writeToDisk is not running.
+[17:32:54] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Lerockit\AppData\Roaming\.minecraft\journeymap\data\sp\New World--\DIM0

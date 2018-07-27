@@ -616,6 +616,7 @@ minecraft:spawn_egg:30, Spawn Goblin Ranger
 minecraft:spawn_egg:31, Spawn Goblin Ranger Guard
 minecraft:spawn_egg:32, Spawn Goblin Soldier
 minecraft:spawn_egg:33, Spawn Goblin Shaman
+minecraft:spawn_egg:186, Spawn Battletower Golem
 minecraft:experience_bottle, Bottle o' Enchanting
 minecraft:fire_charge, Fire Charge
 minecraft:writable_book, Book and Quill
@@ -2436,7 +2437,7 @@ enhancedportals:dbs_empty, Dimensional Bridge Stabilizer (Empty)
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Ender Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Emission Decompiler)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -2825,10 +2826,10 @@ factorization:FzBlock:32, factorization.factoryBlock.SOCKET_EMPTY.name
 factorization:FzBlock:27, factorization.factoryBlock.SERVORAIL.name
 factorization:FzBlock:6, factorization.factoryBlock.LAMP.name
 factorization:FzBlock:29, factorization.factoryBlock.COMPRESSIONCRAFTER.name
-factorization:FzBlock:2730, factorization.factoryBlock.DAYBARREL.format.name
-factorization:FzBlock:2731, factorization.factoryBlock.DAYBARREL.format2.name
-factorization:FzBlock:2732, factorization.factoryBlock.DAYBARREL.format2.name
-factorization:FzBlock:2734, factorization.factoryBlock.DAYBARREL.format2.name
+factorization:FzBlock:2750, factorization.factoryBlock.DAYBARREL.format.name
+factorization:FzBlock:2751, factorization.factoryBlock.DAYBARREL.format2.name
+factorization:FzBlock:2752, factorization.factoryBlock.DAYBARREL.format2.name
+factorization:FzBlock:2754, factorization.factoryBlock.DAYBARREL.format2.name
 factorization:FzBlock:1125, factorization.factoryBlock.DAYBARREL.format2.name
 factorization:Lightair, tile.lightair.name
 factorization:ResourceBlock:0, tile.factorization.ResourceBlock.SILVERORE.name
@@ -3937,42 +3938,6 @@ OpenBlocks:sky:1, Sky Block
 OpenBlocks:xpshower, XP Shower
 OpenBlocks:goldenegg, Golden Egg
 OpenBlocks:scaffolding, Scaffolding
-reccomplex:generic_space:0, Space (0 ~ Negative Space)
-reccomplex:generic_space:1, Space (1 ~ Natural Air)
-reccomplex:generic_space:2, Space (2)
-reccomplex:generic_space:3, Space (3)
-reccomplex:generic_space:4, Space (4)
-reccomplex:generic_space:5, Space (5)
-reccomplex:generic_space:6, Space (6)
-reccomplex:generic_space:7, Space (7)
-reccomplex:generic_space:8, Space (8)
-reccomplex:generic_space:9, Space (9)
-reccomplex:generic_space:10, Space (10)
-reccomplex:generic_space:11, Space (11)
-reccomplex:generic_space:12, Space (12)
-reccomplex:generic_space:13, Space (13)
-reccomplex:generic_space:14, Space (14)
-reccomplex:generic_space:15, Space (15)
-reccomplex:generic_solid:0, Solid (0 ~ Natural Floor)
-reccomplex:generic_solid:1, Solid (1 ~ Barrier)
-reccomplex:generic_solid:2, Solid (2)
-reccomplex:generic_solid:3, Solid (3)
-reccomplex:generic_solid:4, Solid (4)
-reccomplex:generic_solid:5, Solid (5)
-reccomplex:generic_solid:6, Solid (6)
-reccomplex:generic_solid:7, Solid (7)
-reccomplex:generic_solid:8, Solid (8)
-reccomplex:generic_solid:9, Solid (9)
-reccomplex:generic_solid:10, Solid (10)
-reccomplex:generic_solid:11, Solid (11)
-reccomplex:generic_solid:12, Solid (12)
-reccomplex:generic_solid:13, Solid (13)
-reccomplex:generic_solid:14, Solid (14)
-reccomplex:generic_solid:15, Solid (15)
-reccomplex:structure_generator, Structure Generator
-reccomplex:maze_generator, Maze Generator
-reccomplex:weighted_command_block, tile.spawn_command.name
-reccomplex:spawn_script, Spawn Script Block
 TConstruct:liquid.slime, Liquified Slime
 TConstruct:MeatBlock, Hambone
 TConstruct:WoolSlab1:0, Light Gray Wool Slab
@@ -4245,38 +4210,74 @@ TConstruct:Redstone.Landmine:1, Landmine
 TConstruct:Redstone.Landmine:2, Landmine
 TConstruct:Redstone.Landmine:3, Landmine
 TConstruct:Armor.DryingRack, Drying Rack
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:forcefield, Forcefield
+reccomplex:generic_space:0, Space (0 ~ Negative Space)
+reccomplex:generic_space:1, Space (1 ~ Natural Air)
+reccomplex:generic_space:2, Space (2)
+reccomplex:generic_space:3, Space (3)
+reccomplex:generic_space:4, Space (4)
+reccomplex:generic_space:5, Space (5)
+reccomplex:generic_space:6, Space (6)
+reccomplex:generic_space:7, Space (7)
+reccomplex:generic_space:8, Space (8)
+reccomplex:generic_space:9, Space (9)
+reccomplex:generic_space:10, Space (10)
+reccomplex:generic_space:11, Space (11)
+reccomplex:generic_space:12, Space (12)
+reccomplex:generic_space:13, Space (13)
+reccomplex:generic_space:14, Space (14)
+reccomplex:generic_space:15, Space (15)
+reccomplex:generic_solid:0, Solid (0 ~ Natural Floor)
+reccomplex:generic_solid:1, Solid (1 ~ Barrier)
+reccomplex:generic_solid:2, Solid (2)
+reccomplex:generic_solid:3, Solid (3)
+reccomplex:generic_solid:4, Solid (4)
+reccomplex:generic_solid:5, Solid (5)
+reccomplex:generic_solid:6, Solid (6)
+reccomplex:generic_solid:7, Solid (7)
+reccomplex:generic_solid:8, Solid (8)
+reccomplex:generic_solid:9, Solid (9)
+reccomplex:generic_solid:10, Solid (10)
+reccomplex:generic_solid:11, Solid (11)
+reccomplex:generic_solid:12, Solid (12)
+reccomplex:generic_solid:13, Solid (13)
+reccomplex:generic_solid:14, Solid (14)
+reccomplex:generic_solid:15, Solid (15)
+reccomplex:structure_generator, Structure Generator
+reccomplex:maze_generator, Maze Generator
+reccomplex:weighted_command_block, tile.spawn_command.name
+reccomplex:spawn_script, Spawn Script Block
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
+ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
 ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
 ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
 ThaumicTinkerer:fireOrder, Ordo Imbued Fire
 ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
 ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:interface, Transvector Interface
 ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
 ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
 ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:dislocator, Transvector Dislocator
 ThermalDynamics:ThermalDynamics_0:0, Leadstone Fluxduct
 ThermalDynamics:ThermalDynamics_0:1, Hardened Fluxduct
 ThermalDynamics:ThermalDynamics_0:2, Redstone Energy Fluxduct
@@ -4347,6 +4348,9 @@ wildcaves3:Flora:7, Iceshroom
 wildcaves3:Flora:8, Iceshroom
 wildcaves3:Flora:9, Iceshroom
 wildcaves3:FossilBlock:0, Bone pile
+ForgeRelocation:relocation.blockmovingrow:0, tile.relocation.blockmovingrow|0.name
+MCFrames:mcframes.motor:0, Debug Frame Motor
+MCFrames:mcframes.frame, Frame
 arsmagica2:essenceRefiner, Essence Refiner
 arsmagica2:mageTorch, Mage Light
 arsmagica2:essenceConduit, Etherium Conduit
@@ -6345,22 +6349,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Crystal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Coal Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Platinum Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Elevator
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (0 ~ Natural Floor)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (1 ~ Barrier)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (2)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (3)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (4)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (5)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (6)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (7)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (8)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (9)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (10)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (11)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (12)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (13)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (14)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (15)
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Hambone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - SDX
 appliedenergistics2:item.ItemFacade:0, Cable Facade - SDX
@@ -6442,10 +6430,26 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Brownstone Brick
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Brownstone Road
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Fancy Brownstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Brownstone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (0 ~ Natural Floor)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (1 ~ Barrier)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (2)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (3)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (4)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (5)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (6)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (7)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (8)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (9)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (10)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (11)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (12)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (13)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (14)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid (15)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Bone pile
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Vinteum Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chimerite Ore
@@ -7817,40 +7821,40 @@ ExtraUtilities:watering_can, Watering Can
 ExtraUtilities:scanner, Portable Scanner
 ExtraUtilities:golden_bag, Golden Bag of Holding
 ExtraUtilities:bedrockiumIngot, Bedrockium Ingot
-factorization:diamond_cutting_head, item.factorization:diamond_cutting_head.name
-factorization:acid:0, item.factorization:acid.name
-factorization:acid:1, item.factorization:acid_regia.name
-factorization:docbook, item.factorization:docbook.name
+factorization:nether_powder, item.factorization:nether_powder.name
 factorization:socket/:34, item.factorization:socket/SOCKET_ROBOTHAND.name
 factorization:socket/:35, item.factorization:socket/SOCKET_SHIFTER.name
-factorization:nether_powder, item.factorization:nether_powder.name
-factorization:dark_iron_ingot, item.factorization:dark_iron_ingot.name
-factorization:lead_ingot, item.factorization:lead_ingot.name
-factorization:fan, item.factorization:fan.name
-factorization:logic_matrix_controller, item.factorization:logic_matrix_controller.name
-factorization:logic_matrix_identifier, item.factorization:logic_matrix_identifier.name
-factorization:servo/sprocket, item.factorization:servo/sprocket.name
-factorization:servo/commenter, item.factorization:servo/commenter.name
-factorization:diamond_shard, item.factorization:diamond_shard.name
-factorization:tool/pocket_crafting_table, item.factorization:tool/pocket_crafting_table.name
-factorization:silver_ingot, item.factorization:silver_ingot.name
-factorization:sludge, item.factorization:sludge.name
-factorization:servo/servo, item.factorization:servo/servo.name
-factorization:motor, item.factorization:motor.name
-factorization:ceramics/glaze_bucket, item.factorization:ceramics/glaze_bucket.name
-factorization:charge_battery, item.factorization:charge_battery.name
-factorization:tool/matrix_programmer, item.factorization:tool/matrix_programmer.name
-factorization:insulated_coil, item.factorization:insulated_coil.name
-factorization:mirror, item.factorization:mirror.name
 factorization:logic_matrix, item.factorization:logic_matrix.name
-factorization:servo/component, item.factorization:servo/component.name
+factorization:ceramics/glaze_bucket, item.factorization:ceramics/glaze_bucket.name
+factorization:fan, item.factorization:fan.name
 factorization:servo/instruction_plate, item.factorization:servo/instruction_plate.name
 factorization:tool/charge_meter, item.factorization:tool/charge_meter.name
-factorization:daybarrel, item.factorization:daybarrel.name
 factorization:corkscrew, item.factorization:corkscrew.name
 factorization:servo/decorator, item.factorization:servo/decorator.name
+factorization:acid:0, item.factorization:acid.name
+factorization:acid:1, item.factorization:acid_regia.name
+factorization:diamond_shard, item.factorization:diamond_shard.name
+factorization:servo/component, item.factorization:servo/component.name
+factorization:servo/sprocket, item.factorization:servo/sprocket.name
+factorization:docbook, item.factorization:docbook.name
+factorization:diamond_cutting_head, item.factorization:diamond_cutting_head.name
 factorization:sculptTool:0, item.factorization:sculptTool.name
+factorization:logic_matrix_identifier, item.factorization:logic_matrix_identifier.name
+factorization:tool/pocket_crafting_table, item.factorization:tool/pocket_crafting_table.name
+factorization:insulated_coil, item.factorization:insulated_coil.name
 factorization:servo/servo_motor, item.factorization:servo/servo_motor.name
+factorization:motor, item.factorization:motor.name
+factorization:logic_matrix_controller, item.factorization:logic_matrix_controller.name
+factorization:silver_ingot, item.factorization:silver_ingot.name
+factorization:servo/servo, item.factorization:servo/servo.name
+factorization:tool/matrix_programmer, item.factorization:tool/matrix_programmer.name
+factorization:servo/commenter, item.factorization:servo/commenter.name
+factorization:sludge, item.factorization:sludge.name
+factorization:charge_battery, item.factorization:charge_battery.name
+factorization:daybarrel, item.factorization:daybarrel.name
+factorization:lead_ingot, item.factorization:lead_ingot.name
+factorization:dark_iron_ingot, item.factorization:dark_iron_ingot.name
+factorization:mirror, item.factorization:mirror.name
 FlatSigns:item.sponge.wipe, Sponge Wipe
 IC2:itemHarz, ic2.itemHarz.name
 IC2:itemRubber, ic2.itemRubber.name
@@ -9028,13 +9032,6 @@ OpenBlocks:spongeonastick, Sponge
 OpenBlocks:pedometer, Pedometer
 OpenBlocks:epicEraser, Epic Eraser
 OpenBlocks:wrench, Big Metal Bar
-reccomplex:block_selector, Block Selector
-reccomplex:block_selector_floating, Floating Block Selector
-reccomplex:inventory_generation_tag, Inventory Generation Tag
-reccomplex:inventory_generation_single_tag, Single Item Generation Tag
-reccomplex:inventory_generation_component_tag, Item Generation Component Tag
-reccomplex:artifact_generation_tag, Artifact Generation Tag
-reccomplex:book_generation_tag, Book Generation Tag
 TConstruct:goldHead:0, Golden Head
 TConstruct:strangeFood:0, Gelatinous Slime
 TConstruct:strangeFood:1, Coagulated Blood
@@ -9772,6 +9769,13 @@ TConstruct:Cast:3, Bow Limb Cast
 TConstruct:GlassArrows, item.tconstruct.glassArrows.name
 TConstruct:Boneana, Broadsword
 TConstruct:gearCast, Gear Cast
+reccomplex:block_selector, Block Selector
+reccomplex:block_selector_floating, Floating Block Selector
+reccomplex:inventory_generation_tag, Inventory Generation Tag
+reccomplex:inventory_generation_single_tag, Single Item Generation Tag
+reccomplex:inventory_generation_component_tag, Item Generation Component Tag
+reccomplex:artifact_generation_tag, Artifact Generation Tag
+reccomplex:book_generation_tag, Book Generation Tag
 ThermalDynamics:servo:0, Servo
 ThermalDynamics:servo:1, Hardened Servo
 ThermalDynamics:servo:2, Reinforced Servo
@@ -12474,38 +12478,6 @@ ThermalDynamics:cover:0, Sponge Cover
 ThermalDynamics:cover:0, Path Cover
 ThermalDynamics:cover:0, Rope Ladder Cover
 ThermalDynamics:cover:0, Scaffolding Cover
-ThermalDynamics:cover:0, Space (0 ~ Negative Space) Cover
-ThermalDynamics:cover:0, Space (1 ~ Natural Air) Cover
-ThermalDynamics:cover:0, Space (2) Cover
-ThermalDynamics:cover:0, Space (3) Cover
-ThermalDynamics:cover:0, Space (4) Cover
-ThermalDynamics:cover:0, Space (5) Cover
-ThermalDynamics:cover:0, Space (6) Cover
-ThermalDynamics:cover:0, Space (7) Cover
-ThermalDynamics:cover:0, Space (8) Cover
-ThermalDynamics:cover:0, Space (9) Cover
-ThermalDynamics:cover:0, Space (10) Cover
-ThermalDynamics:cover:0, Space (11) Cover
-ThermalDynamics:cover:0, Space (12) Cover
-ThermalDynamics:cover:0, Space (13) Cover
-ThermalDynamics:cover:0, Space (14) Cover
-ThermalDynamics:cover:0, Space (15) Cover
-ThermalDynamics:cover:0, Solid (0 ~ Natural Floor) Cover
-ThermalDynamics:cover:0, Solid (1 ~ Barrier) Cover
-ThermalDynamics:cover:0, Solid (2) Cover
-ThermalDynamics:cover:0, Solid (3) Cover
-ThermalDynamics:cover:0, Solid (4) Cover
-ThermalDynamics:cover:0, Solid (5) Cover
-ThermalDynamics:cover:0, Solid (6) Cover
-ThermalDynamics:cover:0, Solid (7) Cover
-ThermalDynamics:cover:0, Solid (8) Cover
-ThermalDynamics:cover:0, Solid (9) Cover
-ThermalDynamics:cover:0, Solid (10) Cover
-ThermalDynamics:cover:0, Solid (11) Cover
-ThermalDynamics:cover:0, Solid (12) Cover
-ThermalDynamics:cover:0, Solid (13) Cover
-ThermalDynamics:cover:0, Solid (14) Cover
-ThermalDynamics:cover:0, Solid (15) Cover
 ThermalDynamics:cover:0, Liquified Slime Cover
 ThermalDynamics:cover:0, Hambone Cover
 ThermalDynamics:cover:0, Light Gray Wool Slab Cover
@@ -12704,22 +12676,54 @@ ThermalDynamics:cover:0, Brown Stained Pane Cover
 ThermalDynamics:cover:0, Green Stained Pane Cover
 ThermalDynamics:cover:0, Red Stained Pane Cover
 ThermalDynamics:cover:0, Black Stained Pane Cover
-ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
-ThermalDynamics:cover:0, Aqua Imbued Fire Cover
+ThermalDynamics:cover:0, Space (0 ~ Negative Space) Cover
+ThermalDynamics:cover:0, Space (1 ~ Natural Air) Cover
+ThermalDynamics:cover:0, Space (2) Cover
+ThermalDynamics:cover:0, Space (3) Cover
+ThermalDynamics:cover:0, Space (4) Cover
+ThermalDynamics:cover:0, Space (5) Cover
+ThermalDynamics:cover:0, Space (6) Cover
+ThermalDynamics:cover:0, Space (7) Cover
+ThermalDynamics:cover:0, Space (8) Cover
+ThermalDynamics:cover:0, Space (9) Cover
+ThermalDynamics:cover:0, Space (10) Cover
+ThermalDynamics:cover:0, Space (11) Cover
+ThermalDynamics:cover:0, Space (12) Cover
+ThermalDynamics:cover:0, Space (13) Cover
+ThermalDynamics:cover:0, Space (14) Cover
+ThermalDynamics:cover:0, Space (15) Cover
+ThermalDynamics:cover:0, Solid (0 ~ Natural Floor) Cover
+ThermalDynamics:cover:0, Solid (1 ~ Barrier) Cover
+ThermalDynamics:cover:0, Solid (2) Cover
+ThermalDynamics:cover:0, Solid (3) Cover
+ThermalDynamics:cover:0, Solid (4) Cover
+ThermalDynamics:cover:0, Solid (5) Cover
+ThermalDynamics:cover:0, Solid (6) Cover
+ThermalDynamics:cover:0, Solid (7) Cover
+ThermalDynamics:cover:0, Solid (8) Cover
+ThermalDynamics:cover:0, Solid (9) Cover
+ThermalDynamics:cover:0, Solid (10) Cover
+ThermalDynamics:cover:0, Solid (11) Cover
+ThermalDynamics:cover:0, Solid (12) Cover
+ThermalDynamics:cover:0, Solid (13) Cover
+ThermalDynamics:cover:0, Solid (14) Cover
+ThermalDynamics:cover:0, Solid (15) Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
 ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
 ThermalDynamics:cover:0, Ordo Imbued Fire Cover
-ThermalDynamics:cover:0, tile.gaseousLight.name Cover
+ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
 ThermalDynamics:cover:0, tile.nitorGas.name Cover
+ThermalDynamics:cover:0, Terra Imbued Fire Cover
+ThermalDynamics:cover:0, Aqua Imbued Fire Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Terra Imbued Fire Cover
-ThermalDynamics:cover:0, Ignis Imbued Fire Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Bedrock Portal Cover
 ThermalDynamics:cover:0, Aer Imbued Fire Cover
+ThermalDynamics:cover:0, tile.gaseousLight.name Cover
 ThermalDynamics:cover:0, Stalactite Cover
 ThermalDynamics:cover:0, Stalactite Cover
 ThermalDynamics:cover:0, Stalactite Cover
@@ -12760,6 +12764,7 @@ ThermalDynamics:cover:0, Iceshroom Cover
 ThermalDynamics:cover:0, Iceshroom Cover
 ThermalDynamics:cover:0, Iceshroom Cover
 ThermalDynamics:cover:0, Bone pile Cover
+ThermalDynamics:cover:0, Frame Cover
 ThermalDynamics:cover:0, Mage Light Cover
 ThermalDynamics:cover:0, Vinteum Ore Cover
 ThermalDynamics:cover:0, Chimerite Ore Cover
