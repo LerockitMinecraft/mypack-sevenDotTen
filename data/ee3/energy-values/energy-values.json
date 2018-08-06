@@ -348,7 +348,7 @@
     "itemstack": {
       "name": "minecraft:planks"
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
@@ -703,7 +703,7 @@
     "itemstack": {
       "name": "minecraft:oak_stairs"
     },
-    "energyValue": 4.5
+    "energyValue": 2.25
   },
   {
     "itemstack": {
@@ -2448,14 +2448,14 @@
       "name": "minecraft:potion",
       "metaValue": 8197
     },
-    "energyValue": 121.671
+    "energyValue": 66.852
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8198
     },
-    "energyValue": 200.189
+    "energyValue": 153.799
   },
   {
     "itemstack": {
@@ -2483,21 +2483,21 @@
       "name": "minecraft:potion",
       "metaValue": 8204
     },
-    "energyValue": 46.132
+    "energyValue": 45.56
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8206
     },
-    "energyValue": 125.396
+    "energyValue": 109.933
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8225
     },
-    "energyValue": 196.453
+    "energyValue": 153.384
   },
   {
     "itemstack": {
@@ -2511,14 +2511,14 @@
       "name": "minecraft:potion",
       "metaValue": 8228
     },
-    "energyValue": 138.044
+    "energyValue": 134.904
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8229
     },
-    "energyValue": 168.557
+    "energyValue": 150.284
   },
   {
     "itemstack": {
@@ -2532,14 +2532,14 @@
       "name": "minecraft:potion",
       "metaValue": 8236
     },
-    "energyValue": 104.681
+    "energyValue": 103.635
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8257
     },
-    "energyValue": 76.151
+    "energyValue": 61.795
   },
   {
     "itemstack": {
@@ -2560,14 +2560,14 @@
       "name": "minecraft:potion",
       "metaValue": 8260
     },
-    "energyValue": 20.711
+    "energyValue": 17.57
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8262
     },
-    "energyValue": 77.396
+    "energyValue": 61.933
   },
   {
     "itemstack": {
@@ -2595,7 +2595,7 @@
       "name": "minecraft:potion",
       "metaValue": 8270
     },
-    "energyValue": 52.465
+    "energyValue": 47.311
   },
   {
     "itemstack": {
@@ -2630,14 +2630,14 @@
       "name": "minecraft:potion",
       "metaValue": 16389
     },
-    "energyValue": 69.001
+    "energyValue": 50.729
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16390
     },
-    "energyValue": 130.73
+    "energyValue": 115.266
   },
   {
     "itemstack": {
@@ -2665,21 +2665,21 @@
       "name": "minecraft:potion",
       "metaValue": 16396
     },
-    "energyValue": 42.636
+    "energyValue": 42.446
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16398
     },
-    "energyValue": 102.243
+    "energyValue": 97.089
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16417
     },
-    "energyValue": 129.484
+    "energyValue": 115.128
   },
   {
     "itemstack": {
@@ -2693,14 +2693,14 @@
       "name": "minecraft:potion",
       "metaValue": 16420
     },
-    "energyValue": 110.015
+    "energyValue": 108.968
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16421
     },
-    "energyValue": 120.186
+    "energyValue": 114.095
   },
   {
     "itemstack": {
@@ -2714,7 +2714,7 @@
       "name": "minecraft:potion",
       "metaValue": 16428
     },
-    "energyValue": 95.338
+    "energyValue": 94.989
   },
   {
     "itemstack": {
@@ -2728,7 +2728,7 @@
       "name": "minecraft:potion",
       "metaValue": 16449
     },
-    "energyValue": 53.828
+    "energyValue": 49.043
   },
   {
     "itemstack": {
@@ -2749,14 +2749,14 @@
       "name": "minecraft:potion",
       "metaValue": 16452
     },
-    "energyValue": 19.545
+    "energyValue": 17.182
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16454
     },
-    "energyValue": 54.243
+    "energyValue": 49.089
   },
   {
     "itemstack": {
@@ -2784,7 +2784,7 @@
       "name": "minecraft:potion",
       "metaValue": 16462
     },
-    "energyValue": 44.748
+    "energyValue": 43.03
   },
   {
     "itemstack": {
@@ -9541,105 +9541,105 @@
       "name": "chisel:oak_planks",
       "metaValue": 1
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 2
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 3
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 4
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 5
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 6
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 7
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 8
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 9
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 10
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 11
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 12
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 13
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 14
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 15
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
@@ -9784,28 +9784,28 @@
       "name": "ThermalFoundation:Storage",
       "metaValue": 7
     },
-    "energyValue": 5764.5
+    "energyValue": 2886.75
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:Storage",
       "metaValue": 8
     },
-    "energyValue": 1924.497
+    "energyValue": 966.744
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:Storage",
       "metaValue": 10
     },
-    "energyValue": 546.75
+    "energyValue": 277.875
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:Storage",
       "metaValue": 11
     },
-    "energyValue": 1266.75
+    "energyValue": 637.875
   },
   {
     "itemstack": {
@@ -10257,112 +10257,112 @@
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks"
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 1
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 2
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 3
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 4
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 5
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 6
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 7
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 8
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 9
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 10
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 11
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 12
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 13
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 14
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 15
     },
-    "energyValue": 3.0
+    "energyValue": 1.5
   },
   {
     "itemstack": {
@@ -11816,13 +11816,13 @@
     "itemstack": {
       "name": "ExtraUtilities:peaceful_table_top"
     },
-    "energyValue": 33804.0
+    "energyValue": 33798.0
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:trading_post"
     },
-    "energyValue": 82005.0
+    "energyValue": 81994.5
   },
   {
     "itemstack": {
@@ -11940,7 +11940,7 @@
     "itemstack": {
       "name": "ExtraUtilities:spike_base_diamond"
     },
-    "energyValue": 38510.25
+    "energyValue": 38442.75
   },
   {
     "itemstack": {
@@ -13060,7 +13060,7 @@
       "name": "TConstruct:ToolStationBlock",
       "metaValue": 10
     },
-    "energyValue": 9.0
+    "energyValue": 7.5
   },
   {
     "itemstack": {
@@ -13074,7 +13074,7 @@
       "name": "TConstruct:CraftingSlab",
       "metaValue": 3
     },
-    "energyValue": 9.0
+    "energyValue": 7.5
   },
   {
     "itemstack": {
@@ -13279,15 +13279,15 @@
   },
   {
     "itemstack": {
-      "name": "ThaumicTinkerer:darkQuartzSlab"
-    },
-    "energyValue": 528.0
-  },
-  {
-    "itemstack": {
       "name": "ThaumicTinkerer:darkQuartzStairs"
     },
     "energyValue": 1584.0
+  },
+  {
+    "itemstack": {
+      "name": "ThaumicTinkerer:darkQuartzSlab"
+    },
+    "energyValue": 528.0
   },
   {
     "itemstack": {
@@ -13566,7 +13566,7 @@
       "name": "ThermalExpansion:Glass",
       "metaValue": 1
     },
-    "energyValue": 78.375
+    "energyValue": 43.438
   },
   {
     "itemstack": {
@@ -13730,7 +13730,7 @@
       "name": "vending:vendingMachine",
       "metaValue": 3
     },
-    "energyValue": 2091.0
+    "energyValue": 2088.0
   },
   {
     "itemstack": {
@@ -13841,7 +13841,7 @@
       "name": "vending:vendingMachineAdvanced",
       "metaValue": 3
     },
-    "energyValue": 2166.0
+    "energyValue": 2163.0
   },
   {
     "itemstack": {
@@ -13952,7 +13952,7 @@
       "name": "vending:vendingMachineMultiple",
       "metaValue": 3
     },
-    "energyValue": 2146.0
+    "energyValue": 2143.0
   },
   {
     "itemstack": {
@@ -14037,6 +14037,289 @@
       "metaValue": 15
     },
     "energyValue": 17692.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.barrel"
+    },
+    "energyValue": 676.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Fabrication:projectred.integration.icblock"
+    },
+    "energyValue": 6960.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Fabrication:projectred.integration.icblock",
+      "metaValue": 1
+    },
+    "energyValue": 8849.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp"
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 1
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 2
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 3
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 4
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 5
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 6
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 7
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 8
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 9
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 10
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 11
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 12
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 13
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 14
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 15
+    },
+    "energyValue": 1634.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 16
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 17
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 18
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 19
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 20
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 21
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 22
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 23
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 24
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 25
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 26
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 27
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 28
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 29
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 30
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lamp",
+      "metaValue": 31
+    },
+    "energyValue": 1638.25
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Expansion:projectred.expansion.machine2"
+    },
+    "energyValue": 1130.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Expansion:projectred.expansion.machine2",
+      "metaValue": 1
+    },
+    "energyValue": 364.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Expansion:projectred.expansion.machine2",
+      "metaValue": 2
+    },
+    "energyValue": 927.999
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Expansion:projectred.expansion.machine2",
+      "metaValue": 3
+    },
+    "energyValue": 6574.999
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Expansion:projectred.expansion.machine2",
+      "metaValue": 4
+    },
+    "energyValue": 1225.999
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Expansion:projectred.expansion.machine2",
+      "metaValue": 10
+    },
+    "energyValue": 130.999
   },
   {
     "itemstack": {
@@ -19238,6 +19521,12 @@
   },
   {
     "itemstack": {
+      "name": "EE3:alchenomicon"
+    },
+    "energyValue": 8312.0
+  },
+  {
+    "itemstack": {
       "name": "Thaumcraft:ItemEssence"
     },
     "energyValue": 8.375
@@ -19351,24 +19640,6 @@
       "name": "chisel:smashingrock"
     },
     "energyValue": 1.312
-  },
-  {
-    "itemstack": {
-      "name": "craftnstar:starcore"
-    },
-    "energyValue": 374784.0
-  },
-  {
-    "itemstack": {
-      "name": "craftnstar:starbranch"
-    },
-    "energyValue": 44032.0
-  },
-  {
-    "itemstack": {
-      "name": "craftnstar:bottledtear"
-    },
-    "energyValue": 51.0
   },
   {
     "itemstack": {
@@ -19540,35 +19811,35 @@
       "name": "ThermalFoundation:material",
       "metaValue": 39
     },
-    "energyValue": 640.5
+    "energyValue": 320.75
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 40
     },
-    "energyValue": 213.833
+    "energyValue": 107.416
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 41
     },
-    "energyValue": 40.5
+    "energyValue": 20.75
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 42
     },
-    "energyValue": 60.75
+    "energyValue": 30.875
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 43
     },
-    "energyValue": 140.75
+    "energyValue": 70.875
   },
   {
     "itemstack": {
@@ -19631,35 +19902,35 @@
       "name": "ThermalFoundation:material",
       "metaValue": 71
     },
-    "energyValue": 320.75
+    "energyValue": 160.875
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 72
     },
-    "energyValue": 107.416
+    "energyValue": 54.208
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 73
     },
-    "energyValue": 20.75
+    "energyValue": 10.875
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 74
     },
-    "energyValue": 30.875
+    "energyValue": 15.938
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 75
     },
-    "energyValue": 70.875
+    "energyValue": 35.938
   },
   {
     "itemstack": {
@@ -19687,28 +19958,28 @@
       "name": "ThermalFoundation:material",
       "metaValue": 103
     },
-    "energyValue": 35.639
+    "energyValue": 17.875
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 104
     },
-    "energyValue": 11.935
+    "energyValue": 6.023
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 106
     },
-    "energyValue": 3.431
+    "energyValue": 1.771
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 107
     },
-    "energyValue": 7.875
+    "energyValue": 3.993
   },
   {
     "itemstack": {
@@ -19736,28 +20007,28 @@
       "name": "ThermalFoundation:material",
       "metaValue": 135
     },
-    "energyValue": 1539.0
+    "energyValue": 899.5
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 136
     },
-    "energyValue": 685.664
+    "energyValue": 472.832
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 138
     },
-    "energyValue": 379.5
+    "energyValue": 319.752
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 139
     },
-    "energyValue": 539.5
+    "energyValue": 399.752
   },
   {
     "itemstack": {
@@ -19978,157 +20249,157 @@
     "itemstack": {
       "name": "ThermalFoundation:armor.helmetElectrum"
     },
-    "energyValue": 1603.75
+    "energyValue": 804.375
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.plateElectrum"
     },
-    "energyValue": 2566.0
+    "energyValue": 1287.0
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.legsElectrum"
     },
-    "energyValue": 2245.25
+    "energyValue": 1126.125
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.bootsElectrum"
     },
-    "energyValue": 1283.0
+    "energyValue": 643.5
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.swordElectrum"
     },
-    "energyValue": 645.5
+    "energyValue": 325.75
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.shovelElectrum"
     },
-    "energyValue": 328.75
+    "energyValue": 168.875
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.pickaxeElectrum"
     },
-    "energyValue": 970.25
+    "energyValue": 490.625
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.axeElectrum"
     },
-    "energyValue": 970.25
+    "energyValue": 490.625
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.hoeElectrum"
     },
-    "energyValue": 649.5
+    "energyValue": 329.75
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.shearsElectrum"
     },
-    "energyValue": 641.5
+    "energyValue": 321.75
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.fishingRodElectrum"
     },
-    "energyValue": 669.5
+    "energyValue": 349.75
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.sickleElectrum"
     },
-    "energyValue": 966.25
+    "energyValue": 486.625
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.bowElectrum"
     },
-    "energyValue": 681.5
+    "energyValue": 361.75
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.helmetInvar"
     },
-    "energyValue": 537.08
+    "energyValue": 271.04
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.plateInvar"
     },
-    "energyValue": 859.328
+    "energyValue": 433.664
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.legsInvar"
     },
-    "energyValue": 751.912
+    "energyValue": 379.456
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.bootsInvar"
     },
-    "energyValue": 429.664
+    "energyValue": 216.832
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.swordInvar"
     },
-    "energyValue": 218.832
+    "energyValue": 112.416
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.shovelInvar"
     },
-    "energyValue": 115.416
+    "energyValue": 62.208
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.pickaxeInvar"
     },
-    "energyValue": 330.248
+    "energyValue": 170.624
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.axeInvar"
     },
-    "energyValue": 330.248
+    "energyValue": 170.624
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.hoeInvar"
     },
-    "energyValue": 222.832
+    "energyValue": 116.416
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.shearsInvar"
     },
-    "energyValue": 214.832
+    "energyValue": 108.416
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.fishingRodInvar"
     },
-    "energyValue": 242.832
+    "energyValue": 136.416
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.sickleInvar"
     },
-    "energyValue": 326.248
+    "energyValue": 166.624
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.bowInvar"
     },
-    "energyValue": 254.832
+    "energyValue": 148.416
   },
   {
     "itemstack": {
@@ -20212,7 +20483,7 @@
     "itemstack": {
       "name": "ThermalExpansion:transfuser"
     },
-    "energyValue": 2554.332
+    "energyValue": 1488.666
   },
   {
     "itemstack": {
@@ -20239,7 +20510,7 @@
       "name": "ThermalExpansion:material",
       "metaValue": 3
     },
-    "energyValue": 384.75
+    "energyValue": 224.875
   },
   {
     "itemstack": {
@@ -20637,23 +20908,15 @@
   },
   {
     "itemstack": {
-      "name": "factorization:tool/pocket_crafting_table"
-    },
-    "energyValue": 36.0
-  },
-  {
-    "itemstack": {
-      "name": "factorization:ceramics/glaze_bucket",
-      "metaValue": 100,
-      "tagCompound": "{}"
-    },
-    "energyValue": 44.0
-  },
-  {
-    "itemstack": {
       "name": "factorization:corkscrew"
     },
     "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "factorization:tool/pocket_crafting_table"
+    },
+    "energyValue": 36.0
   },
   {
     "itemstack": {
@@ -20670,15 +20933,17 @@
   },
   {
     "itemstack": {
-      "name": "factorization:docbook"
-    },
-    "energyValue": 136.0
-  },
-  {
-    "itemstack": {
       "name": "factorization:fan"
     },
     "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "factorization:ceramics/glaze_bucket",
+      "metaValue": 100,
+      "tagCompound": "{}"
+    },
+    "energyValue": 44.0
   },
   {
     "itemstack": {
@@ -20709,6 +20974,12 @@
   },
   {
     "itemstack": {
+      "name": "factorization:docbook"
+    },
+    "energyValue": 136.0
+  },
+  {
+    "itemstack": {
       "name": "FlatSigns:item.sponge.wipe"
     },
     "energyValue": 67.0
@@ -20725,7 +20996,7 @@
       "name": "IC2:itemIngot",
       "metaValue": 3
     },
-    "energyValue": 72.75
+    "energyValue": 36.875
   },
   {
     "itemstack": {
@@ -20918,14 +21189,14 @@
       "name": "Mekanism:Ingot",
       "metaValue": 4
     },
-    "energyValue": 144.5
+    "energyValue": 72.75
   },
   {
     "itemstack": {
       "name": "Mekanism:OtherDust",
       "metaValue": 1
     },
-    "energyValue": 72.75
+    "energyValue": 36.875
   },
   {
     "itemstack": {
@@ -21543,54 +21814,6 @@
   },
   {
     "itemstack": {
-      "name": "PortalGun:PortalGunBlue"
-    },
-    "energyValue": 35200.0
-  },
-  {
-    "itemstack": {
-      "name": "PortalGun:PortalGunBlue",
-      "metaValue": 1
-    },
-    "energyValue": 35204.0
-  },
-  {
-    "itemstack": {
-      "name": "PortalGun:PortalGunBlue",
-      "metaValue": 2
-    },
-    "energyValue": 35204.0
-  },
-  {
-    "itemstack": {
-      "name": "PortalGun:PortalGunBlue",
-      "metaValue": 3
-    },
-    "energyValue": 35224.0
-  },
-  {
-    "itemstack": {
-      "name": "PortalGun:PortalGunBlue",
-      "metaValue": 4
-    },
-    "energyValue": 43803.0
-  },
-  {
-    "itemstack": {
-      "name": "PortalGun:PortalGunBlue",
-      "metaValue": 5
-    },
-    "energyValue": 35200.0
-  },
-  {
-    "itemstack": {
-      "name": "PortalGun:PortalGunSpawner",
-      "tagCompound": "{owner:\"def\",closeWhenNoRedstone:0b,colour:1}"
-    },
-    "energyValue": 21504.0
-  },
-  {
-    "itemstack": {
       "name": "PortalGun:EnderPearlDust"
     },
     "energyValue": 128.0
@@ -21612,18 +21835,6 @@
       "name": "PortalGun:PortalGunPedestal"
     },
     "energyValue": 864.0
-  },
-  {
-    "itemstack": {
-      "name": "PortalGun:LongFallBoot"
-    },
-    "energyValue": 17984.0
-  },
-  {
-    "itemstack": {
-      "name": "PortalGun:LongFallBoots"
-    },
-    "energyValue": 35968.0
   },
   {
     "itemstack": {
@@ -21690,5 +21901,1504 @@
       "name": "ThaumicTinkerer:darkQuartzItem"
     },
     "energyValue": 264.0
+  },
+  {
+    "itemstack": {
+      "name": "craftnstar:bottledtear"
+    },
+    "energyValue": 51.0
+  },
+  {
+    "itemstack": {
+      "name": "craftnstar:starcore"
+    },
+    "energyValue": 374784.0
+  },
+  {
+    "itemstack": {
+      "name": "craftnstar:starbranch"
+    },
+    "energyValue": 44032.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.sicklegold"
+    },
+    "energyValue": 6148.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part"
+    },
+    "energyValue": 0.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 1
+    },
+    "energyValue": 32.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 2
+    },
+    "energyValue": 72.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 4
+    },
+    "energyValue": 43.167
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 5
+    },
+    "energyValue": 36.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 6
+    },
+    "energyValue": 37.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 7
+    },
+    "energyValue": 294.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 8
+    },
+    "energyValue": 3110.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 9
+    },
+    "energyValue": 154.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 10
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 11
+    },
+    "energyValue": 296.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 12
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 13
+    },
+    "energyValue": 293.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 14
+    },
+    "energyValue": 3109.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 17
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 18
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 19
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 20
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 21
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 22
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 23
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 24
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 25
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 26
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 27
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 28
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 29
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 30
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 31
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 32
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 33
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 34
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 35
+    },
+    "energyValue": 100.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 36
+    },
+    "energyValue": 600.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 40
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 41
+    },
+    "energyValue": 296.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 42
+    },
+    "energyValue": 293.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part",
+      "metaValue": 43
+    },
+    "energyValue": 3109.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transportation:projectred.transportation.routerutil"
+    },
+    "energyValue": 9504.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate"
+    },
+    "energyValue": 172.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 1
+    },
+    "energyValue": 179.167
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 2
+    },
+    "energyValue": 187.167
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 3
+    },
+    "energyValue": 265.834
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 4
+    },
+    "energyValue": 272.501
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 5
+    },
+    "energyValue": 336.501
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 6
+    },
+    "energyValue": 340.501
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 7
+    },
+    "energyValue": 257.834
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 8
+    },
+    "energyValue": 308.501
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 9
+    },
+    "energyValue": 304.501
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 10
+    },
+    "energyValue": 193.834
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 11
+    },
+    "energyValue": 9462.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 12
+    },
+    "energyValue": 289.834
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 13
+    },
+    "energyValue": 145.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 14
+    },
+    "energyValue": 291.167
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 15
+    },
+    "energyValue": 83.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 16
+    },
+    "energyValue": 107.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 17
+    },
+    "energyValue": 258.834
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 18
+    },
+    "energyValue": 185.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 19
+    },
+    "energyValue": 177.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 20
+    },
+    "energyValue": 478.167
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 21
+    },
+    "energyValue": 831.167
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 23
+    },
+    "energyValue": 446.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 24
+    },
+    "energyValue": 410.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 25
+    },
+    "energyValue": 446.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 26
+    },
+    "energyValue": 679.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 27
+    },
+    "energyValue": 474.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 31
+    },
+    "energyValue": 292.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Integration:projectred.integration.gate",
+      "metaValue": 33
+    },
+    "energyValue": 6737.167
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.sicklediamond"
+    },
+    "energyValue": 24580.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.woolgin"
+    },
+    "energyValue": 280.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.sawgold"
+    },
+    "energyValue": 4105.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Fabrication:projectred.fabrication.icblueprint"
+    },
+    "energyValue": 224.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv"
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "metaValue": 1
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "metaValue": 2
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "metaValue": 3
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "metaValue": 4
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "metaValue": 5
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "metaValue": 6
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "metaValue": 7
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "metaValue": 8
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "metaValue": 9
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "metaValue": 10
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "metaValue": 11
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "metaValue": 12
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "metaValue": 13
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "metaValue": 14
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture.inv",
+      "metaValue": 15
+    },
+    "energyValue": 839.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.sickleiron"
+    },
+    "energyValue": 772.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton"
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "metaValue": 1
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "metaValue": 2
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "metaValue": 3
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "metaValue": 4
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "metaValue": 5
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "metaValue": 6
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "metaValue": 7
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "metaValue": 8
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "metaValue": 9
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "metaValue": 10
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "metaValue": 11
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "metaValue": 12
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "metaValue": 13
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "metaValue": 14
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.lightbutton",
+      "metaValue": 15
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.screwdriver"
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transportation:projectred.transportation.pipe"
+    },
+    "energyValue": 0.148
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transportation:projectred.transportation.pipe",
+      "metaValue": 1
+    },
+    "energyValue": 1260.648
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transportation:projectred.transportation.pipe",
+      "metaValue": 4
+    },
+    "energyValue": 17836.648
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transportation:projectred.transportation.pipe",
+      "metaValue": 6
+    },
+    "energyValue": 2908.648
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transportation:projectred.transportation.pipe",
+      "metaValue": 9
+    },
+    "energyValue": 6.273
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transportation:projectred.transportation.pipe",
+      "metaValue": 10
+    },
+    "energyValue": 4.148
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture"
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture",
+      "metaValue": 1
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture",
+      "metaValue": 2
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture",
+      "metaValue": 3
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture",
+      "metaValue": 4
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture",
+      "metaValue": 5
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture",
+      "metaValue": 6
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture",
+      "metaValue": 7
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture",
+      "metaValue": 8
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture",
+      "metaValue": 9
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture",
+      "metaValue": 10
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture",
+      "metaValue": 11
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture",
+      "metaValue": 12
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture",
+      "metaValue": 13
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture",
+      "metaValue": 14
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.fixture",
+      "metaValue": 15
+    },
+    "energyValue": 835.375
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.datacard"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2"
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "metaValue": 1
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "metaValue": 2
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "metaValue": 3
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "metaValue": 4
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "metaValue": 5
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "metaValue": 6
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "metaValue": 7
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "metaValue": 8
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "metaValue": 9
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "metaValue": 10
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "metaValue": 11
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "metaValue": 12
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "metaValue": 13
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "metaValue": 14
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2",
+      "metaValue": 15
+    },
+    "energyValue": 1121.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton"
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton",
+      "metaValue": 1
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton",
+      "metaValue": 2
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton",
+      "metaValue": 3
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton",
+      "metaValue": 4
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton",
+      "metaValue": 5
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton",
+      "metaValue": 6
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton",
+      "metaValue": 7
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton",
+      "metaValue": 8
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton",
+      "metaValue": 9
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton",
+      "metaValue": 10
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton",
+      "metaValue": 11
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton",
+      "metaValue": 12
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton",
+      "metaValue": 13
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton",
+      "metaValue": 14
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.flightbutton",
+      "metaValue": 15
+    },
+    "energyValue": 1637.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.sicklewood"
+    },
+    "energyValue": 28.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack"
+    },
+    "energyValue": 800.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack",
+      "metaValue": 1
+    },
+    "energyValue": 816.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack",
+      "metaValue": 2
+    },
+    "energyValue": 816.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack",
+      "metaValue": 3
+    },
+    "energyValue": 816.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack",
+      "metaValue": 4
+    },
+    "energyValue": 816.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack",
+      "metaValue": 5
+    },
+    "energyValue": 816.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack",
+      "metaValue": 6
+    },
+    "energyValue": 816.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack",
+      "metaValue": 7
+    },
+    "energyValue": 816.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack",
+      "metaValue": 8
+    },
+    "energyValue": 816.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack",
+      "metaValue": 9
+    },
+    "energyValue": 816.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack",
+      "metaValue": 10
+    },
+    "energyValue": 816.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack",
+      "metaValue": 11
+    },
+    "energyValue": 816.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack",
+      "metaValue": 12
+    },
+    "energyValue": 816.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack",
+      "metaValue": 13
+    },
+    "energyValue": 816.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack",
+      "metaValue": 14
+    },
+    "energyValue": 816.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.backpack",
+      "metaValue": 15
+    },
+    "energyValue": 816.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 1
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 2
+    },
+    "energyValue": 97.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 3
+    },
+    "energyValue": 97.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 4
+    },
+    "energyValue": 97.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 5
+    },
+    "energyValue": 97.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 6
+    },
+    "energyValue": 97.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 7
+    },
+    "energyValue": 97.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 8
+    },
+    "energyValue": 97.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 9
+    },
+    "energyValue": 97.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 10
+    },
+    "energyValue": 97.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 11
+    },
+    "energyValue": 97.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 12
+    },
+    "energyValue": 97.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 13
+    },
+    "energyValue": 97.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 14
+    },
+    "energyValue": 97.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 15
+    },
+    "energyValue": 97.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transmission:projectred.transmission.wire",
+      "metaValue": 16
+    },
+    "energyValue": 97.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv"
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "metaValue": 1
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "metaValue": 2
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "metaValue": 3
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "metaValue": 4
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "metaValue": 5
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "metaValue": 6
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "metaValue": 7
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "metaValue": 8
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "metaValue": 9
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "metaValue": 10
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "metaValue": 11
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "metaValue": 12
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "metaValue": 13
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "metaValue": 14
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Illumination:projectred.illumination.cagelamp2.inv",
+      "metaValue": 15
+    },
+    "energyValue": 1125.5
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Expansion:projectred.expansion.plan"
+    },
+    "energyValue": 48.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.wiredebugger"
+    },
+    "energyValue": 9216.0
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Exploration:projectred.exploration.sicklestone"
+    },
+    "energyValue": 16.0
   }
 ]

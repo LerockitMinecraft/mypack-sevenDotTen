@@ -129,7 +129,7 @@ key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
 key_key.portaitreposition:52
-soundCategory_master:0.33774835
+soundCategory_master:0.33443707
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

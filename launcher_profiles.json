@@ -3,7 +3,7 @@
     "Lerockit": {
       "name": "Lerockit",
       "lastVersionId": "1.7.10-Forge10.13.4.1614-1.7.10",
-      "javaArgs": "-Xmx4G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn512M"
+      "javaArgs": "-Xmx7G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn896M"
     },
     "Forge": {
       "name": "Forge",
@@ -21,12 +21,12 @@
     },
     "8bfe731c7f2e36dea4aa90a27587c85f": {
       "displayName": "Lercokit",
+      "accessToken": "null",
       "userid": "Lercokit",
       "uuid": "8bfe731c-7f2e-36de-a4aa-90a27587c85f",
       "username": "Lercokit"
     }
   },
-  "selectedUser": "d83954d17e9e39b5a49f732d7befc5fe",
   "launcherVersion": {
     "name": "Shiginima Launcher v3.100",
     "format": 18

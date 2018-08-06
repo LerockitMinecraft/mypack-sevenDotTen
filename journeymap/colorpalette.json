@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4p1 Unlimited for 1.7.10 on Mon Jul 30 17:38:47 BRT 2018",
+  "generated": "Generated using JourneyMap 5.1.4p1 Unlimited for 1.7.10 on Sun Aug 05 23:00:50 BRT 2018",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Default",
-  "modNames": "AMCore:0.0.3, AnimationAPI:1.2.4, Applied Energistics 2 Core:rv3-beta-6, Applied Energistics 2:rv3-beta-6, Ars Magica 2:1.4.0.009, BC Builders:7.1.23, BC Energy:7.1.23, BC Factory:7.1.23, BC Robotics:7.1.23, BC Silicon:7.1.23, BC Transport:7.1.23, Backpack:2.0.1, Battle Towers:1.5.1, Baubles:1.0.1.10, BuildCraft:7.1.23, ChickenChunks:1.3.4.19, Chisel:2.9.5.11, Chocolate Quest:1.0, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.0.7.47, Craftable Nether Star +:0.2.1, Damage Indicators:3.2.0, Doomlike Dungeons:1.10.0, DrZhark\u0027s CustomSpawner:3.3.0, Dungeon Pack:1.7.10-1.0, Enchanting Plus:3.0.2-d, EnderStorage:1.4.7.38, EnhancedPortals:3.0.6, Equivalent Exchange 3:0.3.0.547, Extra Utilities:1.2.12, Factorization Miscellaneous Nonsense:1.7.10-0.8.83, Factorization Notification System:1.0, Factorization:1.7.10-0.8.83, Flat Signs:2.1.0.19, FloatingRuins:1.7.10.r02, Forestry for Minecraft:4.2.16.64, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, ForgeRelocation:0.0.1.4, Goblins! Mod:0.6, GraviGun:4.0.0-beta, IndustrialCraft 2:2.2.827-experimental, Invasion:1.1.5, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Chest:6.0.62.742, IvToolkit:1.2.1, JourneyMap:5.1.4p1, Logistics Pipes:0.9.3.132, MCFrames:1.0, Mantle:1.7.10-0.3.2.jenkins191, Mekanism:9.1.1, MekanismGenerators:9.1.1, MekanismTools:9.1.1, MineChess:1.3.8, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, MrTJPCore:1.1.0.33, Mystcraft:0.12.3.04, Natura:2.2.0, Nether Ores:1.7.10R2.3.1, Not Enough Items:1.0.5.120, Numina:1.7.10, ObsidiPlates:3.0.0.18, OpenBlocks:1.5.1, OpenMods:0.9.1, OpenModsCore:0.9.1, PortalGun:4.0.0-beta-6, Power Converters 3:1.7.10-2.11, ProjectRed Compatibility:4.7.0pre12.95, ProjectRed Core:4.7.0pre12.95, ProjectRed Expansion:4.7.0pre12.95, ProjectRed Exploration:4.7.0pre12.95, ProjectRed Fabrication:4.7.0pre12.95, ProjectRed Illumination:4.7.0pre12.95, ProjectRed Integration:4.7.0pre12.95, ProjectRed Transmission:4.7.0pre12.95, ProjectRed Transportation:4.7.0pre12.95, Recurrent Complex:0.9.7.1.1, RelocationFMP:0.0.1.2, Roguelike Dungeons:1.5.0, Special Mobs:3.2.2, StartingInventory:1.7.10.r03, Thaumcraft:4.2.3.5, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:unspecified, The Twilight Forest:2.3.7, Thermal Dynamics:1.7.10R1.2.1, Thermal Expansion:1.7.10R4.1.5, Thermal Foundation:1.7.10R1.2.6, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Treecapitator:1.7.10, Utility Mobs:3.1.1, Wild Caves 3:1.7.10, bspkrsCore:6.16, iChunUtil:4.2.2, vending:1.2.3",
+  "modNames": "AMCore:0.0.3, AnimationAPI:1.2.4, Applied Energistics 2 Core:rv3-beta-6, Applied Energistics 2:rv3-beta-6, Ars Magica 2:1.4.0.009, BC Builders:7.1.23, BC Energy:7.1.23, BC Factory:7.1.23, BC Robotics:7.1.23, BC Silicon:7.1.23, BC Transport:7.1.23, Backpack:2.0.1, Battle Towers:1.5.1, Baubles:1.0.1.10, BuildCraft:7.1.23, ChickenChunks:1.3.4.19, Chisel:2.9.5.11, Chocolate Quest:1.0, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.0.7.47, Craftable Nether Star +:0.2.1, Damage Indicators:3.2.0, Doomlike Dungeons:1.10.0, DrZhark\u0027s CustomSpawner:3.3.0, Dungeon Pack:1.7.10-1.0, Enchanting Plus:3.0.2-d, EnderStorage:1.4.7.38, EnhancedPortals:3.0.6, Equivalent Exchange 3:0.3.0.547, Extra Utilities:1.2.12, Factorization Miscellaneous Nonsense:1.7.10-0.8.83, Factorization Notification System:1.0, Factorization:1.7.10-0.8.83, Flat Signs:2.1.0.19, FloatingRuins:1.7.10.r02, Forestry for Minecraft:4.2.14.62, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, ForgeRelocation:0.0.1.4, Goblins! Mod:0.6, GraviGun:4.0.0-beta, IndustrialCraft 2:2.2.827-experimental, Invasion:1.1.5, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Chest:6.0.62.742, IvToolkit:1.2.1, JourneyMap:5.1.4p1, Logistics Pipes:0.9.3.132, MCFrames:1.0, Mantle:1.7.10-0.3.2.jenkins191, Mekanism:9.1.1, MekanismGenerators:9.1.1, MekanismTools:9.1.1, MineChess:1.3.8, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.345, MrTJPCore:1.1.0.33, Mystcraft:0.12.3.04, Natura:2.2.0, Nether Ores:1.7.10R2.3.1, Not Enough Items:1.0.5.120, Numina:1.7.10, ObsidiPlates:3.0.0.18, OpenBlocks:1.5.1, OpenMods:0.9.1, OpenModsCore:0.9.1, PortalGun:4.0.0-beta-6, Power Converters 3:1.7.10-2.11, ProjectRed Compatibility:4.7.0pre12.95, ProjectRed Core:4.7.0pre12.95, ProjectRed Expansion:4.7.0pre12.95, ProjectRed Exploration:4.7.0pre12.95, ProjectRed Fabrication:4.7.0pre12.95, ProjectRed Illumination:4.7.0pre12.95, ProjectRed Integration:4.7.0pre12.95, ProjectRed Transmission:4.7.0pre12.95, ProjectRed Transportation:4.7.0pre12.95, Recurrent Complex:0.9.7.1.1, RelocationFMP:0.0.1.2, Roguelike Dungeons:1.5.0, Special Mobs:3.2.2, StartingInventory:1.7.10.r03, Thaumcraft:4.2.3.5, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:unspecified, The Twilight Forest:2.3.7, Thermal Dynamics:1.7.10R1.2.1, Thermal Expansion:1.7.10R4.1.5, Thermal Foundation:1.7.10R1.2.6, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Treecapitator:1.7.10, Utility Mobs:3.1.1, Wild Caves 3:1.7.10, bspkrsCore:6.16, iChunUtil:4.2.2, vending:1.2.3",
   "basicColors": [
     {
       "name": "16k Crafting Storage",
@@ -18063,7 +18063,7 @@ var colorpalette={
       "color": "#a579a5"
     },
     {
-      "name": "QED (Quite Expensive Decoration)",
+      "name": "QED (Quantum Entanglement Device)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
@@ -25106,25 +25106,25 @@ var colorpalette={
     {
       "name": "factorization.factoryBlock.null.name",
       "uid": "factorization:FzBlock",
-      "meta": 4830,
+      "meta": 4890,
       "color": "#000000"
     },
     {
       "name": "factorization.factoryBlock.null.name",
       "uid": "factorization:FzBlock",
-      "meta": 4831,
+      "meta": 4891,
       "color": "#000000"
     },
     {
       "name": "factorization.factoryBlock.null.name",
       "uid": "factorization:FzBlock",
-      "meta": 4832,
+      "meta": 4892,
       "color": "#000000"
     },
     {
       "name": "factorization.factoryBlock.null.name",
       "uid": "factorization:FzBlock",
-      "meta": 4834,
+      "meta": 4894,
       "color": "#000000"
     },
     {
