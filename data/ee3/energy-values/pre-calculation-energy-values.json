@@ -888,6 +888,88 @@
   },
   {
     "itemstack": {
+      "name": "EE3:alchemicalDust"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 1
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 2
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 3
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:shardMinium"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 65
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 66
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 67
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 68
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 69
+    },
+    "energyValue": 16384.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 70
+    },
+    "energyValue": 16384.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 1024
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
       "name": "ExtraUtilities:mini-soul"
     },
     "energyValue": 1515413.0

@@ -141,12 +141,22 @@
   },
   {
     "orestack": {
+      "name": "oreDraconium"
+    }
+  },
+  {
+    "orestack": {
       "name": "oreElectrotine"
     }
   },
   {
     "orestack": {
       "name": "oreEmerald"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEssence"
     }
   },
   {
@@ -421,6 +431,11 @@
   },
   {
     "orestack": {
+      "name": "oreSteel"
+    }
+  },
+  {
+    "orestack": {
       "name": "oreSunstone"
     }
   },
@@ -437,6 +452,16 @@
   {
     "orestack": {
       "name": "oreVinteum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreYellorite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreYellorium"
     }
   },
   {

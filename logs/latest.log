@@ -1,57 +1,181 @@
-[16:29:25] [main/INFO]: Setting user: Lerockit
-[16:29:27] [Client thread/INFO]: LWJGL Version: 2.9.1
-[16:29:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:StartingInventory, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Backpack, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chocolate Quest, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Craftable Nether Star +, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:Damage Indicators, FMLFileResourcePack:Doomlike Dungeons, FMLFileResourcePack:Dungeon Pack, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:EnhancedPortals, FMLFileResourcePack:Equivalent Exchange 3, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Factorization Miscellaneous Nonsense, FMLFileResourcePack:Factorization Notification System, FMLFileResourcePack:Factorization, FMLFileResourcePack:Flat Signs, FMLFileResourcePack:FloatingRuins, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Goblins! Mod, FMLFileResourcePack:GraviGun, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Invasion, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Logistics Pipes, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MekanismTools, FMLFileResourcePack:MineChess, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Numina, FMLFileResourcePack:ObsidiPlates, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:PortalGun, FMLFileResourcePack:Power Converters 3, FMLFileResourcePack:ProjectRed Compatibility, FMLFileResourcePack:ProjectRed Fabrication, FMLFileResourcePack:ProjectRed Integration, FMLFileResourcePack:ProjectRed Transmission, FMLFileResourcePack:ProjectRed Illumination, FMLFileResourcePack:ProjectRed Expansion, FMLFileResourcePack:ProjectRed Transportation, FMLFileResourcePack:ProjectRed Exploration, FMLFileResourcePack:ProjectRed Core, FMLFileResourcePack:Recurrent Complex, FMLFileResourcePack:Roguelike Dungeons, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Utility Mobs, FMLFileResourcePack:vending, FMLFileResourcePack:Wild Caves 3, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MCFrames, FMLFileResourcePack:ForgeRelocation, FMLFileResourcePack:RelocationFMP, FMLFileResourcePack:MrTJPCore
-[16:30:09] [Sound Library Loader/INFO]: Sound engine started
-[16:30:10] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[16:30:10] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[16:30:33] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:StartingInventory, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Backpack, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chocolate Quest, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Craftable Nether Star +, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:Damage Indicators, FMLFileResourcePack:Doomlike Dungeons, FMLFileResourcePack:Dungeon Pack, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:EnhancedPortals, FMLFileResourcePack:Equivalent Exchange 3, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Factorization Miscellaneous Nonsense, FMLFileResourcePack:Factorization Notification System, FMLFileResourcePack:Factorization, FMLFileResourcePack:Flat Signs, FMLFileResourcePack:FloatingRuins, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Goblins! Mod, FMLFileResourcePack:GraviGun, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Invasion, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Logistics Pipes, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MekanismTools, FMLFileResourcePack:MineChess, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Numina, FMLFileResourcePack:ObsidiPlates, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:PortalGun, FMLFileResourcePack:Power Converters 3, FMLFileResourcePack:ProjectRed Compatibility, FMLFileResourcePack:ProjectRed Fabrication, FMLFileResourcePack:ProjectRed Integration, FMLFileResourcePack:ProjectRed Transmission, FMLFileResourcePack:ProjectRed Illumination, FMLFileResourcePack:ProjectRed Expansion, FMLFileResourcePack:ProjectRed Transportation, FMLFileResourcePack:ProjectRed Exploration, FMLFileResourcePack:ProjectRed Core, FMLFileResourcePack:Recurrent Complex, FMLFileResourcePack:Roguelike Dungeons, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Utility Mobs, FMLFileResourcePack:vending, FMLFileResourcePack:Wild Caves 3, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MCFrames, FMLFileResourcePack:ForgeRelocation, FMLFileResourcePack:RelocationFMP, FMLFileResourcePack:MrTJPCore, PortalGunSounds.pak, XU_Delegate_Pack, XU_Delegate_Pack, XU_Delegate_Pack
-[16:30:44] [Client thread/INFO]: Created: 4096x2048 textures/blocks-atlas
-[16:30:52] [Client thread/INFO]: Created: 2048x2048 textures/items-atlas
-[16:30:53] [Sound Library Loader/INFO]: Sound engine started
-[16:31:02] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[16:31:02] [Server thread/INFO]: Generating keypair
-[16:31:17] [Server thread/INFO]: Preparing start region for level 0
-[16:31:22] [Server thread/INFO]: Changing view distance to 8, from 10
-[16:31:22] [Server thread/INFO]: Lerockit[local:E:8680c385] logged in with entity id 6139 at (-119.78399132454675, 54.0, 499.5803132119809)
-[16:31:22] [Server thread/INFO]: Lerockit joined the game
-[16:31:25] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
-[16:31:25] [Server thread/INFO]: [CHAT] ProjectRed 4.8.1 available.
-[16:31:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4885ms behind, skipping 97 tick(s)
-[16:31:30] [Client thread/INFO]: [CHAT] Damage Indicators was unable to check for updates!
-[16:31:32] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
-[16:31:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2427ms behind, skipping 48 tick(s)
-[16:32:24] [Client thread/INFO]: [CHAT] §aRequested: §a24 Diamond§f
-[16:32:24] [Client thread/INFO]: [CHAT] §aRequest successful!
-[16:32:36] [Client thread/INFO]: [CHAT] §aRequested: §a5 Diamond§f
-[16:32:36] [Client thread/INFO]: [CHAT] §aRequest successful!
-[16:32:38] [Client thread/INFO]: [CHAT] §aRequested: §a4 Gold Ingot§f
-[16:32:38] [Client thread/INFO]: [CHAT] §aRequest successful!
-[16:32:46] [Client thread/INFO]: [CHAT] §aRequested: §a4 Spruce Wood Planks§f
-[16:32:46] [Client thread/INFO]: [CHAT] §aRequest successful!
-[16:33:11] [Client thread/INFO]: [CHAT] §aRequested: §a4 Spruce Wood Planks§f
-[16:33:11] [Client thread/INFO]: [CHAT] §aRequest successful!
-[16:33:38] [Client thread/INFO]: [CHAT] §aRequested: §a50 Obsidian§f
-[16:33:38] [Client thread/INFO]: [CHAT] §aRequest successful!
-[16:34:36] [Server thread/INFO]: Lerockit has just earned the achievement [Time for some logic]
-[16:34:36] [Client thread/INFO]: [CHAT] Lerockit has just earned the achievement [Time for some logic]
-[16:35:04] [Client thread/INFO]: [CHAT] §aRequested: §a20 Redstone§f
-[16:35:04] [Client thread/INFO]: [CHAT] §aRequest successful!
-[16:35:32] [Server thread/INFO]: Lerockit has just earned the achievement [Tingly laser]
-[16:35:32] [Client thread/INFO]: [CHAT] Lerockit has just earned the achievement [Tingly laser]
-[16:36:45] [Client thread/INFO]: [CHAT] §aRequested: §a1 Iron Saw§f
-[16:36:45] [Client thread/INFO]: [CHAT] §aRequest successful!
-[16:37:36] [Client thread/INFO]: [CHAT] §aRequested: §a1 Glowstone§f
-[16:37:36] [Client thread/INFO]: [CHAT] §aRequest successful!
-[16:55:16] [Client thread/WARN]: Null returned as 'hitResult', this shouldn't happen!
-[16:55:17] [Client thread/WARN]: Null returned as 'hitResult', this shouldn't happen!
-[16:57:47] [Server thread/INFO]: Saving and pausing game...
-[16:57:47] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
-[16:57:47] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
-[16:57:47] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
-[16:57:48] [Server thread/INFO]: Stopping server
-[16:57:48] [Server thread/INFO]: Saving players
-[16:57:48] [Server thread/INFO]: Saving worlds
-[16:57:48] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
-[16:57:48] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
-[16:57:48] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
-[16:57:53] [Client thread/INFO]: Stopping!
+[19:33:20] [main/INFO]: Setting user: Lerockit
+[19:33:22] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:33:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:StartingInventory, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Backpack, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Big Reactors, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chocolate Quest, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Craftable Nether Star +, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:Damage Indicators, FMLFileResourcePack:Doomlike Dungeons, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:Dungeon Pack, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:EnderCore, FMLFileResourcePack:EnhancedPortals, FMLFileResourcePack:Equivalent Exchange 3, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Factorization Miscellaneous Nonsense, FMLFileResourcePack:Factorization Notification System, FMLFileResourcePack:Factorization, FMLFileResourcePack:Flat Signs, FMLFileResourcePack:FloatingRuins, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Goblins! Mod, FMLFileResourcePack:GraviGun, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Invasion, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Logistics Pipes, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MekanismTools, FMLFileResourcePack:MineChess, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Applied Energistics, FMLFileResourcePack:MFR Compat: BuildCraft, FMLFileResourcePack:MFR Compat: Forestry, FMLFileResourcePack:MFR Compat: ForgeMicroblock, FMLFileResourcePack:MFR Compat: IC2, FMLFileResourcePack:MFR Compat ProjectRed, FMLFileResourcePack:MFR Compat: Thaumcraft, FMLFileResourcePack:MFR Compat: Thermal Expansion, FMLFileResourcePack:MFR Compat: Tinkers' Construct, FMLFileResourcePack:MFR Compat: TwilightForest, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Numina, FMLFileResourcePack:ObsidiPlates, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:PortalGun, FMLFileResourcePack:Power Converters 3, FMLFileResourcePack:ProjectRed Compatibility, FMLFileResourcePack:ProjectRed Fabrication, FMLFileResourcePack:ProjectRed Integration, FMLFileResourcePack:ProjectRed Transmission, FMLFileResourcePack:ProjectRed Illumination, FMLFileResourcePack:ProjectRed Expansion, FMLFileResourcePack:ProjectRed Transportation, FMLFileResourcePack:ProjectRed Exploration, FMLFileResourcePack:ProjectRed Core, FMLFileResourcePack:Recurrent Complex, FMLFileResourcePack:Roguelike Dungeons, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Utility Mobs, FMLFileResourcePack:vending, FMLFileResourcePack:Wild Caves 3, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MCFrames, FMLFileResourcePack:ForgeRelocation, FMLFileResourcePack:RelocationFMP, FMLFileResourcePack:MrTJPCore
+[19:33:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in C:\Users\Lerockit\AppData\Roaming\.minecraft\mods\Blood-Magic-Mod-1.7.10.jar
+[19:33:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in C:\Users\Lerockit\AppData\Roaming\.minecraft\mods\Blood-Magic-Mod-1.7.10.jar
+[19:33:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in C:\Users\Lerockit\AppData\Roaming\.minecraft\mods\Blood-Magic-Mod-1.7.10.jar
+[19:33:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in C:\Users\Lerockit\AppData\Roaming\.minecraft\mods\Blood-Magic-Mod-1.7.10.jar
+[19:33:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in C:\Users\Lerockit\AppData\Roaming\.minecraft\mods\Blood-Magic-Mod-1.7.10.jar
+[19:33:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in C:\Users\Lerockit\AppData\Roaming\.minecraft\mods\Blood-Magic-Mod-1.7.10.jar
+[19:34:21] [Sound Library Loader/INFO]: Sound engine started
+[19:34:23] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:34:24] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:35:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:StartingInventory, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Backpack, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Big Reactors, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chocolate Quest, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Craftable Nether Star +, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:Damage Indicators, FMLFileResourcePack:Doomlike Dungeons, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:Dungeon Pack, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:EnderCore, FMLFileResourcePack:EnhancedPortals, FMLFileResourcePack:Equivalent Exchange 3, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Factorization Miscellaneous Nonsense, FMLFileResourcePack:Factorization Notification System, FMLFileResourcePack:Factorization, FMLFileResourcePack:Flat Signs, FMLFileResourcePack:FloatingRuins, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Goblins! Mod, FMLFileResourcePack:GraviGun, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Invasion, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Logistics Pipes, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MekanismTools, FMLFileResourcePack:MineChess, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Applied Energistics, FMLFileResourcePack:MFR Compat: BuildCraft, FMLFileResourcePack:MFR Compat: Forestry, FMLFileResourcePack:MFR Compat: ForgeMicroblock, FMLFileResourcePack:MFR Compat: IC2, FMLFileResourcePack:MFR Compat ProjectRed, FMLFileResourcePack:MFR Compat: Thaumcraft, FMLFileResourcePack:MFR Compat: Thermal Expansion, FMLFileResourcePack:MFR Compat: Tinkers' Construct, FMLFileResourcePack:MFR Compat: TwilightForest, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Numina, FMLFileResourcePack:ObsidiPlates, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:PortalGun, FMLFileResourcePack:Power Converters 3, FMLFileResourcePack:ProjectRed Compatibility, FMLFileResourcePack:ProjectRed Fabrication, FMLFileResourcePack:ProjectRed Integration, FMLFileResourcePack:ProjectRed Transmission, FMLFileResourcePack:ProjectRed Illumination, FMLFileResourcePack:ProjectRed Expansion, FMLFileResourcePack:ProjectRed Transportation, FMLFileResourcePack:ProjectRed Exploration, FMLFileResourcePack:ProjectRed Core, FMLFileResourcePack:Recurrent Complex, FMLFileResourcePack:Roguelike Dungeons, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Utility Mobs, FMLFileResourcePack:vending, FMLFileResourcePack:Wild Caves 3, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MCFrames, FMLFileResourcePack:ForgeRelocation, FMLFileResourcePack:RelocationFMP, FMLFileResourcePack:MrTJPCore, PortalGunSounds.pak, resources, XU_Delegate_Pack, XU_Delegate_Pack, XU_Delegate_Pack
+[19:35:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in C:\Users\Lerockit\AppData\Roaming\.minecraft\mods\Blood-Magic-Mod-1.7.10.jar
+[19:35:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in C:\Users\Lerockit\AppData\Roaming\.minecraft\mods\Blood-Magic-Mod-1.7.10.jar
+[19:35:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in C:\Users\Lerockit\AppData\Roaming\.minecraft\mods\Blood-Magic-Mod-1.7.10.jar
+[19:35:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in C:\Users\Lerockit\AppData\Roaming\.minecraft\mods\Blood-Magic-Mod-1.7.10.jar
+[19:35:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in C:\Users\Lerockit\AppData\Roaming\.minecraft\mods\Blood-Magic-Mod-1.7.10.jar
+[19:35:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in C:\Users\Lerockit\AppData\Roaming\.minecraft\mods\Blood-Magic-Mod-1.7.10.jar
+[19:35:17] [Client thread/INFO]: Created: 4096x2048 textures/blocks-atlas
+[19:35:27] [Client thread/INFO]: Created: 2048x2048 textures/items-atlas
+[19:35:28] [Sound Library Loader/INFO]: Sound engine started
+[19:42:22] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:42:22] [Server thread/INFO]: Generating keypair
+[19:42:39] [Server thread/INFO]: Preparing start region for level 0
+[19:42:44] [Server thread/INFO]: Changing view distance to 8, from 10
+[19:42:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2699ms behind, skipping 53 tick(s)
+[19:42:45] [Server thread/INFO]: Lerockit[local:E:5632f475] logged in with entity id 7048 at (-117.10579821770803, 54.0, 499.3899660153919)
+[19:42:45] [Server thread/INFO]: Lerockit joined the game
+[19:42:48] [Client thread/INFO]: [CHAT] Damage Indicators was unable to check for updates!
+[19:42:48] [Server thread/INFO]: [CHAT] ProjectRed 4.8.1 available.
+[19:42:49] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[19:43:10] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[19:43:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8170ms behind, skipping 163 tick(s)
+[19:43:25] [Client thread/INFO]: [CHAT] §d[Draconic Evolution]§r New version available:
+[19:43:25] [Client thread/INFO]: [CHAT] §aDraconic Evolution v1.0.2
+[19:43:25] [Client thread/INFO]: [CHAT] More bug fixes! Hopefully fixed the chaos guardian issues once and for all...
+[19:43:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4400ms behind, skipping 88 tick(s)
+[19:43:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13431ms behind, skipping 268 tick(s)
+[19:44:03] [Client thread/INFO]: Warning: Clientside chunk ticking took 3312 ms
+[19:48:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 261568ms behind, skipping 5231 tick(s)
+[19:51:13] [Server thread/INFO]: Saving and pausing game...
+[19:51:13] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[19:51:13] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[19:51:13] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[19:51:13] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/CONTROL
+[19:51:27] [Client thread/INFO]: [CHAT] §aRequested: §a9 Cooked Porkchop§f
+[19:51:27] [Client thread/INFO]: [CHAT] §aRequest successful!
+[19:52:38] [Client thread/INFO]: [CHAT] §aRequested: §a1 Osmium Shovel§f
+[19:52:38] [Client thread/INFO]: [CHAT] §aRequest successful!
+[19:55:08] [Client thread/INFO]: [CHAT] §aRequested: §a188 Cobblestone§f
+[19:55:08] [Client thread/INFO]: [CHAT] §aRequest successful!
+[19:57:16] [Client thread/INFO]: [CHAT] §aRequested: §a1 Chisel§f
+[19:57:16] [Client thread/INFO]: [CHAT] §aRequest successful!
+[19:57:32] [Client thread/INFO]: [CHAT] §aRequested: §a84 Colored Cobblestone (Black Frequency)§f
+[19:57:32] [Client thread/INFO]: [CHAT] §aRequest successful!
+[19:57:43] [Client thread/INFO]: [CHAT] §aRequested: §a21 Spruce Wood Planks§f
+[19:57:43] [Client thread/INFO]: [CHAT] §aRequest successful!
+[19:57:48] [Server thread/INFO]: Saving and pausing game...
+[19:57:48] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[19:57:48] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[19:57:48] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[19:57:48] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/CONTROL
+[20:01:46] [Client thread/INFO]: [CHAT] Connected to pipe
+[20:02:01] [Client thread/INFO]: [CHAT] Connected to pipe
+[20:05:37] [Client thread/INFO]: [CHAT] §aRequested: §a128 Cobblestone Structure Pipe§f
+[20:05:37] [Client thread/INFO]: [CHAT] §aRequest successful!
+[20:05:55] [Client thread/INFO]: [CHAT] §aRequested: §a40 Spruce Wood Planks§f
+[20:05:55] [Client thread/INFO]: [CHAT] §aRequest successful!
+[20:17:15] [Client thread/INFO]: [CHAT] §aRequested: §a64 Stone§f
+[20:17:15] [Client thread/INFO]: [CHAT] §aRequest successful!
+[20:20:31] [Server thread/INFO]: Saving and pausing game...
+[20:20:31] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[20:20:32] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[20:20:32] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[20:34:50] [Client thread/INFO]: [CHAT] §aRequested: §a10 Stone Transport Pipe§f
+[20:34:50] [Client thread/INFO]: [CHAT] §aRequest successful!
+[20:36:34] [Client thread/INFO]: [CHAT] §aRequested: §a6 Ender Pearl§f
+[20:36:34] [Client thread/INFO]: [CHAT] §aRequest successful!
+[20:36:47] [Client thread/INFO]: [CHAT] §aRequested: §a1 Diamond Shears§f
+[20:36:47] [Client thread/INFO]: [CHAT] §aRequest successful!
+[20:36:54] [Client thread/INFO]: [CHAT] §aRequested: §a10 Gold Ingot§f
+[20:36:54] [Client thread/INFO]: [CHAT] §aRequest successful!
+[20:37:04] [Client thread/INFO]: [CHAT] §aRequested: §a10 Redstone§f
+[20:37:04] [Client thread/INFO]: [CHAT] §aRequest successful!
+[20:37:57] [Client thread/INFO]: [CHAT] §aRequested: §a1 Redstone Energy Fluxduct§f
+[20:37:57] [Client thread/INFO]: [CHAT] §aRequest successful!
+[20:39:12] [Client thread/INFO]: [CHAT] §aRequested: §a1 Chest§f
+[20:39:12] [Client thread/INFO]: [CHAT] §aRequest successful!
+[20:44:15] [Client thread/INFO]: [CHAT] §aRequested: §a1 Golden Transport Pipe§f
+[20:44:15] [Client thread/INFO]: [CHAT] §aRequest successful!
+[20:45:05] [Client thread/WARN]: Null returned as 'hitResult', this shouldn't happen!
+[20:49:34] [Client thread/INFO]: [CHAT] §aRequested: §a1 Osmium Axe§f
+[20:49:34] [Client thread/INFO]: [CHAT] §aRequest successful!
+[20:49:54] [Client thread/INFO]: [CHAT] §aRequested: §a30 Stone§f
+[20:49:54] [Client thread/INFO]: [CHAT] §aRequest successful!
+[20:56:05] [Client thread/WARN]: Null returned as 'hitResult', this shouldn't happen!
+[20:58:25] [Client thread/INFO]: [CHAT] §aRequested: §a17 Iron Ingot§f
+[20:58:25] [Client thread/INFO]: [CHAT] §aRequest successful!
+[20:59:11] [Client thread/INFO]: [CHAT] §aRequested: §a9 Iron Bars§f
+[20:59:11] [Client thread/INFO]: [CHAT] §aRequest successful!
+[20:59:42] [Client thread/INFO]: [CHAT] Empty: 0 / 256,000
+[20:59:43] [Client thread/INFO]: [CHAT] Empty: 0 / 256,000
+[21:00:00] [Client thread/INFO]: [CHAT] Liquid XP: 1,760 / 256,000
+[21:04:38] [Server thread/INFO]: Saving and pausing game...
+[21:04:38] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[21:04:38] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[21:04:38] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[21:06:52] [Server thread/INFO]: Lerockit was slain by Hungry Zombie
+[21:06:52] [Client thread/INFO]: [CHAT] Lerockit was slain by Hungry Zombie
+[21:07:14] [Server thread/INFO]: Saving and pausing game...
+[21:07:14] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[21:07:14] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[21:07:14] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[21:07:27] [Server thread/INFO]: Saving and pausing game...
+[21:07:27] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[21:07:27] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[21:07:27] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[21:07:35] [Server thread/INFO]: Saving and pausing game...
+[21:07:35] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[21:07:35] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[21:07:35] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[21:15:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3203ms behind, skipping 64 tick(s)
+[21:16:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2604ms behind, skipping 52 tick(s)
+[21:17:21] [Client thread/INFO]: [CHAT] §aRequested: §a8 Glass Bottle§f
+[21:17:21] [Client thread/INFO]: [CHAT] §aRequest successful!
+[21:17:29] [Client thread/INFO]: [CHAT] §aRequested: §a7 Ink Sac§f
+[21:17:29] [Client thread/INFO]: [CHAT] §aRequest successful!
+[21:17:38] [Client thread/INFO]: [CHAT] §aRequested: §a3 Spruce Wood§f
+[21:17:38] [Client thread/INFO]: [CHAT] §aRequest successful!
+[21:19:20] [Client thread/INFO]: [CHAT] §aRequested: §a7 Paper§f
+[21:19:20] [Client thread/INFO]: [CHAT] §aRequest successful!
+[21:19:28] [Client thread/INFO]: [CHAT] §aRequested: §a2 Leather§f
+[21:19:28] [Client thread/INFO]: [CHAT] §aRequest successful!
+[21:19:56] [Server thread/INFO]: Lerockit has just earned the achievement [Small Step of the Journey]
+[21:19:56] [Client thread/INFO]: [CHAT] Lerockit has just earned the achievement [Small Step of the Journey]
+[21:21:10] [Server thread/INFO]: Saving and pausing game...
+[21:21:10] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[21:21:10] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[21:21:10] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[21:21:28] [Server thread/INFO]: Saving and pausing game...
+[21:21:28] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[21:21:28] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[21:21:28] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[21:21:54] [Server thread/INFO]: Saving and pausing game...
+[21:21:54] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[21:21:54] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[21:21:54] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[21:23:06] [Server thread/INFO]: Saving and pausing game...
+[21:23:06] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[21:23:06] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[21:23:07] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[21:23:10] [Server thread/INFO]: Stopping server
+[21:23:10] [Server thread/INFO]: Saving players
+[21:23:10] [Server thread/INFO]: Saving worlds
+[21:23:10] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[21:23:11] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[21:23:11] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[21:23:40] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:23:40] [Server thread/INFO]: Generating keypair
+[21:23:44] [Server thread/INFO]: Preparing start region for level 0
+[21:23:48] [Server thread/INFO]: Changing view distance to 8, from 10
+[21:23:48] [Server thread/INFO]: Lerockit[local:E:54d0d969] logged in with entity id 2425654 at (-93.12079065992934, 63.0, 523.096703115651)
+[21:23:48] [Server thread/INFO]: Lerockit joined the game
+[21:23:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5642ms behind, skipping 112 tick(s)
+[21:26:23] [Server thread/WARN]: Fetching addPacket for removed entity
+[21:29:22] [Client thread/INFO]: [CHAT] §aRequested: §a2 Leather§f
+[21:29:22] [Client thread/INFO]: [CHAT] §aRequest successful!
+[21:31:23] [Server thread/INFO]: Saving and pausing game...
+[21:31:23] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[21:31:23] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[21:31:23] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[21:31:23] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/CONTROL
+[21:31:25] [Server thread/INFO]: Stopping server
+[21:31:25] [Server thread/INFO]: Saving players
+[21:31:25] [Server thread/INFO]: Saving worlds
+[21:31:25] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Overworld
+[21:31:25] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/Nether
+[21:31:25] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/The Last Millenium
+[21:31:25] [Server thread/INFO]: Saving chunks for level 'My FuckinWorld'/CONTROL
+[21:31:30] [Client thread/INFO]: Stopping!

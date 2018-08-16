@@ -21,6 +21,9 @@
     },
     "Natura TreeCapitator Compatibility": {
       "enabled": true
+    },
+    "Natura MFR Compatibility": {
+      "enabled": true
     }
   }
 }

@@ -102,15 +102,28 @@ key_Baubles Inventory:48
 key_Change Wand Focus:33
 key_Activate Hover Harness:35
 key_Misc Wand Toggle:34
+key_key.placeItem:25
+key_key.toolConfig:46
+key_key.toolProfileChange:43
+key_key.toggleFlight:0
+key_Glider Toggle:34
+key_Sound Locator:38
+key_Night Vision:25
+key_Goggles of Revealing:19
+key_Step Assist:0
+key_Speed:0
+key_Jump:0
+key_Yeta Wrench Mode:21
+key_Toggle Electromagnet:0
 key_invtweaks.key.sort:19
 key_Mekanism Item Mode Switch:50
 key_Mekanism Armor Mode Switch:33
 key_Mekanism Voice:22
-key_Toggle Numina FOV fix :0
 key_key.tarmor:24
 key_key.tgoggles:34
 key_key.tbelt:48
 key_key.tzoom:44
+key_Toggle Numina FOV fix :0
 key_ttmisc.toggleArmor:22
 key_key.ShapeGroups:46
 key_key.SpellBookNext:45
