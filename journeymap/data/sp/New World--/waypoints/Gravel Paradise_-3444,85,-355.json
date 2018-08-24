@@ -1,0 +1,17 @@
+{
+  "id": "Gravel Paradise_-3444,85,-355",
+  "name": "Gravel Paradise",
+  "icon": "waypoint-normal.png",
+  "x": -3444,
+  "y": 85,
+  "z": -355,
+  "r": 1,
+  "g": 0,
+  "b": 4,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Meteoro_-3855,20,-370",
+  "name": "Meteoro",
+  "icon": "waypoint-normal.png",
+  "x": -3855,
+  "y": 20,
+  "z": -370,
+  "r": 255,
+  "g": 221,
+  "b": 246,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
