@@ -8,6 +8,11 @@
     "Forge": {
       "name": "Forge",
       "lastVersionId": "1.7.10-Forge10.13.4.1614-1.7.10"
+    },
+    "LerockitVanilla": {
+      "name": "LerockitVanilla",
+      "lastVersionId": "1.13",
+      "javaArgs": "-Xmx7G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn896M"
     }
   },
   "selectedProfile": "Lerockit",
