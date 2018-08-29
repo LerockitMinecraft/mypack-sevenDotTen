@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4p1 Unlimited for 1.7.10 on Mon Aug 27 00:18:34 BRT 2018",
+  "generated": "Generated using JourneyMap 5.1.4p1 Unlimited for 1.7.10 on Wed Aug 29 10:00:37 BRT 2018",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -221,8 +221,7 @@ var colorpalette={
       "name": "Advanced Alchemical Construct",
       "uid": "Thaumcraft:blockMetalDevice",
       "meta": 3,
-      "color": "#83633d",
-      "alpha": 0.99607843
+      "color": "#83633d"
     },
     {
       "name": "Advanced Alchemical Furnace",
@@ -500,15 +499,13 @@ var colorpalette={
       "name": "Alchemy Array",
       "uid": "EE3:alchemyArray",
       "meta": 0,
-      "color": "#ffffff",
-      "alpha": 0.36078432
+      "color": "#ffffff"
     },
     {
       "name": "Alchemy Array",
       "uid": "EE3:dummyArray",
       "meta": 0,
-      "color": "#ffffff",
-      "alpha": 0.36078432
+      "color": "#ffffff"
     },
     {
       "name": "Alchemy Catalyst",
@@ -757,15 +754,13 @@ var colorpalette={
       "name": "Amber Block",
       "uid": "Thaumcraft:blockCosmeticOpaque",
       "meta": 0,
-      "color": "#f1b761",
-      "alpha": 0.9098039
+      "color": "#f1b761"
     },
     {
       "name": "Amber Bricks",
       "uid": "Thaumcraft:blockCosmeticOpaque",
       "meta": 1,
-      "color": "#ecaf5c",
-      "alpha": 0.9098039
+      "color": "#ecaf5c"
     },
     {
       "name": "Analyzer",
@@ -1173,15 +1168,13 @@ var colorpalette={
       "name": "Arcane Stone Block",
       "uid": "chisel:arcane",
       "meta": 3,
-      "color": "#576665",
-      "alpha": 0.99607843
+      "color": "#576665"
     },
     {
       "name": "Arcane Stone Block",
       "uid": "chisel:arcane",
       "meta": 4,
-      "color": "#576665",
-      "alpha": 0.99607843
+      "color": "#576665"
     },
     {
       "name": "Arcane Stone Block",
@@ -1211,22 +1204,19 @@ var colorpalette={
       "name": "Arcane Stone Block",
       "uid": "chisel:arcane",
       "meta": 9,
-      "color": "#52605f",
-      "alpha": 0.99607843
+      "color": "#52605f"
     },
     {
       "name": "Arcane Stone Block",
       "uid": "chisel:arcane",
       "meta": 10,
-      "color": "#505d5c",
-      "alpha": 0.99607843
+      "color": "#505d5c"
     },
     {
       "name": "Arcane Stone Block",
       "uid": "chisel:arcane",
       "meta": 11,
-      "color": "#52605f",
-      "alpha": 0.99607843
+      "color": "#52605f"
     },
     {
       "name": "Arcane Stone Bricks",
@@ -1328,8 +1318,7 @@ var colorpalette={
       "name": "Aum",
       "uid": "arsmagica2:Aum",
       "meta": 0,
-      "color": "#779767",
-      "alpha": 0.99607843
+      "color": "#779767"
     },
     {
       "name": "Aurora Block",
@@ -1363,8 +1352,7 @@ var colorpalette={
       "name": "Auto Anvil",
       "uid": "OpenBlocks:autoanvil",
       "meta": 0,
-      "color": "#404040",
-      "alpha": 0.99607843
+      "color": "#404040"
     },
     {
       "name": "Auto Chisel",
@@ -2354,8 +2342,7 @@ var colorpalette={
       "name": "Blazing Pyrotheum",
       "uid": "ThermalFoundation:FluidPyrotheum",
       "meta": 0,
-      "color": "#feba2d",
-      "alpha": 0.8666667
+      "color": "#feba2d"
     },
     {
       "name": "Blightberry Bush",
@@ -3234,8 +3221,7 @@ var colorpalette={
       "name": "Blue Force Field",
       "uid": "TwilightForest:tile.ForceField",
       "meta": 4,
-      "color": "#0ddeff",
-      "alpha": 0.52156866
+      "color": "#0ddeff"
     },
     {
       "name": "Blue Glowshroom",
@@ -3722,8 +3708,7 @@ var colorpalette={
       "name": "Broken Power Link",
       "uid": "arsmagica2:brokenLinkBlock",
       "meta": 0,
-      "color": "#ea1616",
-      "alpha": 0.5137255
+      "color": "#ea1616"
     },
     {
       "name": "Bronze Block",
@@ -3908,8 +3893,7 @@ var colorpalette={
       "name": "Building Guide",
       "uid": "OpenBlocks:guide",
       "meta": 0,
-      "color": "#cccccc",
-      "alpha": 0.58431375
+      "color": "#cccccc"
     },
     {
       "name": "Burnt Quartz",
@@ -6469,8 +6453,7 @@ var colorpalette={
       "name": "Construction Mark",
       "uid": "BuildCraft|Builders:constructionMarkerBlock",
       "meta": 0,
-      "color": "#ac9a5e",
-      "alpha": 0.99607843
+      "color": "#ac9a5e"
     },
     {
       "name": "Conveyor Belt",
@@ -7035,8 +7018,7 @@ var colorpalette={
       "name": "Cyan Shimmering Mushroom",
       "uid": "Botania:mushroom",
       "meta": 9,
-      "color": "#42ad9e",
-      "alpha": 0.9843137
+      "color": "#42ad9e"
     },
     {
       "name": "Cyan Stained Clay",
@@ -7989,8 +7971,7 @@ var colorpalette={
       "name": "Disease",
       "uid": "witchery:disease",
       "meta": 0,
-      "color": "#6a2300",
-      "alpha": 0.003921569
+      "color": "#6a2300"
     },
     {
       "name": "Disenchanter",
@@ -8743,8 +8724,7 @@ var colorpalette={
       "name": "End Stone",
       "uid": "chisel:end_Stone",
       "meta": 8,
-      "color": "#505d5c",
-      "alpha": 0.99607843
+      "color": "#505d5c"
     },
     {
       "name": "End Stone",
@@ -8810,8 +8790,7 @@ var colorpalette={
       "name": "Ender Bramble",
       "uid": "witchery:bramble",
       "meta": 0,
-      "color": "#533032",
-      "alpha": 0.99215686
+      "color": "#533032"
     },
     {
       "name": "Ender Brick Slab",
@@ -9039,8 +9018,7 @@ var colorpalette={
       "name": "Energised Voidstone",
       "uid": "chisel:voidstone2",
       "meta": 0,
-      "color": "#442251",
-      "alpha": 0.84313726
+      "color": "#442251"
     },
     {
       "name": "Energised Voidstone",
@@ -9094,8 +9072,7 @@ var colorpalette={
       "name": "Energized Glowstone",
       "uid": "ThermalFoundation:FluidGlowstone",
       "meta": 0,
-      "color": "#fdd402",
-      "alpha": 0.8
+      "color": "#fdd402"
     },
     {
       "name": "Energized Smelter",
@@ -9193,8 +9170,7 @@ var colorpalette={
       "name": "Enhanced Building Guide",
       "uid": "OpenBlocks:builder_guide",
       "meta": 0,
-      "color": "#cccccc",
-      "alpha": 0.58431375
+      "color": "#cccccc"
     },
     {
       "name": "Enlightened Fused Quartz",
@@ -9232,8 +9208,7 @@ var colorpalette={
       "name": "Escritoire",
       "uid": "Forestry:core",
       "meta": 1,
-      "color": "#8a4f1f",
-      "alpha": 0.99607843
+      "color": "#8a4f1f"
     },
     {
       "name": "Essence",
@@ -9258,8 +9233,7 @@ var colorpalette={
       "name": "Essentia Buffer",
       "uid": "Thaumcraft:blockTube",
       "meta": 4,
-      "color": "#433e2b",
-      "alpha": 0.93333334
+      "color": "#433e2b"
     },
     {
       "name": "Essentia Crystallizer",
@@ -9284,8 +9258,7 @@ var colorpalette={
       "name": "Essentia Reservoir",
       "uid": "Thaumcraft:blockEssentiaReservoir",
       "meta": 0,
-      "color": "#708cab",
-      "alpha": 0.4117647
+      "color": "#708cab"
     },
     {
       "name": "Essentia Tube",
@@ -9529,8 +9502,7 @@ var colorpalette={
       "name": "Factory Block",
       "uid": "chisel:factoryblock",
       "meta": 13,
-      "color": "#505c5c",
-      "alpha": 0.99607843
+      "color": "#505c5c"
     },
     {
       "name": "Factory Block",
@@ -10001,8 +9973,7 @@ var colorpalette={
       "name": "Fibrous Taint",
       "uid": "Thaumcraft:blockTaintFibres",
       "meta": 0,
-      "color": "#4b4b4b",
-      "alpha": 0.60784316
+      "color": "#4b4b4b"
     },
     {
       "name": "Fibrous Taint",
@@ -10117,8 +10088,7 @@ var colorpalette={
       "name": "Fire Water",
       "uid": "EnderIO:blockFire_water",
       "meta": 0,
-      "color": "#8a490f",
-      "alpha": 0.54901963
+      "color": "#8a490f"
     },
     {
       "name": "Firefly",
@@ -10474,8 +10444,7 @@ var colorpalette={
       "name": "Flux Gas",
       "uid": "Thaumcraft:blockFluxGas",
       "meta": 0,
-      "color": "#831aa3",
-      "alpha": 0.31764707
+      "color": "#831aa3"
     },
     {
       "name": "Flux Gate",
@@ -10487,8 +10456,7 @@ var colorpalette={
       "name": "Flux Goo",
       "uid": "Thaumcraft:blockFluxGoo",
       "meta": 0,
-      "color": "#831aa3",
-      "alpha": 0.7294118
+      "color": "#831aa3"
     },
     {
       "name": "Flux Scrubber",
@@ -10783,113 +10751,97 @@ var colorpalette={
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 0,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 1,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 2,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 3,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 4,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 5,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 6,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 7,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 8,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 9,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 10,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 11,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 12,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 13,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 14,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 15,
-      "color": "#4f5c5b",
-      "alpha": 0.99607843
+      "color": "#4f5c5b"
     },
     {
       "name": "Gaia Guardian\u0027s Head",
@@ -10931,8 +10883,7 @@ var colorpalette={
       "name": "Gelid Cryotheum",
       "uid": "ThermalFoundation:FluidCryotheum",
       "meta": 0,
-      "color": "#23befa",
-      "alpha": 0.8980392
+      "color": "#23befa"
     },
     {
       "name": "Generator",
@@ -12137,8 +12088,7 @@ var colorpalette={
       "name": "Green Force Field",
       "uid": "TwilightForest:tile.ForceField",
       "meta": 3,
-      "color": "#89e701",
-      "alpha": 0.52156866
+      "color": "#89e701"
     },
     {
       "name": "Green Glowshroom",
@@ -12929,8 +12879,7 @@ var colorpalette={
       "name": "Hovering Hourglass",
       "uid": "Botania:hourglass",
       "meta": 0,
-      "color": "#b1bdff",
-      "alpha": 0.2
+      "color": "#b1bdff"
     },
     {
       "name": "Huge Mushgloom",
@@ -12997,8 +12946,7 @@ var colorpalette={
       "name": "IC2 Hot Coolant",
       "uid": "IC2:fluidHotCoolant",
       "meta": 0,
-      "color": "#b32733",
-      "alpha": 0.7764706
+      "color": "#b32733"
     },
     {
       "name": "IC2 LV Consumer",
@@ -13515,15 +13463,13 @@ var colorpalette={
       "name": "Industrial Technical Block",
       "uid": "chisel:technical3",
       "meta": 0,
-      "color": "#515e5d",
-      "alpha": 0.99607843
+      "color": "#515e5d"
     },
     {
       "name": "Industrial Technical Block",
       "uid": "chisel:technical3",
       "meta": 1,
-      "color": "#4f5b5b",
-      "alpha": 0.99607843
+      "color": "#4f5b5b"
     },
     {
       "name": "Ineffable Glass",
@@ -14242,15 +14188,13 @@ var colorpalette={
       "name": "Keystone Door",
       "uid": "arsmagica2:keystoneDoor",
       "meta": 0,
-      "color": "#545e78",
-      "alpha": 0.7607843
+      "color": "#545e78"
     },
     {
       "name": "Keystone Receptacle",
       "uid": "arsmagica2:keystoneReceptacle",
       "meta": 0,
-      "color": "#737a9e",
-      "alpha": 0.9882353
+      "color": "#737a9e"
     },
     {
       "name": "Keystone Trapdoor",
@@ -16126,113 +16070,97 @@ var colorpalette={
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 0,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 1,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 2,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 3,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 4,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 5,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 6,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 7,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 8,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 9,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 10,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 11,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 12,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 13,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 14,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 15,
-      "color": "#525f5e",
-      "alpha": 0.99607843
+      "color": "#525f5e"
     },
     {
       "name": "Laser",
@@ -16262,8 +16190,7 @@ var colorpalette={
       "name": "Laser Focus Matrix",
       "uid": "MekanismGenerators:ReactorGlass",
       "meta": 1,
-      "color": "#8f8c8a",
-      "alpha": 0.45882353
+      "color": "#8f8c8a"
     },
     {
       "name": "Laser Tractor Beam",
@@ -16305,50 +16232,43 @@ var colorpalette={
       "name": "Lavastone",
       "uid": "chisel:lavastone",
       "meta": 0,
-      "color": "#8f776c",
-      "alpha": 0.85882354
+      "color": "#8f776c"
     },
     {
       "name": "Lavastone",
       "uid": "chisel:lavastone",
       "meta": 1,
-      "color": "#41271b",
-      "alpha": 0.85882354
+      "color": "#41271b"
     },
     {
       "name": "Lavastone",
       "uid": "chisel:lavastone",
       "meta": 2,
-      "color": "#8d7a72",
-      "alpha": 0.79607844
+      "color": "#8d7a72"
     },
     {
       "name": "Lavastone",
       "uid": "chisel:lavastone",
       "meta": 3,
-      "color": "#76665f",
-      "alpha": 0.7372549
+      "color": "#76665f"
     },
     {
       "name": "Lavastone",
       "uid": "chisel:lavastone",
       "meta": 4,
-      "color": "#867f7d",
-      "alpha": 0.93333334
+      "color": "#867f7d"
     },
     {
       "name": "Lavastone",
       "uid": "chisel:lavastone",
       "meta": 5,
-      "color": "#757575",
-      "alpha": 0.85882354
+      "color": "#757575"
     },
     {
       "name": "Lavastone",
       "uid": "chisel:lavastone",
       "meta": 6,
-      "color": "#858585",
-      "alpha": 0.93333334
+      "color": "#858585"
     },
     {
       "name": "Lavastone",
@@ -16667,8 +16587,7 @@ var colorpalette={
       "name": "Light Gray Shimmering Mushroom",
       "uid": "Botania:mushroom",
       "meta": 8,
-      "color": "#b5a99c",
-      "alpha": 0.99607843
+      "color": "#b5a99c"
     },
     {
       "name": "Light Gray Stained Clay",
@@ -17212,15 +17131,13 @@ var colorpalette={
       "name": "Liquid Etherium",
       "uid": "arsmagica2:liquidEssence",
       "meta": 0,
-      "color": "#b7daff",
-      "alpha": 0.7019608
+      "color": "#b7daff"
     },
     {
       "name": "Liquid Glass",
       "uid": "Forestry:fluid.glass",
       "meta": 0,
-      "color": "#a3a3a3",
-      "alpha": 0.7019608
+      "color": "#a3a3a3"
     },
     {
       "name": "Liquid Heat Exchanger",
@@ -17671,8 +17588,7 @@ var colorpalette={
       "name": "Magic Pencil",
       "uid": "OpenBlocks:imaginary",
       "meta": 0,
-      "color": "#000000",
-      "alpha": 0.12156863
+      "color": "#000000"
     },
     {
       "name": "Magic Wall",
@@ -17862,8 +17778,7 @@ var colorpalette={
       "name": "Mandrake",
       "uid": "witchery:mandrake",
       "meta": 0,
-      "color": "#0d5d06",
-      "alpha": 0.6666667
+      "color": "#0d5d06"
     },
     {
       "name": "Mangrove Leaves",
@@ -19206,8 +19121,7 @@ var colorpalette={
       "name": "Minedrake",
       "uid": "witchery:mindrake",
       "meta": 0,
-      "color": "#175112",
-      "alpha": 0.64705884
+      "color": "#175112"
     },
     {
       "name": "Miner",
@@ -19397,8 +19311,7 @@ var colorpalette={
       "name": "Molten Glass",
       "uid": "TConstruct:fluid.molten.glass",
       "meta": 0,
-      "color": "#9feefd",
-      "alpha": 0.7019608
+      "color": "#9feefd"
     },
     {
       "name": "Molten Gold",
@@ -19669,8 +19582,7 @@ var colorpalette={
       "name": "Mossy Temple Block",
       "uid": "chisel:mossy_templeblock",
       "meta": 3,
-      "color": "#495655",
-      "alpha": 0.99607843
+      "color": "#495655"
     },
     {
       "name": "Mossy Temple Block",
@@ -19878,8 +19790,7 @@ var colorpalette={
       "name": "Mushgloom",
       "uid": "TwilightForest:tile.TFPlant",
       "meta": 9,
-      "color": "#b8a86a",
-      "alpha": 0.92941177
+      "color": "#b8a86a"
     },
     {
       "name": "Mushroom",
@@ -20700,8 +20611,7 @@ var colorpalette={
       "name": "Orange Force Field",
       "uid": "TwilightForest:tile.ForceField",
       "meta": 2,
-      "color": "#ff5b02",
-      "alpha": 0.33333334
+      "color": "#ff5b02"
     },
     {
       "name": "Orange Lamp",
@@ -21386,8 +21296,7 @@ var colorpalette={
       "name": "Passenger Pickup Rail",
       "uid": "MineFactoryReloaded:rail.passenger.pickup",
       "meta": 0,
-      "color": "#625f65",
-      "alpha": 0.9411765
+      "color": "#625f65"
     },
     {
       "name": "Path",
@@ -21399,8 +21308,7 @@ var colorpalette={
       "name": "Path Mark",
       "uid": "BuildCraft|Core:pathMarkerBlock",
       "meta": 0,
-      "color": "#8d9958",
-      "alpha": 0.99607843
+      "color": "#8d9958"
     },
     {
       "name": "Pattern Chest",
@@ -21454,8 +21362,7 @@ var colorpalette={
       "name": "Peony",
       "uid": "minecraft:double_plant",
       "meta": 5,
-      "color": "#85868e",
-      "alpha": 0.9882353
+      "color": "#85868e"
     },
     {
       "name": "Perditio Imbued Fire",
@@ -21588,8 +21495,7 @@ var colorpalette={
       "name": "Pink Force Field",
       "uid": "TwilightForest:tile.ForceField",
       "meta": 1,
-      "color": "#fa057e",
-      "alpha": 0.42745098
+      "color": "#fa057e"
     },
     {
       "name": "Pink Generator",
@@ -21644,8 +21550,7 @@ var colorpalette={
       "name": "Pink Shimmering Mushroom",
       "uid": "Botania:mushroom",
       "meta": 6,
-      "color": "#e09188",
-      "alpha": 0.9882353
+      "color": "#e09188"
     },
     {
       "name": "Pink Slime",
@@ -21897,8 +21802,7 @@ var colorpalette={
       "name": "Portal",
       "uid": "enhancedportals:portal",
       "meta": 0,
-      "color": "#1a53ae",
-      "alpha": 0.74509805
+      "color": "#1a53ae"
     },
     {
       "name": "Portal",
@@ -22198,8 +22102,7 @@ var colorpalette={
       "name": "Primal Mana",
       "uid": "ThermalFoundation:FluidMana",
       "meta": 0,
-      "color": "#3b0070",
-      "alpha": 0.9019608
+      "color": "#3b0070"
     },
     {
       "name": "Prismarine",
@@ -22271,8 +22174,7 @@ var colorpalette={
       "name": "Programming Table",
       "uid": "BuildCraft|Silicon:laserTableBlock",
       "meta": 4,
-      "color": "#343435",
-      "alpha": 0.972549
+      "color": "#343435"
     },
     {
       "name": "Project Bench",
@@ -22701,7 +22603,7 @@ var colorpalette={
       "color": "#a579a5"
     },
     {
-      "name": "QED (Quantum Entanglement Doohicky)",
+      "name": "QED (Quantum Ender Diviner)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
@@ -22807,8 +22709,7 @@ var colorpalette={
       "name": "Rainbow Oak Sapling",
       "uid": "TwilightForest:tile.TFSapling",
       "meta": 9,
-      "color": "#626b4b",
-      "alpha": 0.95686275
+      "color": "#626b4b"
     },
     {
       "name": "Rainmaker",
@@ -22923,8 +22824,7 @@ var colorpalette={
       "name": "Reactor Glass",
       "uid": "MekanismGenerators:ReactorGlass",
       "meta": 0,
-      "color": "#a5a3a2",
-      "alpha": 0.36862746
+      "color": "#a5a3a2"
     },
     {
       "name": "Reactor Logic Adapter",
@@ -23703,8 +23603,7 @@ var colorpalette={
       "name": "Resonant Ender",
       "uid": "ThermalFoundation:FluidEnder",
       "meta": 0,
-      "color": "#083b3b",
-      "alpha": 0.8509804
+      "color": "#083b3b"
     },
     {
       "name": "Resonant Energy Cell",
@@ -23809,8 +23708,7 @@ var colorpalette={
       "name": "Road Lines",
       "uid": "chisel:road_line",
       "meta": 1,
-      "color": "#ac9843",
-      "alpha": 0.972549
+      "color": "#ac9843"
     },
     {
       "name": "Road Lines",
@@ -24999,8 +24897,7 @@ var colorpalette={
       "name": "Sickly Twilight Oak Sapling",
       "uid": "TwilightForest:tile.TFSapling",
       "meta": 0,
-      "color": "#496831",
-      "alpha": 0.95686275
+      "color": "#496831"
     },
     {
       "name": "Sign",
@@ -25930,8 +25827,7 @@ var colorpalette={
       "name": "Spell-Sealed Door",
       "uid": "arsmagica2:spellSealedDoor",
       "meta": 0,
-      "color": "#545e78",
-      "alpha": 0.7607843
+      "color": "#545e78"
     },
     {
       "name": "Spinning Wheel",
@@ -27521,22 +27417,19 @@ var colorpalette={
       "name": "Steam",
       "uid": "IC2:fluidSteam",
       "meta": 0,
-      "color": "#bbbbbb",
-      "alpha": 0.95686275
+      "color": "#bbbbbb"
     },
     {
       "name": "Steam",
       "uid": "MineFactoryReloaded:steam.still",
       "meta": 0,
-      "color": "#b2b2b2",
-      "alpha": 0.8
+      "color": "#b2b2b2"
     },
     {
       "name": "Steam",
       "uid": "ThermalFoundation:FluidSteam",
       "meta": 0,
-      "color": "#b2b2b2",
-      "alpha": 0.8
+      "color": "#b2b2b2"
     },
     {
       "name": "Steam Consumer",
@@ -27866,8 +27759,7 @@ var colorpalette={
       "name": "String",
       "uid": "minecraft:tripwire",
       "meta": 0,
-      "color": "#818181",
-      "alpha": 0.41960785
+      "color": "#818181"
     },
     {
       "name": "Strongbox",
@@ -27984,8 +27876,7 @@ var colorpalette={
       "name": "Superheated Steam",
       "uid": "IC2:fluidSuperheatedSteam",
       "meta": 0,
-      "color": "#c9d0d0",
-      "alpha": 0.95686275
+      "color": "#c9d0d0"
     },
     {
       "name": "Superheating Element",
@@ -28209,8 +28100,7 @@ var colorpalette={
       "name": "Tarma Root",
       "uid": "arsmagica2:TarmaRoot",
       "meta": 0,
-      "color": "#715e21",
-      "alpha": 0.9764706
+      "color": "#715e21"
     },
     {
       "name": "Teak Wood Slab",
@@ -28390,8 +28280,7 @@ var colorpalette={
       "name": "Technical Block",
       "uid": "chisel:technical4",
       "meta": 5,
-      "color": "#52605f",
-      "alpha": 0.99607843
+      "color": "#52605f"
     },
     {
       "name": "Technical Block",
@@ -28549,8 +28438,7 @@ var colorpalette={
       "name": "Temple Block",
       "uid": "chisel:templeblock",
       "meta": 3,
-      "color": "#485453",
-      "alpha": 0.99607843
+      "color": "#485453"
     },
     {
       "name": "Temple Block",
@@ -29184,8 +29072,7 @@ var colorpalette={
       "name": "Torchberry Plant",
       "uid": "TwilightForest:tile.TFPlant",
       "meta": 13,
-      "color": "#a8ae66",
-      "alpha": 0.972549
+      "color": "#a8ae66"
     },
     {
       "name": "Torment Portal",
@@ -30001,8 +29888,7 @@ var colorpalette={
       "name": "Violet Force Field",
       "uid": "TwilightForest:tile.ForceField",
       "meta": 0,
-      "color": "#5c1074",
-      "alpha": 0.29803923
+      "color": "#5c1074"
     },
     {
       "name": "Vis Charge Relay",
@@ -30026,8 +29912,7 @@ var colorpalette={
       "name": "Void Bramble",
       "uid": "witchery:voidbramble",
       "meta": 0,
-      "color": "#50263a",
-      "alpha": 0.99215686
+      "color": "#50263a"
     },
     {
       "name": "Void Jar",
@@ -30106,8 +29991,7 @@ var colorpalette={
       "name": "Warded Glass",
       "uid": "Thaumcraft:blockCosmeticOpaque",
       "meta": 2,
-      "color": "#798ca2",
-      "alpha": 0.42745098
+      "color": "#798ca2"
     },
     {
       "name": "Warded Jar",
@@ -30120,15 +30004,13 @@ var colorpalette={
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 0,
-      "color": "#c7c405",
-      "alpha": 0.9882353
+      "color": "#c7c405"
     },
     {
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 1,
-      "color": "#197a0d",
-      "alpha": 0.9764706
+      "color": "#197a0d"
     },
     {
       "name": "Warning Sign",
@@ -30164,8 +30046,7 @@ var colorpalette={
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 7,
-      "color": "#bc931c",
-      "alpha": 0.9882353
+      "color": "#bc931c"
     },
     {
       "name": "Warning Sign",
@@ -30189,15 +30070,13 @@ var colorpalette={
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 11,
-      "color": "#9b9b9b",
-      "alpha": 0.9411765
+      "color": "#9b9b9b"
     },
     {
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 12,
-      "color": "#b5b5b5",
-      "alpha": 0.9254902
+      "color": "#b5b5b5"
     },
     {
       "name": "Warning Sign",
@@ -30243,8 +30122,7 @@ var colorpalette={
       "name": "Water Artichoke",
       "uid": "witchery:artichoke",
       "meta": 0,
-      "color": "#145a3e",
-      "alpha": 0.24313726
+      "color": "#145a3e"
     },
     {
       "name": "Water Crystal Cluster",
@@ -30275,50 +30153,43 @@ var colorpalette={
       "name": "Waterstone",
       "uid": "chisel:waterstone",
       "meta": 0,
-      "color": "#7e7e7e",
-      "alpha": 0.7764706
+      "color": "#7e7e7e"
     },
     {
       "name": "Waterstone",
       "uid": "chisel:waterstone",
       "meta": 1,
-      "color": "#212121",
-      "alpha": 0.76862746
+      "color": "#212121"
     },
     {
       "name": "Waterstone",
       "uid": "chisel:waterstone",
       "meta": 2,
-      "color": "#7f7f7f",
-      "alpha": 0.76862746
+      "color": "#7f7f7f"
     },
     {
       "name": "Waterstone",
       "uid": "chisel:waterstone",
       "meta": 3,
-      "color": "#6a6a6a",
-      "alpha": 0.69411767
+      "color": "#6a6a6a"
     },
     {
       "name": "Waterstone",
       "uid": "chisel:waterstone",
       "meta": 4,
-      "color": "#818181",
-      "alpha": 0.9254902
+      "color": "#818181"
     },
     {
       "name": "Waterstone",
       "uid": "chisel:waterstone",
       "meta": 5,
-      "color": "#737373",
-      "alpha": 0.8666667
+      "color": "#737373"
     },
     {
       "name": "Waterstone",
       "uid": "chisel:waterstone",
       "meta": 6,
-      "color": "#858585",
-      "alpha": 0.93333334
+      "color": "#858585"
     },
     {
       "name": "Weather Controller",
@@ -30521,8 +30392,7 @@ var colorpalette={
       "name": "Wild Bramble",
       "uid": "witchery:bramble",
       "meta": 1,
-      "color": "#463625",
-      "alpha": 0.99215686
+      "color": "#463625"
     },
     {
       "name": "Willow Button",
@@ -30626,8 +30496,7 @@ var colorpalette={
       "name": "Wispy Cotton",
       "uid": "witchery:somniancotton",
       "meta": 0,
-      "color": "#5f814d",
-      "alpha": 0.92941177
+      "color": "#5f814d"
     },
     {
       "name": "Witch\u0027s Cauldron",
@@ -30699,8 +30568,7 @@ var colorpalette={
       "name": "Wizard\u0027s Chalk Rune",
       "uid": "arsmagica2:wizardChalk",
       "meta": 0,
-      "color": "#f4fdff",
-      "alpha": 0.49019608
+      "color": "#f4fdff"
     },
     {
       "name": "Wolf Altar",
@@ -31060,8 +30928,7 @@ var colorpalette={
       "name": "Zephyrean Aerotheum",
       "uid": "ThermalFoundation:FluidAerotheum",
       "meta": 0,
-      "color": "#ada87a",
-      "alpha": 0.69803923
+      "color": "#ada87a"
     },
     {
       "name": "Zombie Generator",
@@ -31246,25 +31113,25 @@ var colorpalette={
     {
       "name": "factorization.factoryBlock.null.name",
       "uid": "factorization:FzBlock",
-      "meta": 6660,
+      "meta": 2720,
       "color": "#000000"
     },
     {
       "name": "factorization.factoryBlock.null.name",
       "uid": "factorization:FzBlock",
-      "meta": 6661,
+      "meta": 2721,
       "color": "#000000"
     },
     {
       "name": "factorization.factoryBlock.null.name",
       "uid": "factorization:FzBlock",
-      "meta": 6662,
+      "meta": 2722,
       "color": "#000000"
     },
     {
       "name": "factorization.factoryBlock.null.name",
       "uid": "factorization:FzBlock",
-      "meta": 6664,
+      "meta": 2724,
       "color": "#000000"
     },
     {
@@ -31731,8 +31598,7 @@ var colorpalette={
       "name": "tile.witchery:brewgas.name",
       "uid": "witchery:brewgas",
       "meta": 0,
-      "color": "#c6c6c6",
-      "alpha": 0.5411765
+      "color": "#c6c6c6"
     },
     {
       "name": "tile.witchery:brewliquid.name",
