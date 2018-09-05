@@ -3,7 +3,7 @@
     "Lerockit": {
       "name": "Lerockit",
       "lastVersionId": "1.7.10-Forge10.13.4.1614-1.7.10",
-      "javaArgs": "-Xmx7G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn896M"
+      "javaArgs": "-Xmx8G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn1024M"
     },
     "Forge": {
       "name": "Forge",

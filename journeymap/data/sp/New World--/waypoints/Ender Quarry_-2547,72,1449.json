@@ -1,0 +1,17 @@
+{
+  "id": "Ender Quarry_-2547,72,1449",
+  "name": "Ender Quarry",
+  "icon": "waypoint-normal.png",
+  "x": -2547,
+  "y": 72,
+  "z": 1449,
+  "r": 102,
+  "g": 5,
+  "b": 179,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
